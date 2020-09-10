@@ -1,0 +1,14 @@
+A quick note about the data files:
+
+--state_hospitals_part1.csv  is generated from the Arkansas Department of Health (ADH) daily Twitter slide that provides topline information about number of cases, deaths and hospitalizations.
+That Tweet typically comes out between 2 pm - 3 pm. We try to have this data updated within an hour of release of that slide.
+This dataset feeds to Arkansascovid.com and updates the homepage graphics: main panel, Statewide Case Data, Statewide Death Data, Statewide Hospitalization Data.
+
+--all_state_and_hospitals.csv is generated from the daily ADH dashboard data feed, which typically arrives after 5:30 p.m. This file typically is updated by 9 p.m.
+
+--county_state_master.csv is generated from the daily ADH dashboard data feed, which typically arrives after 5:30 p.m. This file typically is updated by 9 p.m. 
+This dataset feeds to Arkansascovid.com and updates the homepage graphics: Changes Today
+
+More details to come. Thanks. 
+
+Rob Wells
