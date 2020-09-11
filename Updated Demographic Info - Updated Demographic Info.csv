@@ -1,0 +1,1941 @@
+date,detail,sub_detail,en_espanol,cases,new.cases,deaths,new.deaths,total state population,pct state population,"Cases per 10,000","Deaths per 10,000"
+9/10/2020,Age,0-17,,8450,50,0,0,,,,
+9/10/2020,Age,18-24,,9995,122,1,0,,,,
+9/10/2020,Age,25-44,,23032,93,44,1,,,,
+9/10/2020,Age,45-64,,17240,70,220,2,,,,
+9/10/2020,Age,65+,,8087,63,675,9,,,,
+9/10/2020,Facility Type,Broader Community,Comunidad más amplia,55818,347,573,7,,,,
+9/10/2020,Facility Type,Corrections,Intalación correccional,7361,5,39,1,,,,
+9/10/2020,Facility Type,Nursing Home,Asilo de ancianos,3625,46,328,4,,,,
+9/10/2020,Gender,Female,Mujeres,32454,205,NA,NA,,,,
+9/10/2020,Gender,Gender Unknown,Género desconocidos,275,-2,NA,NA,,,,
+9/10/2020,Gender,Male,Hombres,34075,167,NA,NA,,,,
+9/10/2020,Race or Ethnicity,African American,Afroamericano,14867,130,216,4,473795,15.70%,313.7854979,4.558933716
+9/10/2020,Race or Ethnicity,Asian,Asiático,889,33,13,2,51303,1.70%,173.2842134,2.533964875
+9/10/2020,Race or Ethnicity,Hispanic,Hispano,13845,40,75,0,232371,7.70%,595.8144519,3.227597248
+9/10/2020,Race or Ethnicity,Multi-Racial,Multirracial,545,18,7,0,66392,2.20%,82.0882034,1.054343897
+9/10/2020,Race or Ethnicity,Native American,Nativo Americano,213,4,3,0,30178,1.00%,70.58121811,0.9941016635
+9/10/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2379,5,46,0,12071,0.40%,1970.839201,38.10786182
+9/10/2020,Race or Ethnicity,White,Blanco,37740,340,599,5,2387083,79.10%,158.1009123,2.509338804
+9/9/2020,Age,0-17,,8400,38,0,0,,,,
+9/9/2020,Age,18-24,,9873,99,1,0,,,,
+9/9/2020,Age,25-44,,22939,109,43,1,,,,
+9/9/2020,Age,45-64,,17170,93,218,2,,,,
+9/9/2020,Age,65+,,8024,46,666,8,,,,
+9/9/2020,Facility Type,Broader Community,Comunidad más amplia,55471,340,566,4,,,,
+9/9/2020,Facility Type,Corrections,Intalación correccional,7356,12,38,0,,,,
+9/9/2020,Facility Type,Nursing Home,Asilo de ancianos,3579,33,324,7,,,,
+9/9/2020,Gender,Female,Mujeres,32249,212,NA,NA,,,,
+9/9/2020,Gender,Gender Unknown,Género desconocidos,277,6,NA,NA,,,,
+9/9/2020,Gender,Male,Hombres,33880,167,NA,NA,,,,
+9/9/2020,Race or Ethnicity,African American,Afroamericano,14737,138,212,6,473795,15.70%,311.0416952,4.474509018
+9/9/2020,Race or Ethnicity,Asian,Asiático,856,2,11,0,51303,1.70%,166.851841,2.144124125
+9/9/2020,Race or Ethnicity,Hispanic,Hispano,13805,45,75,1,232371,7.70%,594.0930667,3.227597248
+9/9/2020,Race or Ethnicity,Multi-Racial,Multirracial,527,5,7,0,66392,2.20%,79.37703338,1.054343897
+9/9/2020,Race or Ethnicity,Native American,Nativo Americano,209,2,3,0,30178,1.00%,69.25574922,0.9941016635
+9/9/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2374,2,46,0,12071,0.40%,1966.697042,38.10786182
+9/9/2020,Race or Ethnicity,White,Blanco,37400,443,594,19,2387083,79.10%,156.6765797,2.488392737
+9/8/2020,Age,0-17,,8362,31,0,0,,,,
+9/8/2020,Age,18-24,,9774,64,1,0,,,,
+9/8/2020,Age,25-44,,22830,65,42,0,,,,
+9/8/2020,Age,45-64,,17077,75,216,5,,,,
+9/8/2020,Age,65+,,7978,59,658,4,,,,
+9/8/2020,Facility Type,Broader Community,Comunidad más amplia,55131,217,562,8,,,,
+9/8/2020,Facility Type,Corrections,Intalación correccional,7344,3,38,0,,,,
+9/8/2020,Facility Type,Nursing Home,Asilo de ancianos,3546,74,317,1,,,,
+9/8/2020,Gender,Female,Mujeres,32037,175,NA,NA,,,,
+9/8/2020,Gender,Gender Unknown,Género desconocidos,271,-1,NA,NA,,,,
+9/8/2020,Gender,Male,Hombres,33713,120,NA,NA,,,,
+9/8/2020,Race or Ethnicity,African American,Afroamericano,14599,73,206,1,473795,15.70%,308.1290432,4.34787197
+9/8/2020,Race or Ethnicity,Asian,Asiático,854,1,11,0,51303,1.70%,166.4620003,2.144124125
+9/8/2020,Race or Ethnicity,Hispanic,Hispano,13760,44,74,2,232371,7.70%,592.1565083,3.184562618
+9/8/2020,Race or Ethnicity,Multi-Racial,Multirracial,522,0,7,0,66392,2.20%,78.62393059,1.054343897
+9/8/2020,Race or Ethnicity,Native American,Nativo Americano,207,3,3,0,30178,1.00%,68.59301478,0.9941016635
+9/8/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2372,0,46,0,12071,0.40%,1965.040179,38.10786182
+9/8/2020,Race or Ethnicity,White,Blanco,36957,281,575,5,2387083,79.10%,154.8207582,2.408797683
+9/7/2020,Age,0-17,,8331,58,0,0,,,,
+9/7/2020,Age,18-24,,9710,83,1,0,,,,
+9/7/2020,Age,25-44,,22765,81,42,0,,,,
+9/7/2020,Age,45-64,,17002,60,211,1,,,,
+9/7/2020,Age,65+,,7919,68,654,13,,,,
+9/7/2020,Facility Type,Broader Community,Comunidad más amplia,54914,318,554,9,,,,
+9/7/2020,Facility Type,Corrections,Intalación correccional,7341,8,38,0,,,,
+9/7/2020,Facility Type,Nursing Home,Asilo de ancianos,3472,24,316,5,,,,
+9/7/2020,Gender,Female,Mujeres,31862,182,NA,NA,,,,
+9/7/2020,Gender,Gender Unknown,Género desconocidos,272,10,NA,NA,,,,
+9/7/2020,Gender,Male,Hombres,33593,158,NA,NA,,,,
+9/7/2020,Race or Ethnicity,African American,Afroamericano,14526,87,205,0,473795,15.70%,306.5882924,4.326765795
+9/7/2020,Race or Ethnicity,Asian,Asiático,853,3,11,0,51303,1.70%,166.2670799,2.144124125
+9/7/2020,Race or Ethnicity,Hispanic,Hispano,13716,30,72,1,232371,7.70%,590.2629846,3.098493358
+9/7/2020,Race or Ethnicity,Multi-Racial,Multirracial,522,1,7,0,66392,2.20%,78.62393059,1.054343897
+9/7/2020,Race or Ethnicity,Native American,Nativo Americano,204,1,3,0,30178,1.00%,67.59891312,0.9941016635
+9/7/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2372,0,46,0,12071,0.40%,1965.040179,38.10786182
+9/7/2020,Race or Ethnicity,White,Blanco,36676,201,570,13,2387083,79.10%,153.6435893,2.387851616
+9/6/2020,Age,0-17,,8273,90,0,0,,,,
+9/6/2020,Age,18-24,,9627,154,1,0,,,,
+9/6/2020,Age,25-44,,22684,200,42,0,,,,
+9/6/2020,Age,45-64,,16942,150,210,3,,,,
+9/6/2020,Age,65+,,7851,93,641,9,,,,
+9/6/2020,Facility Type,Broader Community,Comunidad más amplia,54596,659,545,3,,,,
+9/6/2020,Facility Type,Corrections,Intalación correccional,7333,10,38,0,,,,
+9/6/2020,Facility Type,Nursing Home,Asilo de ancianos,3448,18,311,9,,,,
+9/6/2020,Gender,Female,Mujeres,31680,372,NA,NA,,,,
+9/6/2020,Gender,Gender Unknown,Género desconocidos,262,14,NA,NA,,,,
+9/6/2020,Gender,Male,Hombres,33435,301,NA,NA,,,,
+9/6/2020,Race or Ethnicity,African American,Afroamericano,14439,126,205,1,473795,15.70%,304.7520552,4.326765795
+9/6/2020,Race or Ethnicity,Asian,Asiático,850,3,11,0,51303,1.70%,165.6823188,2.144124125
+9/6/2020,Race or Ethnicity,Hispanic,Hispano,13686,62,71,0,232371,7.70%,588.9719457,3.055458728
+9/6/2020,Race or Ethnicity,Multi-Racial,Multirracial,521,-1,7,0,66392,2.20%,78.47331004,1.054343897
+9/6/2020,Race or Ethnicity,Native American,Nativo Americano,203,2,3,0,30178,1.00%,67.26754589,0.9941016635
+9/6/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2372,-1,46,0,12071,0.40%,1965.040179,38.10786182
+9/6/2020,Race or Ethnicity,White,Blanco,36475,317,557,10,2387083,79.10%,152.8015574,2.333391843
+9/5/2020,Age,0-17,,8183,73,0,0,,,,
+9/5/2020,Age,18-24,,9473,207,1,0,,,,
+9/5/2020,Age,25-44,,22484,99,42,0,,,,
+9/5/2020,Age,45-64,,16792,79,207,1,,,,
+9/5/2020,Age,65+,,7758,57,632,8,,,,
+9/5/2020,Facility Type,Broader Community,Comunidad más amplia,53937,451,542,2,,,,
+9/5/2020,Facility Type,Corrections,Intalación correccional,7323,30,38,0,,,,
+9/5/2020,Facility Type,Nursing Home,Asilo de ancianos,3430,34,302,7,,,,
+9/5/2020,Gender,Female,Mujeres,31308,291,NA,NA,,,,
+9/5/2020,Gender,Gender Unknown,Género desconocidos,248,1,NA,NA,,,,
+9/5/2020,Gender,Male,Hombres,33134,223,NA,NA,,,,
+9/5/2020,Race or Ethnicity,African American,Afroamericano,14313,145,204,0,473795,15.70%,302.0926772,4.305659621
+9/5/2020,Race or Ethnicity,Asian,Asiático,847,8,11,0,51303,1.70%,165.0975576,2.144124125
+9/5/2020,Race or Ethnicity,Hispanic,Hispano,13624,61,71,1,232371,7.70%,586.3037987,3.055458728
+9/5/2020,Race or Ethnicity,Multi-Racial,Multirracial,522,4,7,0,66392,2.20%,78.62393059,1.054343897
+9/5/2020,Race or Ethnicity,Native American,Nativo Americano,201,1,3,0,30178,1.00%,66.60481145,0.9941016635
+9/5/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2373,1,46,0,12071,0.40%,1965.868611,38.10786182
+9/5/2020,Race or Ethnicity,White,Blanco,36158,429,547,4,2387083,79.10%,151.4735767,2.291499709
+9/4/2020,Age,0-17,,8110,93,0,0,,,,
+9/4/2020,Age,18-24,,9266,369,1,0,,,,
+9/4/2020,Age,25-44,,22385,228,42,0,,,,
+9/4/2020,Age,45-64,,16713,222,206,2,,,,
+9/4/2020,Age,65+,,7701,182,624,10,,,,
+9/4/2020,Facility Type,Broader Community,Comunidad más amplia,53486,940,540,10,,,,
+9/4/2020,Facility Type,Corrections,Intalación correccional,7293,123,38,0,,,,
+9/4/2020,Facility Type,Nursing Home,Asilo de ancianos,3396,31,295,2,,,,
+9/4/2020,Gender,Female,Mujeres,31017,542,NA,NA,,,,
+9/4/2020,Gender,Gender Unknown,Género desconocidos,247,22,NA,NA,,,,
+9/4/2020,Gender,Male,Hombres,32911,530,NA,NA,,,,
+9/4/2020,Race or Ethnicity,African American,Afroamericano,14168,185,204,4,473795,15.70%,299.0322819,4.305659621
+9/4/2020,Race or Ethnicity,Asian,Asiático,839,8,11,0,51303,1.70%,163.5381946,2.144124125
+9/4/2020,Race or Ethnicity,Hispanic,Hispano,13563,51,70,0,232371,7.70%,583.6786862,3.012424098
+9/4/2020,Race or Ethnicity,Multi-Racial,Multirracial,518,2,7,0,66392,2.20%,78.02144837,1.054343897
+9/4/2020,Race or Ethnicity,Native American,Nativo Americano,200,4,3,0,30178,1.00%,66.27344423,0.9941016635
+9/4/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2372,1,46,0,12071,0.40%,1965.040179,38.10786182
+9/4/2020,Race or Ethnicity,White,Blanco,35729,621,543,6,2387083,79.10%,149.6764042,2.274742856
+9/3/2020,Age,0-17,,8017,119,0,0,,,,
+9/3/2020,Age,18-24,,8897,342,1,0,,,,
+9/3/2020,Age,25-44,,22157,235,42,1,,,,
+9/3/2020,Age,45-64,,16491,167,204,2,,,,
+9/3/2020,Age,65+,,7519,106,614,17,,,,
+9/3/2020,Facility Type,Broader Community,Comunidad más amplia,52546,923,530,11,,,,
+9/3/2020,Facility Type,Corrections,Intalación correccional,7170,23,38,0,,,,
+9/3/2020,Facility Type,Nursing Home,Asilo de ancianos,3365,23,293,9,,,,
+9/3/2020,Gender,Female,Mujeres,30475,549,NA,NA,,,,
+9/3/2020,Gender,Gender Unknown,Género desconocidos,225,21,NA,NA,,,,
+9/3/2020,Gender,Male,Hombres,32381,399,NA,NA,,,,
+9/3/2020,Race or Ethnicity,African American,Afroamericano,13983,119,200,0,473795,15.70%,295.1276396,4.221234922
+9/3/2020,Race or Ethnicity,Asian,Asiático,831,8,11,0,51303,1.70%,161.9788316,2.144124125
+9/3/2020,Race or Ethnicity,Hispanic,Hispano,13512,81,70,4,232371,7.70%,581.4839201,3.012424098
+9/3/2020,Race or Ethnicity,Multi-Racial,Multirracial,516,3,7,-1,66392,2.20%,77.72020725,1.054343897
+9/3/2020,Race or Ethnicity,Native American,Nativo Americano,196,5,3,0,30178,1.00%,64.94797535,0.9941016635
+9/3/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2371,2,46,0,12071,0.40%,1964.211747,38.10786182
+9/3/2020,Race or Ethnicity,White,Blanco,35108,457,537,11,2387083,79.10%,147.0749027,2.249607575
+9/2/2020,Age,0-17,,7898,66,0,0,,,,
+9/2/2020,Age,18-24,,8555,209,1,1,,,,
+9/2/2020,Age,25-44,,21922,130,41,2,,,,
+9/2/2020,Age,45-64,,16324,128,202,10,,,,
+9/2/2020,Age,65+,,7413,82,597,14,,,,
+9/2/2020,Facility Type,Broader Community,Comunidad más amplia,51623,525,519,22,,,,
+9/2/2020,Facility Type,Corrections,Intalación correccional,7147,16,38,0,,,,
+9/2/2020,Facility Type,Nursing Home,Asilo de ancianos,3342,74,284,5,,,,
+9/2/2020,Gender,Female,Mujeres,29926,362,NA,NA,,,,
+9/2/2020,Gender,Gender Unknown,Género desconocidos,204,6,NA,NA,,,,
+9/2/2020,Gender,Male,Hombres,31982,247,NA,NA,,,,
+9/2/2020,Race or Ethnicity,African American,Afroamericano,13864,123,200,3,473795,15.70%,292.6160048,4.221234922
+9/2/2020,Race or Ethnicity,Asian,Asiático,823,5,11,0,51303,1.70%,160.4194686,2.144124125
+9/2/2020,Race or Ethnicity,Hispanic,Hispano,13431,83,66,1,232371,7.70%,577.9981151,2.840285578
+9/2/2020,Race or Ethnicity,Multi-Racial,Multirracial,513,5,8,0,66392,2.20%,77.26834558,1.204964454
+9/2/2020,Race or Ethnicity,Native American,Nativo Americano,191,2,3,0,30178,1.00%,63.29113924,0.9941016635
+9/2/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2369,1,46,5,12071,0.40%,1962.554884,38.10786182
+9/2/2020,Race or Ethnicity,White,Blanco,34651,427,526,14,2387083,79.10%,145.1604322,2.203526228
+9/1/2020,Age,0-17,,7832,45,0,0,,,,
+9/1/2020,Age,18-24,,8346,55,0,0,,,,
+9/1/2020,Age,25-44,,21792,76,39,0,,,,
+9/1/2020,Age,45-64,,16196,66,192,3,,,,
+9/1/2020,Age,65+,,7331,31,583,14,,,,
+9/1/2020,Facility Type,Broader Community,Comunidad más amplia,51098,231,497,12,,,,
+9/1/2020,Facility Type,Corrections,Intalación correccional,7131,15,38,1,,,,
+9/1/2020,Facility Type,Nursing Home,Asilo de ancianos,3268,27,279,4,,,,
+9/1/2020,Gender,Female,Mujeres,29564,166,NA,NA,,,,
+9/1/2020,Gender,Gender Unknown,Género desconocidos,198,-16,NA,NA,,,,
+9/1/2020,Gender,Male,Hombres,31735,123,NA,NA,,,,
+9/1/2020,Race or Ethnicity,African American,Afroamericano,13741,159,197,6,473795,15.70%,290.0199453,4.157916398
+9/1/2020,Race or Ethnicity,Asian,Asiático,818,1,11,0,51303,1.70%,159.4448668,2.144124125
+9/1/2020,Race or Ethnicity,Hispanic,Hispano,13348,87,65,5,232371,7.70%,574.4262408,2.797250948
+9/1/2020,Race or Ethnicity,Multi-Racial,Multirracial,508,2,8,0,66392,2.20%,76.5152428,1.204964454
+9/1/2020,Race or Ethnicity,Native American,Nativo Americano,189,3,3,0,30178,1.00%,62.6284048,0.9941016635
+9/1/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2368,1,40,0,12071,0.40%,1961.726452,33.13727115
+9/1/2020,Race or Ethnicity,White,Blanco,34224,374,512,9,2387083,79.10%,143.3716381,2.144877241
+8/31/2020,Age,0-17,,7787,45,0,0,,,,
+8/31/2020,Age,18-24,,8291,94,0,0,,,,
+8/31/2020,Age,25-44,,21716,108,39,1,,,,
+8/31/2020,Age,45-64,,16130,74,189,4,,,,
+8/31/2020,Age,65+,,7300,47,569,8,,,,
+8/31/2020,Facility Type,Broader Community,Comunidad más amplia,50867,354,485,11,,,,
+8/31/2020,Facility Type,Corrections,Intalación correccional,7116,0,37,0,,,,
+8/31/2020,Facility Type,Nursing Home,Asilo de ancianos,3241,14,275,2,,,,
+8/31/2020,Gender,Female,Mujeres,29398,205,NA,NA,,,,
+8/31/2020,Gender,Gender Unknown,Género desconocidos,214,3,NA,NA,,,,
+8/31/2020,Gender,Male,Hombres,31612,160,NA,NA,,,,
+8/31/2020,Race or Ethnicity,African American,Afroamericano,13582,33,191,2,473795,15.70%,286.6640636,4.031279351
+8/31/2020,Race or Ethnicity,Asian,Asiático,817,3,11,0,51303,1.70%,159.2499464,2.144124125
+8/31/2020,Race or Ethnicity,Hispanic,Hispano,13261,34,60,1,232371,7.70%,570.682228,2.582077798
+8/31/2020,Race or Ethnicity,Multi-Racial,Multirracial,506,3,8,0,66392,2.20%,76.21400169,1.204964454
+8/31/2020,Race or Ethnicity,Native American,Nativo Americano,186,0,3,0,30178,1.00%,61.63430313,0.9941016635
+8/31/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2367,1,40,1,12071,0.40%,1960.89802,33.13727115
+8/31/2020,Race or Ethnicity,White,Blanco,33850,190,503,8,2387083,79.10%,141.8048723,2.107174321
+8/30/2020,Age,0-17,,7742,76,0,0,,,,
+8/30/2020,Age,18-24,,8197,77,0,0,,,,
+8/30/2020,Age,25-44,,21608,151,38,0,,,,
+8/30/2020,Age,45-64,,16056,96,185,3,,,,
+8/30/2020,Age,65+,,7253,78,561,9,,,,
+8/30/2020,Facility Type,Broader Community,Comunidad más amplia,50513,369,474,8,,,,
+8/30/2020,Facility Type,Corrections,Intalación correccional,7116,43,37,0,,,,
+8/30/2020,Facility Type,Nursing Home,Asilo de ancianos,3227,66,273,4,,,,
+8/30/2020,Gender,Female,Mujeres,29193,232,NA,NA,,,,
+8/30/2020,Gender,Gender Unknown,Género desconocidos,211,12,NA,NA,,,,
+8/30/2020,Gender,Male,Hombres,31452,234,NA,NA,,,,
+8/30/2020,Race or Ethnicity,African American,Afroamericano,13549,85,189,2,473795,15.70%,285.9675598,3.989067002
+8/30/2020,Race or Ethnicity,Asian,Asiático,814,2,11,1,51303,1.70%,158.6651853,2.144124125
+8/30/2020,Race or Ethnicity,Hispanic,Hispano,13227,40,59,0,232371,7.70%,569.2190506,2.539043168
+8/30/2020,Race or Ethnicity,Multi-Racial,Multirracial,503,4,8,0,66392,2.20%,75.76214002,1.204964454
+8/30/2020,Race or Ethnicity,Native American,Nativo Americano,186,1,3,0,30178,1.00%,61.63430313,0.9941016635
+8/30/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2366,1,39,0,12071,0.40%,1960.069588,32.30883937
+8/30/2020,Race or Ethnicity,White,Blanco,33660,280,495,6,2387083,79.10%,141.0089218,2.073660614
+8/29/2020,Age,0-17,,7666,78,0,0,,,,
+8/29/2020,Age,18-24,,8120,150,0,0,,,,
+8/29/2020,Age,25-44,,21457,284,38,1,,,,
+8/29/2020,Age,45-64,,15960,196,182,4,,,,
+8/29/2020,Age,65+,,7175,87,552,11,,,,
+8/29/2020,Facility Type,Broader Community,Comunidad más amplia,50144,620,466,9,,,,
+8/29/2020,Facility Type,Corrections,Intalación correccional,7073,108,37,0,,,,
+8/29/2020,Facility Type,Nursing Home,Asilo de ancianos,3161,68,269,7,,,,
+8/29/2020,Gender,Female,Mujeres,28961,324,NA,NA,,,,
+8/29/2020,Gender,Gender Unknown,Género desconocidos,199,36,NA,NA,,,,
+8/29/2020,Gender,Male,Hombres,31218,435,NA,NA,,,,
+8/29/2020,Race or Ethnicity,African American,Afroamericano,13464,133,187,5,473795,15.70%,284.173535,3.946854652
+8/29/2020,Race or Ethnicity,Asian,Asiático,812,8,10,0,51303,1.70%,158.2753445,1.94920375
+8/29/2020,Race or Ethnicity,Hispanic,Hispano,13187,117,59,1,232371,7.70%,567.4976654,2.539043168
+8/29/2020,Race or Ethnicity,Multi-Racial,Multirracial,499,5,8,0,66392,2.20%,75.15965779,1.204964454
+8/29/2020,Race or Ethnicity,Native American,Nativo Americano,185,2,3,0,30178,1.00%,61.30293591,0.9941016635
+8/29/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2365,9,39,0,12071,0.40%,1959.241156,32.30883937
+8/29/2020,Race or Ethnicity,White,Blanco,33380,493,489,14,2387083,79.10%,139.835942,2.048525334
+8/28/2020,Age,0-17,,7588,108,0,0,,,,
+8/28/2020,Age,18-24,,7970,107,0,0,,,,
+8/28/2020,Age,25-44,,21173,264,37,2,,,,
+8/28/2020,Age,45-64,,15764,242,178,5,,,,
+8/28/2020,Age,65+,,7088,117,541,10,,,,
+8/28/2020,Facility Type,Broader Community,Comunidad más amplia,49524,627,457,13,,,,
+8/28/2020,Facility Type,Corrections,Intalación correccional,6965,181,37,0,,,,
+8/28/2020,Facility Type,Nursing Home,Asilo de ancianos,3093,29,262,4,,,,
+8/28/2020,Gender,Female,Mujeres,28637,372,NA,NA,,,,
+8/28/2020,Gender,Gender Unknown,Género desconocidos,163,8,NA,NA,,,,
+8/28/2020,Gender,Male,Hombres,30783,458,NA,NA,,,,
+8/28/2020,Race or Ethnicity,African American,Afroamericano,13331,123,182,2,473795,15.70%,281.3664137,3.841323779
+8/28/2020,Race or Ethnicity,Asian,Asiático,804,7,10,0,51303,1.70%,156.7159815,1.94920375
+8/28/2020,Race or Ethnicity,Hispanic,Hispano,13070,103,58,0,232371,7.70%,562.4626137,2.496008538
+8/28/2020,Race or Ethnicity,Multi-Racial,Multirracial,494,2,8,0,66392,2.20%,74.40655501,1.204964454
+8/28/2020,Race or Ethnicity,Native American,Nativo Americano,183,1,3,0,30178,1.00%,60.64020147,0.9941016635
+8/28/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2356,5,39,0,12071,0.40%,1951.78527,32.30883937
+8/28/2020,Race or Ethnicity,White,Blanco,32887,415,475,14,2387083,79.10%,137.7706598,1.989876347
+8/27/2020,Age,0-17,,7480,107,0,0,,,,
+8/27/2020,Age,18-24,,7863,102,0,0,,,,
+8/27/2020,Age,25-44,,20909,211,35,0,,,,
+8/27/2020,Age,45-64,,15522,179,173,0,,,,
+8/27/2020,Age,65+,,6971,123,531,7,,,,
+8/27/2020,Facility Type,Broader Community,Comunidad más amplia,48897,605,444,6,,,,
+8/27/2020,Facility Type,Corrections,Intalación correccional,6784,71,37,0,,,,
+8/27/2020,Facility Type,Nursing Home,Asilo de ancianos,3064,46,258,1,,,,
+8/27/2020,Gender,Female,Mujeres,28265,357,NA,NA,,,,
+8/27/2020,Gender,Gender Unknown,Género desconocidos,155,12,NA,NA,,,,
+8/27/2020,Gender,Male,Hombres,30325,353,NA,NA,,,,
+8/27/2020,Race or Ethnicity,African American,Afroamericano,13208,121,180,2,473795,15.70%,278.7703543,3.79911143
+8/27/2020,Race or Ethnicity,Asian,Asiático,797,6,10,0,51303,1.70%,155.3515389,1.94920375
+8/27/2020,Race or Ethnicity,Hispanic,Hispano,12967,102,58,0,232371,7.70%,558.0300468,2.496008538
+8/27/2020,Race or Ethnicity,Multi-Racial,Multirracial,492,4,8,0,66392,2.20%,74.10531389,1.204964454
+8/27/2020,Race or Ethnicity,Native American,Nativo Americano,182,3,3,0,30178,1.00%,60.30883425,0.9941016635
+8/27/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2351,2,39,0,12071,0.40%,1947.643112,32.30883937
+8/27/2020,Race or Ethnicity,White,Blanco,32472,425,461,5,2387083,79.10%,136.0321363,1.93122736
+8/26/2020,Age,0-17,,7373,61,0,0,,,,
+8/26/2020,Age,18-24,,7761,82,0,0,,,,
+8/26/2020,Age,25-44,,20698,217,35,0,,,,
+8/26/2020,Age,45-64,,15343,170,173,3,,,,
+8/26/2020,Age,65+,,6848,119,524,18,,,,
+8/26/2020,Facility Type,Broader Community,Comunidad más amplia,48292,478,438,14,,,,
+8/26/2020,Facility Type,Corrections,Intalación correccional,6713,76,37,1,,,,
+8/26/2020,Facility Type,Nursing Home,Asilo de ancianos,3018,95,257,6,,,,
+8/26/2020,Gender,Female,Mujeres,27908,324,NA,NA,,,,
+8/26/2020,Gender,Gender Unknown,Género desconocidos,143,2,NA,NA,,,,
+8/26/2020,Gender,Male,Hombres,29972,324,NA,NA,,,,
+8/26/2020,Race or Ethnicity,African American,Afroamericano,13087,154,178,1,473795,15.70%,276.2165071,3.756899081
+8/26/2020,Race or Ethnicity,Asian,Asiático,791,2,10,0,51303,1.70%,154.1820166,1.94920375
+8/26/2020,Race or Ethnicity,Hispanic,Hispano,12865,75,58,0,232371,7.70%,553.6405145,2.496008538
+8/26/2020,Race or Ethnicity,Multi-Racial,Multirracial,488,8,8,1,66392,2.20%,73.50283167,1.204964454
+8/26/2020,Race or Ethnicity,Native American,Nativo Americano,179,3,3,0,30178,1.00%,59.31473259,0.9941016635
+8/26/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2349,2,39,0,12071,0.40%,1945.986248,32.30883937
+8/26/2020,Race or Ethnicity,White,Blanco,32047,347,456,17,2387083,79.10%,134.2517206,1.910281293
+8/25/2020,Age,0-17,,7312,13,0,0,,,,
+8/25/2020,Age,18-24,,7679,61,0,0,,,,
+8/25/2020,Age,25-44,,20481,185,35,0,,,,
+8/25/2020,Age,45-64,,15173,131,170,4,,,,
+8/25/2020,Age,65+,,6729,90,506,11,,,,
+8/25/2020,Facility Type,Broader Community,Comunidad más amplia,47814,416,424,8,,,,
+8/25/2020,Facility Type,Corrections,Intalación correccional,6637,16,36,0,,,,
+8/25/2020,Facility Type,Nursing Home,Asilo de ancianos,2923,48,251,7,,,,
+8/25/2020,Gender,Female,Mujeres,27584,251,NA,NA,,,,
+8/25/2020,Gender,Gender Unknown,Género desconocidos,141,1,NA,NA,,,,
+8/25/2020,Gender,Male,Hombres,29648,228,NA,NA,,,,
+8/25/2020,Race or Ethnicity,African American,Afroamericano,12933,123,177,1,473795,15.70%,272.9661562,3.735792906
+8/25/2020,Race or Ethnicity,Asian,Asiático,789,6,10,1,51303,1.70%,153.7921759,1.94920375
+8/25/2020,Race or Ethnicity,Hispanic,Hispano,12790,82,58,1,232371,7.70%,550.4129173,2.496008538
+8/25/2020,Race or Ethnicity,Multi-Racial,Multirracial,480,4,7,0,66392,2.20%,72.29786721,1.054343897
+8/25/2020,Race or Ethnicity,Native American,Nativo Americano,176,2,3,0,30178,1.00%,58.32063092,0.9941016635
+8/25/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2347,3,39,1,12071,0.40%,1944.329384,32.30883937
+8/25/2020,Race or Ethnicity,White,Blanco,31700,405,439,11,2387083,79.10%,132.7980636,1.839064666
+8/24/2020,Age,0-17,,7299,38,0,0,,,,
+8/24/2020,Age,18-24,,7618,51,0,0,,,,
+8/24/2020,Age,25-44,,20296,80,35,0,,,,
+8/24/2020,Age,45-64,,15042,66,166,1,,,,
+8/24/2020,Age,65+,,6639,85,495,8,,,,
+8/24/2020,Facility Type,Broader Community,Comunidad más amplia,47398,299,416,6,,,,
+8/24/2020,Facility Type,Corrections,Intalación correccional,6621,13,36,0,,,,
+8/24/2020,Facility Type,Nursing Home,Asilo de ancianos,2875,8,244,3,,,,
+8/24/2020,Gender,Female,Mujeres,27333,183,NA,NA,,,,
+8/24/2020,Gender,Gender Unknown,Género desconocidos,141,20,NA,NA,,,,
+8/24/2020,Gender,Male,Hombres,29420,117,NA,NA,,,,
+8/24/2020,Race or Ethnicity,African American,Afroamericano,12810,89,176,5,473795,15.70%,270.3700968,3.714686732
+8/24/2020,Race or Ethnicity,Asian,Asiático,783,2,9,0,51303,1.70%,152.6226536,1.754283375
+8/24/2020,Race or Ethnicity,Hispanic,Hispano,12708,33,57,1,232371,7.70%,546.8840776,2.452973908
+8/24/2020,Race or Ethnicity,Multi-Racial,Multirracial,476,0,7,0,66392,2.20%,71.69538499,1.054343897
+8/24/2020,Race or Ethnicity,Native American,Nativo Americano,174,0,3,0,30178,1.00%,57.65789648,0.9941016635
+8/24/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2344,1,38,0,12071,0.40%,1941.844089,31.48040759
+8/24/2020,Race or Ethnicity,White,Blanco,31295,157,428,4,2387083,79.10%,131.1014322,1.792983319
+8/23/2020,Age,0-17,,7261,70,0,0,,,,
+8/23/2020,Age,18-24,,7567,41,0,0,,,,
+8/23/2020,Age,25-44,,20216,116,35,0,,,,
+8/23/2020,Age,45-64,,14976,92,165,3,,,,
+8/23/2020,Age,65+,,6554,56,487,10,,,,
+8/23/2020,Facility Type,Broader Community,Comunidad más amplia,47099,336,410,2,,,,
+8/23/2020,Facility Type,Corrections,Intalación correccional,6608,24,36,1,,,,
+8/23/2020,Facility Type,Nursing Home,Asilo de ancianos,2867,15,241,10,,,,
+8/23/2020,Gender,Female,Mujeres,27150,194,NA,NA,,,,
+8/23/2020,Gender,Gender Unknown,Género desconocidos,121,-1,NA,NA,,,,
+8/23/2020,Gender,Male,Hombres,29303,182,NA,NA,,,,
+8/23/2020,Race or Ethnicity,African American,Afroamericano,12721,76,171,1,473795,15.70%,268.4916472,3.609155859
+8/23/2020,Race or Ethnicity,Asian,Asiático,781,5,9,0,51303,1.70%,152.2328129,1.754283375
+8/23/2020,Race or Ethnicity,Hispanic,Hispano,12675,64,56,0,232371,7.70%,545.4639348,2.409939278
+8/23/2020,Race or Ethnicity,Multi-Racial,Multirracial,476,2,7,0,66392,2.20%,71.69538499,1.054343897
+8/23/2020,Race or Ethnicity,Native American,Nativo Americano,174,4,3,0,30178,1.00%,57.65789648,0.9941016635
+8/23/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2343,2,38,-1,12071,0.40%,1941.015657,31.48040759
+8/23/2020,Race or Ethnicity,White,Blanco,31138,275,424,11,2387083,79.10%,130.4437257,1.776226466
+8/22/2020,Age,0-17,,7191,72,0,0,,,,
+8/22/2020,Age,18-24,,7526,60,0,0,,,,
+8/22/2020,Age,25-44,,20100,190,35,0,,,,
+8/22/2020,Age,45-64,,14884,145,162,1,,,,
+8/22/2020,Age,65+,,6498,80,477,10,,,,
+8/22/2020,Facility Type,Broader Community,Comunidad más amplia,46763,-1432,408,-35,,,,
+8/22/2020,Facility Type,Corrections,Intalación correccional,6584,56,35,3,,,,
+8/22/2020,Facility Type,Nursing Home,Asilo de ancianos,2852,1923,231,43,,,,
+8/22/2020,Gender,Female,Mujeres,26956,288,NA,NA,,,,
+8/22/2020,Gender,Gender Unknown,Género desconocidos,122,3,NA,NA,,,,
+8/22/2020,Gender,Male,Hombres,29121,256,NA,NA,,,,
+8/22/2020,Race or Ethnicity,African American,Afroamericano,12645,449,170,0,473795,15.70%,266.887578,3.588049684
+8/22/2020,Race or Ethnicity,Asian,Asiático,776,17,9,0,51303,1.70%,151.258211,1.754283375
+8/22/2020,Race or Ethnicity,Hispanic,Hispano,12611,312,56,1,232371,7.70%,542.7097185,2.409939278
+8/22/2020,Race or Ethnicity,Multi-Racial,Multirracial,474,1,7,0,66392,2.20%,71.39414387,1.054343897
+8/22/2020,Race or Ethnicity,Native American,Nativo Americano,170,8,3,0,30178,1.00%,56.3324276,0.9941016635
+8/22/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2341,57,39,1,12071,0.40%,1939.358794,32.30883937
+8/22/2020,Race or Ethnicity,White,Blanco,30863,1293,413,12,2387083,79.10%,129.291692,1.730145119
+8/21/2020,Age,0-17,,7119,173,0,0,,,,
+8/21/2020,Age,18-24,,7466,99,0,0,,,,
+8/21/2020,Age,25-44,,19910,262,35,1,,,,
+8/21/2020,Age,45-64,,14739,229,161,0,,,,
+8/21/2020,Age,65+,,6418,124,467,21,,,,
+8/21/2020,Facility Type,Broader Community,Comunidad más amplia,48195,846,443,10,,,,
+8/21/2020,Facility Type,Corrections,Intalación correccional,6528,27,32,0,,,,
+8/21/2020,Facility Type,Nursing Home,Asilo de ancianos,929,14,188,12,,,,
+8/21/2020,Gender,Female,Mujeres,26668,460,NA,NA,,,,
+8/21/2020,Gender,Gender Unknown,Género desconocidos,119,11,NA,NA,,,,
+8/21/2020,Gender,Male,Hombres,28865,416,NA,NA,,,,
+8/21/2020,Race or Ethnicity,African American,Afroamericano,12196,157,170,5,473795,15.70%,257.4109056,3.588049684
+8/21/2020,Race or Ethnicity,Asian,Asiático,759,4,9,0,51303,1.70%,147.9445646,1.754283375
+8/21/2020,Race or Ethnicity,Hispanic,Hispano,12299,105,55,-1,232371,7.70%,529.282914,2.366904648
+8/21/2020,Race or Ethnicity,Multi-Racial,Multirracial,473,5,7,0,66392,2.20%,71.24352332,1.054343897
+8/21/2020,Race or Ethnicity,Native American,Nativo Americano,162,1,3,0,30178,1.00%,53.68148983,0.9941016635
+8/21/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2284,16,38,2,12071,0.40%,1892.138182,31.48040759
+8/21/2020,Race or Ethnicity,White,Blanco,29570,406,401,13,2387083,79.10%,123.8750391,1.679874558
+8/20/2020,Age,0-17,,6946,83,0,0,,,,
+8/20/2020,Age,18-24,,7367,42,0,0,,,,
+8/20/2020,Age,25-44,,19648,182,34,0,,,,
+8/20/2020,Age,45-64,,14510,152,161,2,,,,
+8/20/2020,Age,65+,,6294,90,446,8,,,,
+8/20/2020,Facility Type,Broader Community,Comunidad más amplia,47349,485,433,6,,,,
+8/20/2020,Facility Type,Corrections,Intalación correccional,6501,50,32,0,,,,
+8/20/2020,Facility Type,Nursing Home,Asilo de ancianos,915,14,176,4,,,,
+8/20/2020,Gender,Female,Mujeres,26208,288,NA,NA,,,,
+8/20/2020,Gender,Gender Unknown,Género desconocidos,108,2,NA,NA,,,,
+8/20/2020,Gender,Male,Hombres,28449,259,NA,NA,,,,
+8/20/2020,Race or Ethnicity,African American,Afroamericano,12039,130,165,2,473795,15.70%,254.0972361,3.482518811
+8/20/2020,Race or Ethnicity,Asian,Asiático,755,8,9,0,51303,1.70%,147.1648831,1.754283375
+8/20/2020,Race or Ethnicity,Hispanic,Hispano,12194,98,56,1,232371,7.70%,524.7642778,2.409939278
+8/20/2020,Race or Ethnicity,Multi-Racial,Multirracial,468,3,7,0,66392,2.20%,70.49042053,1.054343897
+8/20/2020,Race or Ethnicity,Native American,Nativo Americano,161,0,3,0,30178,1.00%,53.35012261,0.9941016635
+8/20/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2268,4,36,0,12071,0.40%,1878.883274,29.82354403
+8/20/2020,Race or Ethnicity,White,Blanco,29164,393,388,5,2387083,79.10%,122.1742185,1.625414784
+8/19/2020,Age,0-17,,6863,100,0,0,,,,
+8/19/2020,Age,18-24,,7325,102,0,0,,,,
+8/19/2020,Age,25-44,,19466,218,34,0,,,,
+8/19/2020,Age,45-64,,14358,188,159,3,,,,
+8/19/2020,Age,65+,,6204,121,438,9,,,,
+8/19/2020,Facility Type,Broader Community,Comunidad más amplia,46864,643,427,9,,,,
+8/19/2020,Facility Type,Corrections,Intalación correccional,6451,76,32,0,,,,
+8/19/2020,Facility Type,Nursing Home,Asilo de ancianos,901,10,172,3,,,,
+8/19/2020,Gender,Female,Mujeres,25920,376,NA,NA,,,,
+8/19/2020,Gender,Gender Unknown,Género desconocidos,106,3,NA,NA,,,,
+8/19/2020,Gender,Male,Hombres,28190,350,NA,NA,,,,
+8/19/2020,Race or Ethnicity,African American,Afroamericano,11909,166,163,0,473795,15.70%,251.3534334,3.440306462
+8/19/2020,Race or Ethnicity,Asian,Asiático,747,7,9,0,51303,1.70%,145.6055201,1.754283375
+8/19/2020,Race or Ethnicity,Hispanic,Hispano,12096,116,55,0,232371,7.70%,520.5468841,2.366904648
+8/19/2020,Race or Ethnicity,Multi-Racial,Multirracial,465,1,7,0,66392,2.20%,70.03855886,1.054343897
+8/19/2020,Race or Ethnicity,Native American,Nativo Americano,161,4,3,0,30178,1.00%,53.35012261,0.9941016635
+8/19/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2264,8,36,0,12071,0.40%,1875.569547,29.82354403
+8/19/2020,Race or Ethnicity,White,Blanco,28771,453,383,14,2387083,79.10%,120.5278576,1.604468718
+8/18/2020,Age,0-17,,6763,43,0,0,,,,
+8/18/2020,Age,18-24,,7223,55,0,0,,,,
+8/18/2020,Age,25-44,,19248,135,34,2,,,,
+8/18/2020,Age,45-64,,14170,103,156,6,,,,
+8/18/2020,Age,65+,,6083,74,429,8,,,,
+8/18/2020,Facility Type,Broader Community,Comunidad más amplia,46221,361,418,13,,,,
+8/18/2020,Facility Type,Corrections,Intalación correccional,6375,40,32,1,,,,
+8/18/2020,Facility Type,Nursing Home,Asilo de ancianos,891,9,169,2,,,,
+8/18/2020,Gender,Female,Mujeres,25544,225,NA,NA,,,,
+8/18/2020,Gender,Gender Unknown,Género desconocidos,103,9,NA,NA,,,,
+8/18/2020,Gender,Male,Hombres,27840,174,NA,NA,,,,
+8/18/2020,Race or Ethnicity,African American,Afroamericano,11743,108,163,4,473795,15.70%,247.8498085,3.440306462
+8/18/2020,Race or Ethnicity,Asian,Asiático,740,12,9,0,51303,1.70%,144.2410775,1.754283375
+8/18/2020,Race or Ethnicity,Hispanic,Hispano,11980,124,55,1,232371,7.70%,515.554867,2.366904648
+8/18/2020,Race or Ethnicity,Multi-Racial,Multirracial,464,5,7,0,66392,2.20%,69.88793831,1.054343897
+8/18/2020,Race or Ethnicity,Native American,Nativo Americano,157,4,3,0,30178,1.00%,52.02465372,0.9941016635
+8/18/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2256,9,36,1,12071,0.40%,1868.942093,29.82354403
+8/18/2020,Race or Ethnicity,White,Blanco,28318,418,369,7,2387083,79.10%,118.630144,1.545819731
+8/17/2020,Age,0-17,,6720,74,0,0,,,,
+8/17/2020,Age,18-24,,7168,51,0,0,,,,
+8/17/2020,Age,25-44,,19113,129,32,0,,,,
+8/17/2020,Age,45-64,,14067,1100,150,2,,,,
+8/17/2020,Age,65+,,6009,58,421,3,,,,
+8/17/2020,Facility Type,Broader Community,Comunidad más amplia,45860,398,405,4,,,,
+8/17/2020,Facility Type,Corrections,Intalación correccional,6335,12,31,0,,,,
+8/17/2020,Facility Type,Nursing Home,Asilo de ancianos,882,2,167,0,,,,
+8/17/2020,Gender,Female,Mujeres,25319,200,NA,NA,,,,
+8/17/2020,Gender,Gender Unknown,Género desconocidos,92,3,NA,NA,,,,
+8/17/2020,Gender,Male,Hombres,27666,209,NA,NA,,,,
+8/17/2020,Race or Ethnicity,African American,Afroamericano,11635,69,159,1,473795,15.70%,245.5703416,3.355881763
+8/17/2020,Race or Ethnicity,Asian,Asiático,728,2,9,0,51303,1.70%,141.902033,1.754283375
+8/17/2020,Race or Ethnicity,Hispanic,Hispano,11856,60,54,0,232371,7.70%,510.2185729,2.323870018
+8/17/2020,Race or Ethnicity,Multi-Racial,Multirracial,459,3,7,0,66392,2.20%,69.13483552,1.054343897
+8/17/2020,Race or Ethnicity,Native American,Nativo Americano,153,0,3,0,30178,1.00%,50.69918484,0.9941016635
+8/17/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2247,5,35,0,12071,0.40%,1861.486207,28.99511225
+8/17/2020,Race or Ethnicity,White,Blanco,27900,165,362,3,2387083,79.10%,116.8790528,1.516495237
+8/16/2020,Age,0-17,,6646,86,0,0,,,,
+8/16/2020,Age,18-24,,7117,78,0,0,,,,
+8/16/2020,Age,25-44,,18984,287,32,0,,,,
+8/16/2020,Age,45-64,,12967,155,148,0,,,,
+8/16/2020,Age,65+,,5951,29,419,-1,,,,
+8/16/2020,Facility Type,Broader Community,Comunidad más amplia,45462,468,401,-8,,,,
+8/16/2020,Facility Type,Corrections,Intalación correccional,6323,197,31,0,,,,
+8/16/2020,Facility Type,Nursing Home,Asilo de ancianos,880,8,167,7,,,,
+8/16/2020,Gender,Female,Mujeres,25119,275,NA,NA,,,,
+8/16/2020,Gender,Gender Unknown,Género desconocidos,89,15,NA,NA,,,,
+8/16/2020,Gender,Male,Hombres,27457,383,NA,NA,,,,
+8/16/2020,Race or Ethnicity,African American,Afroamericano,11566,149,158,0,473795,15.70%,244.1140156,3.334775589
+8/16/2020,Race or Ethnicity,Asian,Asiático,726,8,9,0,51303,1.70%,141.5121923,1.754283375
+8/16/2020,Race or Ethnicity,Hispanic,Hispano,11796,50,54,0,232371,7.70%,507.6364951,2.323870018
+8/16/2020,Race or Ethnicity,Multi-Racial,Multirracial,456,3,7,0,66392,2.20%,68.68297385,1.054343897
+8/16/2020,Race or Ethnicity,Native American,Nativo Americano,153,0,3,0,30178,1.00%,50.69918484,0.9941016635
+8/16/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2242,8,35,0,12071,0.40%,1857.344048,28.99511225
+8/16/2020,Race or Ethnicity,White,Blanco,27735,240,359,-1,2387083,79.10%,116.1878326,1.503927597
+8/15/2020,Age,0-17,,6560,-5,0,0,,,,
+8/15/2020,Age,18-24,,7039,-91,0,0,,,,
+8/15/2020,Age,25-44,,18697,-148,32,1,,,,
+8/15/2020,Age,45-64,,13812,-118,148,1,,,,
+8/15/2020,Age,65+,,5922,-38,420,11,,,,
+8/15/2020,Facility Type,Broader Community,Comunidad más amplia,44994,-491,409,19,,,,
+8/15/2020,Facility Type,Corrections,Intalación correccional,6126,118,31,-2,,,,
+8/15/2020,Facility Type,Nursing Home,Asilo de ancianos,872,-27,160,-4,,,,
+8/15/2020,Gender,Female,Mujeres,24844,-209,NA,NA,,,,
+8/15/2020,Gender,Gender Unknown,Género desconocidos,74,-6,NA,NA,,,,
+8/15/2020,Gender,Male,Hombres,27074,-185,NA,NA,,,,
+8/15/2020,Race or Ethnicity,African American,Afroamericano,11417,3,158,3,473795,15.70%,240.9691955,3.334775589
+8/15/2020,Race or Ethnicity,Asian,Asiático,718,-1,9,1,51303,1.70%,139.9528293,1.754283375
+8/15/2020,Race or Ethnicity,Hispanic,Hispano,11746,-43,54,0,232371,7.70%,505.4847636,2.323870018
+8/15/2020,Race or Ethnicity,Multi-Racial,Multirracial,453,-8,7,0,66392,2.20%,68.23111218,1.054343897
+8/15/2020,Race or Ethnicity,Native American,Nativo Americano,153,-14,3,0,30178,1.00%,50.69918484,0.9941016635
+8/15/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2234,-12,35,0,12071,0.40%,1850.716593,28.99511225
+8/15/2020,Race or Ethnicity,White,Blanco,27495,-87,360,7,2387083,79.10%,115.1824214,1.50811681
+8/14/2020,Age,0-17,,6565,85,0,0,,,,
+8/14/2020,Age,18-24,,7130,58,0,0,,,,
+8/14/2020,Age,25-44,,18845,222,31,0,,,,
+8/14/2020,Age,45-64,,13930,160,147,2,,,,
+8/14/2020,Age,65+,,5922,101,409,3,,,,
+8/14/2020,Facility Type,Broader Community,Comunidad más amplia,45485,432,390,3,,,,
+8/14/2020,Facility Type,Corrections,Intalación correccional,6008,189,33,1,,,,
+8/14/2020,Facility Type,Nursing Home,Asilo de ancianos,899,5,164,1,,,,
+8/14/2020,Gender,Female,Mujeres,25053,251,NA,NA,,,,
+8/14/2020,Gender,Gender Unknown,Género desconocidos,80,3,NA,NA,,,,
+8/14/2020,Gender,Male,Hombres,27259,372,NA,NA,,,,
+8/14/2020,Race or Ethnicity,African American,Afroamericano,11414,200,155,1,473795,15.70%,240.905877,3.271457065
+8/14/2020,Race or Ethnicity,Asian,Asiático,719,8,8,0,51303,1.70%,140.1477496,1.559363
+8/14/2020,Race or Ethnicity,Hispanic,Hispano,11789,145,54,0,232371,7.70%,507.3352527,2.323870018
+8/14/2020,Race or Ethnicity,Multi-Racial,Multirracial,461,3,7,0,66392,2.20%,69.43607664,1.054343897
+8/14/2020,Race or Ethnicity,Native American,Nativo Americano,167,4,3,0,30178,1.00%,55.33832593,0.9941016635
+8/14/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2246,11,35,0,12071,0.40%,1860.657775,28.99511225
+8/14/2020,Race or Ethnicity,White,Blanco,27582,604,353,4,2387083,79.10%,115.546883,1.478792317
+8/13/2020,Age,0-17,,6480,85,0,0,,,,
+8/13/2020,Age,18-24,,7072,99,0,0,,,,
+8/13/2020,Age,25-44,,18623,195,31,0,,,,
+8/13/2020,Age,45-64,,13770,172,145,2,,,,
+8/13/2020,Age,65+,,5821,101,406,7,,,,
+8/13/2020,Facility Type,Broader Community,Comunidad más amplia,45053,629,387,-4,,,,
+8/13/2020,Facility Type,Corrections,Intalación correccional,5819,13,32,1,,,,
+8/13/2020,Facility Type,Nursing Home,Asilo de ancianos,894,10,163,2,,,,
+8/13/2020,Gender,Female,Mujeres,24802,354,NA,NA,,,,
+8/13/2020,Gender,Gender Unknown,Género desconocidos,77,-1,NA,NA,,,,
+8/13/2020,Gender,Male,Hombres,26887,299,NA,NA,,,,
+8/13/2020,Race or Ethnicity,African American,Afroamericano,11214,167,154,1,473795,15.70%,236.6846421,3.25035089
+8/13/2020,Race or Ethnicity,Asian,Asiático,711,5,8,0,51303,1.70%,138.5883866,1.559363
+8/13/2020,Race or Ethnicity,Hispanic,Hispano,11644,153,54,0,232371,7.70%,501.0952313,2.323870018
+8/13/2020,Race or Ethnicity,Multi-Racial,Multirracial,458,1,7,1,66392,2.20%,68.98421497,1.054343897
+8/13/2020,Race or Ethnicity,Native American,Nativo Americano,163,10,3,0,30178,1.00%,54.01285705,0.9941016635
+8/13/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2235,5,35,0,12071,0.40%,1851.545025,28.99511225
+8/13/2020,Race or Ethnicity,White,Blanco,26978,489,349,8,2387083,79.10%,113.0165981,1.462035463
+8/12/2020,Age,0-17,,6395,88,0,0,,,,
+8/12/2020,Age,18-24,,6973,72,0,0,,,,
+8/12/2020,Age,25-44,,18428,209,31,1,,,,
+8/12/2020,Age,45-64,,13598,216,143,2,,,,
+8/12/2020,Age,65+,,5720,118,399,4,,,,
+8/12/2020,Facility Type,Broader Community,Comunidad más amplia,44424,658,391,16,,,,
+8/12/2020,Facility Type,Corrections,Intalación correccional,5806,24,31,0,,,,
+8/12/2020,Facility Type,Nursing Home,Asilo de ancianos,884,21,161,1,,,,
+8/12/2020,Gender,Female,Mujeres,24448,402,NA,NA,,,,
+8/12/2020,Gender,Gender Unknown,Género desconocidos,78,-5,NA,NA,,,,
+8/12/2020,Gender,Male,Hombres,26588,306,NA,NA,,,,
+8/12/2020,Race or Ethnicity,African American,Afroamericano,11047,207,153,3,473795,15.70%,233.1599109,3.229244716
+8/12/2020,Race or Ethnicity,Asian,Asiático,706,9,8,0,51303,1.70%,137.6137848,1.559363
+8/12/2020,Race or Ethnicity,Hispanic,Hispano,11491,153,54,2,232371,7.70%,494.5109329,2.323870018
+8/12/2020,Race or Ethnicity,Multi-Racial,Multirracial,457,5,6,0,66392,2.20%,68.83359441,0.9037233402
+8/12/2020,Race or Ethnicity,Native American,Nativo Americano,153,5,3,0,30178,1.00%,50.69918484,0.9941016635
+8/12/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2230,4,35,0,12071,0.40%,1847.402866,28.99511225
+8/12/2020,Race or Ethnicity,White,Blanco,26489,573,341,5,2387083,79.10%,110.9680727,1.428521756
+8/11/2020,Age,0-17,,6307,59,0,0,,,,
+8/11/2020,Age,18-24,,6901,55,0,0,,,,
+8/11/2020,Age,25-44,,18219,102,30,1,,,,
+8/11/2020,Age,45-64,,13382,105,141,2,,,,
+8/11/2020,Age,65+,,5602,62,395,8,,,,
+8/11/2020,Facility Type,Broader Community,Comunidad más amplia,43766,300,375,6,,,,
+8/11/2020,Facility Type,Corrections,Intalación correccional,5782,69,31,1,,,,
+8/11/2020,Facility Type,Nursing Home,Asilo de ancianos,863,14,160,4,,,,
+8/11/2020,Gender,Female,Mujeres,24046,209,NA,NA,,,,
+8/11/2020,Gender,Gender Unknown,Género desconocidos,83,-31,NA,NA,,,,
+8/11/2020,Gender,Male,Hombres,26282,205,NA,NA,,,,
+8/11/2020,Race or Ethnicity,African American,Afroamericano,10840,158,150,3,473795,15.70%,228.7909328,3.165926192
+8/11/2020,Race or Ethnicity,Asian,Asiático,697,7,8,0,51303,1.70%,135.8595014,1.559363
+8/11/2020,Race or Ethnicity,Hispanic,Hispano,11338,173,52,1,232371,7.70%,487.9266346,2.237800758
+8/11/2020,Race or Ethnicity,Multi-Racial,Multirracial,452,6,6,0,66392,2.20%,68.08049163,0.9037233402
+8/11/2020,Race or Ethnicity,Native American,Nativo Americano,148,3,3,0,30178,1.00%,49.04234873,0.9941016635
+8/11/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2226,2,35,0,12071,0.40%,1844.089139,28.99511225
+8/11/2020,Race or Ethnicity,White,Blanco,25916,424,336,9,2387083,79.10%,108.5676535,1.40757569
+8/10/2020,Age,0-17,,6248,89,0,0,,,,
+8/10/2020,Age,18-24,,6846,78,0,0,,,,
+8/10/2020,Age,25-44,,18117,217,29,0,,,,
+8/10/2020,Age,45-64,,13277,161,139,4,,,,
+8/10/2020,Age,65+,,5540,100,387,7,,,,
+8/10/2020,Facility Type,Broader Community,Comunidad más amplia,43466,623,369,4,,,,
+8/10/2020,Facility Type,Corrections,Intalación correccional,5713,13,30,0,,,,
+8/10/2020,Facility Type,Nursing Home,Asilo de ancianos,849,9,156,7,,,,
+8/10/2020,Gender,Female,Mujeres,23837,330,NA,NA,,,,
+8/10/2020,Gender,Gender Unknown,Género desconocidos,114,7,NA,NA,,,,
+8/10/2020,Gender,Male,Hombres,26077,308,NA,NA,,,,
+8/10/2020,Race or Ethnicity,African American,Afroamericano,10682,113,147,0,473795,15.70%,225.4561572,3.102607668
+8/10/2020,Race or Ethnicity,Asian,Asiático,690,4,8,0,51303,1.70%,134.4950588,1.559363
+8/10/2020,Race or Ethnicity,Hispanic,Hispano,11165,84,51,1,232371,7.70%,480.4816436,2.194766128
+8/10/2020,Race or Ethnicity,Multi-Racial,Multirracial,448,1,6,0,66392,2.20%,67.4780094,0.9037233402
+8/10/2020,Race or Ethnicity,Native American,Nativo Americano,145,2,3,1,30178,1.00%,48.04824707,0.9941016635
+8/10/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2224,4,35,0,12071,0.40%,1842.432276,28.99511225
+8/10/2020,Race or Ethnicity,White,Blanco,25492,314,327,8,2387083,79.10%,106.791427,1.369872769
+8/9/2020,Age,0-17,,6159,92,0,0,,,,
+8/9/2020,Age,18-24,,6768,64,0,0,,,,
+8/9/2020,Age,25-44,,17900,212,29,0,,,,
+8/9/2020,Age,45-64,,13116,145,135,3,,,,
+8/9/2020,Age,65+,,5440,59,380,6,,,,
+8/9/2020,Facility Type,Broader Community,Comunidad más amplia,42843,432,365,2,,,,
+8/9/2020,Facility Type,Corrections,Intalación correccional,5700,133,30,0,,,,
+8/9/2020,Facility Type,Nursing Home,Asilo de ancianos,840,7,149,7,,,,
+8/9/2020,Gender,Female,Mujeres,23507,261,NA,NA,,,,
+8/9/2020,Gender,Gender Unknown,Género desconocidos,107,7,NA,NA,,,,
+8/9/2020,Gender,Male,Hombres,25769,304,NA,NA,,,,
+8/9/2020,Race or Ethnicity,African American,Afroamericano,10569,129,147,4,473795,15.70%,223.0711595,3.102607668
+8/9/2020,Race or Ethnicity,Asian,Asiático,686,0,8,0,51303,1.70%,133.7153773,1.559363
+8/9/2020,Race or Ethnicity,Hispanic,Hispano,11081,80,50,0,232371,7.70%,476.8667347,2.151731498
+8/9/2020,Race or Ethnicity,Multi-Racial,Multirracial,447,0,6,0,66392,2.20%,67.32738884,0.9037233402
+8/9/2020,Race or Ethnicity,Native American,Nativo Americano,143,3,2,0,30178,1.00%,47.38551263,0.6627344423
+8/9/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2220,11,35,0,12071,0.40%,1839.118549,28.99511225
+8/9/2020,Race or Ethnicity,White,Blanco,25178,313,319,4,2387083,79.10%,105.476014,1.336359063
+8/8/2020,Age,0-17,,6067,78,0,0,,,,
+8/8/2020,Age,18-24,,6704,105,0,0,,,,
+8/8/2020,Age,25-44,,17688,267,29,0,,,,
+8/8/2020,Age,45-64,,12971,223,132,2,,,,
+8/8/2020,Age,65+,,5381,99,374,12,,,,
+8/8/2020,Facility Type,Broader Community,Comunidad más amplia,42411,690,363,7,,,,
+8/8/2020,Facility Type,Corrections,Intalación correccional,5567,74,30,0,,,,
+8/8/2020,Facility Type,Nursing Home,Asilo de ancianos,833,8,142,7,,,,
+8/8/2020,Gender,Female,Mujeres,23246,399,NA,NA,,,,
+8/8/2020,Gender,Gender Unknown,Género desconocidos,100,-21,NA,NA,,,,
+8/8/2020,Gender,Male,Hombres,25465,394,NA,NA,,,,
+8/8/2020,Race or Ethnicity,African American,Afroamericano,10440,156,143,3,473795,15.70%,220.3484629,3.018182969
+8/8/2020,Race or Ethnicity,Asian,Asiático,686,13,8,1,51303,1.70%,133.7153773,1.559363
+8/8/2020,Race or Ethnicity,Hispanic,Hispano,11001,116,50,2,232371,7.70%,473.4239643,2.151731498
+8/8/2020,Race or Ethnicity,Multi-Racial,Multirracial,447,7,6,0,66392,2.20%,67.32738884,0.9037233402
+8/8/2020,Race or Ethnicity,Native American,Nativo Americano,140,2,2,0,30178,1.00%,46.39141096,0.6627344423
+8/8/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2209,1,35,0,12071,0.40%,1830.005799,28.99511225
+8/8/2020,Race or Ethnicity,White,Blanco,24865,451,315,10,2387083,79.10%,104.1647902,1.319602209
+8/7/2020,Age,0-17,,5989,17,0,0,,,,
+8/7/2020,Age,18-24,,6599,141,0,0,,,,
+8/7/2020,Age,25-44,,17421,428,29,0,,,,
+8/7/2020,Age,45-64,,12748,304,130,3,,,,
+8/7/2020,Age,65+,,5282,121,362,3,,,,
+8/7/2020,Facility Type,Broader Community,Comunidad más amplia,41721,736,356,4,,,,
+8/7/2020,Facility Type,Corrections,Intalación correccional,5493,168,30,0,,,,
+8/7/2020,Facility Type,Nursing Home,Asilo de ancianos,825,17,135,2,,,,
+8/7/2020,Gender,Female,Mujeres,22847,454,NA,NA,,,,
+8/7/2020,Gender,Gender Unknown,Género desconocidos,121,1,NA,NA,,,,
+8/7/2020,Gender,Male,Hombres,25071,556,NA,NA,,,,
+8/7/2020,Race or Ethnicity,African American,Afroamericano,10284,210,140,2,473795,15.70%,217.0558997,2.954864446
+8/7/2020,Race or Ethnicity,Asian,Asiático,673,4,7,0,51303,1.70%,131.1814124,1.364442625
+8/7/2020,Race or Ethnicity,Hispanic,Hispano,10885,142,48,2,232371,7.70%,468.4319472,2.065662238
+8/7/2020,Race or Ethnicity,Multi-Racial,Multirracial,440,19,6,0,66392,2.20%,66.27304495,0.9037233402
+8/7/2020,Race or Ethnicity,Native American,Nativo Americano,138,2,2,0,30178,1.00%,45.72867652,0.6627344423
+8/7/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2208,10,35,0,12071,0.40%,1829.177367,28.99511225
+8/7/2020,Race or Ethnicity,White,Blanco,24414,481,305,2,2387083,79.10%,102.275455,1.277710075
+8/6/2020,Age,0-17,,5972,89,0,0,,,,
+8/6/2020,Age,18-24,,6458,90,0,0,,,,
+8/6/2020,Age,25-44,,16993,255,29,1,,,,
+8/6/2020,Age,45-64,,12444,190,127,1,,,,
+8/6/2020,Age,65+,,5161,111,359,5,,,,
+8/6/2020,Facility Type,Broader Community,Comunidad más amplia,40895,680,352,6,,,,
+8/6/2020,Facility Type,Corrections,Intalación correccional,5325,44,30,0,,,,
+8/6/2020,Facility Type,Nursing Home,Asilo de ancianos,808,11,133,1,,,,
+8/6/2020,Gender,Female,Mujeres,22393,417,NA,NA,,,,
+8/6/2020,Gender,Gender Unknown,Género desconocidos,120,-3,NA,NA,,,,
+8/6/2020,Gender,Male,Hombres,24515,321,NA,NA,,,,
+8/6/2020,Race or Ethnicity,African American,Afroamericano,10074,146,138,2,473795,15.70%,212.623603,2.912652096
+8/6/2020,Race or Ethnicity,Asian,Asiático,669,10,7,0,51303,1.70%,130.4017309,1.364442625
+8/6/2020,Race or Ethnicity,Hispanic,Hispano,10743,144,46,0,232371,7.70%,462.3210297,1.979592978
+8/6/2020,Race or Ethnicity,Multi-Racial,Multirracial,421,5,6,0,66392,2.20%,63.41125437,0.9037233402
+8/6/2020,Race or Ethnicity,Native American,Nativo Americano,134,5,2,0,30178,1.00%,44.40320763,0.6627344423
+8/6/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2198,5,35,2,12071,0.40%,1820.893049,28.99511225
+8/6/2020,Race or Ethnicity,White,Blanco,23933,360,303,1,2387083,79.10%,100.2604434,1.269331649
+8/5/2020,Age,0-17,,5883,85,0,0,,,,
+8/5/2020,Age,18-24,,6368,127,0,0,,,,
+8/5/2020,Age,25-44,,16738,372,28,-1,,,,
+8/5/2020,Age,45-64,,12254,219,126,11,,,,
+8/5/2020,Age,65+,,5050,109,354,11,,,,
+8/5/2020,Facility Type,Broader Community,Comunidad más amplia,40215,740,346,13,,,,
+8/5/2020,Facility Type,Corrections,Intalación correccional,5281,158,30,2,,,,
+8/5/2020,Facility Type,Nursing Home,Asilo de ancianos,797,14,132,3,,,,
+8/5/2020,Gender,Female,Mujeres,21976,403,NA,NA,,,,
+8/5/2020,Gender,Gender Unknown,Género desconocidos,123,13,NA,NA,,,,
+8/5/2020,Gender,Male,Hombres,24194,496,NA,NA,,,,
+8/5/2020,Race or Ethnicity,African American,Afroamericano,9928,299,136,7,473795,15.70%,209.5421015,2.870439747
+8/5/2020,Race or Ethnicity,Asian,Asiático,659,16,7,0,51303,1.70%,128.4525271,1.364442625
+8/5/2020,Race or Ethnicity,Hispanic,Hispano,10599,177,46,3,232371,7.70%,456.124043,1.979592978
+8/5/2020,Race or Ethnicity,Multi-Racial,Multirracial,416,5,6,0,66392,2.20%,62.65815158,0.9037233402
+8/5/2020,Race or Ethnicity,Native American,Nativo Americano,129,4,2,0,30178,1.00%,42.74637153,0.6627344423
+8/5/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2193,10,33,0,12071,0.40%,1816.750891,27.3382487
+8/5/2020,Race or Ethnicity,White,Blanco,23573,740,302,12,2387083,79.10%,98.75232658,1.265142435
+8/4/2020,Age,0-17,,5798,104,0,0,,,,
+8/4/2020,Age,18-24,,6241,109,0,0,,,,
+8/4/2020,Age,25-44,,16366,277,29,3,,,,
+8/4/2020,Age,45-64,,12035,199,115,3,,,,
+8/4/2020,Age,65+,,4941,95,343,8,,,,
+8/4/2020,Facility Type,Broader Community,Comunidad más amplia,39475,758,333,14,,,,
+8/4/2020,Facility Type,Corrections,Intalación correccional,5123,10,28,1,,,,
+8/4/2020,Facility Type,Nursing Home,Asilo de ancianos,783,16,129,0,,,,
+8/4/2020,Gender,Female,Mujeres,21573,319,NA,NA,,,,
+8/4/2020,Gender,Gender Unknown,Género desconocidos,110,8,NA,NA,,,,
+8/4/2020,Gender,Male,Hombres,23698,357,NA,NA,,,,
+8/4/2020,Race or Ethnicity,African American,Afroamericano,9629,231,129,7,473795,15.70%,203.2313553,2.722696525
+8/4/2020,Race or Ethnicity,Asian,Asiático,643,16,7,0,51303,1.70%,125.3338011,1.364442625
+8/4/2020,Race or Ethnicity,Hispanic,Hispano,10376,177,43,-1,232371,7.70%,446.5273205,1.850489089
+8/4/2020,Race or Ethnicity,Multi-Racial,Multirracial,411,5,6,0,66392,2.20%,61.9050488,0.9037233402
+8/4/2020,Race or Ethnicity,Native American,Nativo Americano,125,2,2,0,30178,1.00%,41.42090264,0.6627344423
+8/4/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2183,9,33,1,12071,0.40%,1808.466573,27.3382487
+8/4/2020,Race or Ethnicity,White,Blanco,22833,482,290,5,2387083,79.10%,95.6523087,1.214871875
+8/3/2020,Age,0-17,,5694,83,0,0,,,,
+8/3/2020,Age,18-24,,6132,115,0,0,,,,
+8/3/2020,Age,25-44,,16089,242,26,0,,,,
+8/3/2020,Age,45-64,,11836,226,115,1,,,,
+8/3/2020,Age,65+,,4846,121,334,10,,,,
+8/3/2020,Facility Type,Broader Community,Comunidad más amplia,38717,774,319,9,,,,
+8/3/2020,Facility Type,Corrections,Intalación correccional,5113,6,27,1,,,,
+8/3/2020,Facility Type,Nursing Home,Asilo de ancianos,767,7,129,1,,,,
+8/3/2020,Gender,Female,Mujeres,21154,433,NA,NA,,,,
+8/3/2020,Gender,Gender Unknown,Género desconocidos,102,12,NA,NA,,,,
+8/3/2020,Gender,Male,Hombres,23341,342,NA,NA,,,,
+8/3/2020,Race or Ethnicity,African American,Afroamericano,9398,113,122,4,473795,15.70%,198.355829,2.574953303
+8/3/2020,Race or Ethnicity,Asian,Asiático,627,3,7,0,51303,1.70%,122.2150751,1.364442625
+8/3/2020,Race or Ethnicity,Hispanic,Hispano,10199,96,44,0,232371,7.70%,438.910191,1.893523719
+8/3/2020,Race or Ethnicity,Multi-Racial,Multirracial,406,1,6,0,66392,2.20%,61.15194602,0.9037233402
+8/3/2020,Race or Ethnicity,Native American,Nativo Americano,123,2,2,0,30178,1.00%,40.7581682,0.6627344423
+8/3/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2174,7,32,0,12071,0.40%,1801.010687,26.50981692
+8/3/2020,Race or Ethnicity,White,Blanco,22351,286,285,7,2387083,79.10%,93.63310786,1.193925808
+8/2/2020,Age,0-17,,5611,93,0,0,,,,
+8/2/2020,Age,18-24,,6017,86,0,0,,,,
+8/2/2020,Age,25-44,,15847,214,26,1,,,,
+8/2/2020,Age,45-64,,11610,170,114,0,,,,
+8/2/2020,Age,65+,,4725,74,324,5,,,,
+8/2/2020,Facility Type,Broader Community,Comunidad más amplia,37943,621,310,4,,,,
+8/2/2020,Facility Type,Corrections,Intalación correccional,5107,10,26,0,,,,
+8/2/2020,Facility Type,Nursing Home,Asilo de ancianos,760,6,128,2,,,,
+8/2/2020,Gender,Female,Mujeres,20721,353,NA,NA,,,,
+8/2/2020,Gender,Gender Unknown,Género desconocidos,90,10,NA,NA,,,,
+8/2/2020,Gender,Male,Hombres,22999,274,NA,NA,,,,
+8/2/2020,Race or Ethnicity,African American,Afroamericano,9285,123,118,0,473795,15.70%,195.9708313,2.490528604
+8/2/2020,Race or Ethnicity,Asian,Asiático,624,6,7,0,51303,1.70%,121.630314,1.364442625
+8/2/2020,Race or Ethnicity,Hispanic,Hispano,10103,107,44,0,232371,7.70%,434.7788666,1.893523719
+8/2/2020,Race or Ethnicity,Multi-Racial,Multirracial,405,2,6,0,66392,2.20%,61.00132546,0.9037233402
+8/2/2020,Race or Ethnicity,Native American,Nativo Americano,121,1,2,0,30178,1.00%,40.09543376,0.6627344423
+8/2/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2167,6,32,0,12071,0.40%,1795.211664,26.50981692
+8/2/2020,Race or Ethnicity,White,Blanco,22065,295,278,7,2387083,79.10%,92.43499283,1.164601315
+8/1/2020,Age,0-17,,5518,72,0,0,,,,
+8/1/2020,Age,18-24,,5931,111,0,0,,,,
+8/1/2020,Age,25-44,,15633,264,25,0,,,,
+8/1/2020,Age,45-64,,11440,145,114,0,,,,
+8/1/2020,Age,65+,,4651,71,319,5,,,,
+8/1/2020,Facility Type,Broader Community,Comunidad más amplia,37322,510,306,4,,,,
+8/1/2020,Facility Type,Corrections,Intalación correccional,5097,142,26,0,,,,
+8/1/2020,Facility Type,Nursing Home,Asilo de ancianos,754,10,126,1,,,,
+8/1/2020,Gender,Female,Mujeres,20368,304,NA,NA,,,,
+8/1/2020,Gender,Gender Unknown,Género desconocidos,80,29,NA,NA,,,,
+8/1/2020,Gender,Male,Hombres,22725,329,NA,NA,,,,
+8/1/2020,Race or Ethnicity,African American,Afroamericano,9162,151,118,1,473795,15.70%,193.3747718,2.490528604
+8/1/2020,Race or Ethnicity,Asian,Asiático,618,16,7,0,51303,1.70%,120.4607918,1.364442625
+8/1/2020,Race or Ethnicity,Hispanic,Hispano,9996,122,44,0,232371,7.70%,430.1741611,1.893523719
+8/1/2020,Race or Ethnicity,Multi-Racial,Multirracial,403,-15,6,0,66392,2.20%,60.70008435,0.9037233402
+8/1/2020,Race or Ethnicity,Native American,Nativo Americano,120,0,2,0,30178,1.00%,39.76406654,0.6627344423
+8/1/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2161,21,32,0,12071,0.40%,1790.241074,26.50981692
+8/1/2020,Race or Ethnicity,White,Blanco,21770,366,271,4,2387083,79.10%,91.19917489,1.135276821
+7/31/2020,Age,0-17,,5446,105,0,0,,,,
+7/31/2020,Age,18-24,,5821,89,0,0,,,,
+7/31/2020,Age,25-44,,15369,247,25,1,,,,
+7/31/2020,Age,45-64,,11295,208,114,3,,,,
+7/31/2020,Age,65+,,4580,103,314,7,,,,
+7/31/2020,Facility Type,Broader Community,Comunidad más amplia,36812,715,302,10,,,,
+7/31/2020,Facility Type,Corrections,Intalación correccional,4955,33,26,1,,,,
+7/31/2020,Facility Type,Nursing Home,Asilo de ancianos,744,4,125,0,,,,
+7/31/2020,Gender,Female,Mujeres,20064,446,NA,NA,,,,
+7/31/2020,Gender,Gender Unknown,Género desconocidos,51,-36,NA,NA,,,,
+7/31/2020,Gender,Male,Hombres,22396,342,NA,NA,,,,
+7/31/2020,Race or Ethnicity,African American,Afroamericano,9011,149,117,2,473795,15.70%,190.1877394,2.46942243
+7/31/2020,Race or Ethnicity,Asian,Asiático,602,9,7,1,51303,1.70%,117.3420658,1.364442625
+7/31/2020,Race or Ethnicity,Hispanic,Hispano,9874,195,44,1,232371,7.70%,424.9239363,1.893523719
+7/31/2020,Race or Ethnicity,Multi-Racial,Multirracial,418,1,6,0,66392,2.20%,62.9593927,0.9037233402
+7/31/2020,Race or Ethnicity,Native American,Nativo Americano,120,0,2,0,30178,1.00%,39.76406654,0.6627344423
+7/31/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2140,13,32,1,12071,0.40%,1772.844006,26.50981692
+7/31/2020,Race or Ethnicity,White,Blanco,21404,409,267,7,2387083,79.10%,89.6659228,1.118519968
+7/30/2020,Age,0-17,,5341,100,0,0,,,,
+7/30/2020,Age,18-24,,5732,103,0,0,,,,
+7/30/2020,Age,25-44,,15122,298,24,0,,,,
+7/30/2020,Age,45-64,,11087,211,111,0,,,,
+7/30/2020,Age,65+,,4477,79,307,8,,,,
+7/30/2020,Facility Type,Broader Community,Comunidad más amplia,36097,753,292,3,,,,
+7/30/2020,Facility Type,Corrections,Intalación correccional,4922,32,25,0,,,,
+7/30/2020,Facility Type,Nursing Home,Asilo de ancianos,740,6,125,5,,,,
+7/30/2020,Gender,Female,Mujeres,19618,407,NA,NA,,,,
+7/30/2020,Gender,Gender Unknown,Género desconocidos,87,7,NA,NA,,,,
+7/30/2020,Gender,Male,Hombres,22054,377,NA,NA,,,,
+7/30/2020,Race or Ethnicity,African American,Afroamericano,8862,189,115,2,473795,15.70%,187.0429194,2.42721008
+7/30/2020,Race or Ethnicity,Asian,Asiático,593,6,6,0,51303,1.70%,115.5877824,1.16952225
+7/30/2020,Race or Ethnicity,Hispanic,Hispano,9679,186,43,0,232371,7.70%,416.5321834,1.850489089
+7/30/2020,Race or Ethnicity,Multi-Racial,Multirracial,417,9,6,0,66392,2.20%,62.80877214,0.9037233402
+7/30/2020,Race or Ethnicity,Native American,Nativo Americano,120,0,2,0,30178,1.00%,39.76406654,0.6627344423
+7/30/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2127,24,31,0,12071,0.40%,1762.074393,25.68138514
+7/30/2020,Race or Ethnicity,White,Blanco,20995,468,260,5,2387083,79.10%,87.95253454,1.089195474
+7/29/2020,Age,0-17,,5241,81,0,0,,,,
+7/29/2020,Age,18-24,,5629,123,0,0,,,,
+7/29/2020,Age,25-44,,14824,280,24,1,,,,
+7/29/2020,Age,45-64,,10876,195,111,1,,,,
+7/29/2020,Age,65+,,4398,108,299,4,,,,
+7/29/2020,Facility Type,Broader Community,Comunidad más amplia,35344,608,289,6,,,,
+7/29/2020,Facility Type,Corrections,Intalación correccional,4890,170,25,0,,,,
+7/29/2020,Facility Type,Nursing Home,Asilo de ancianos,734,9,120,0,,,,
+7/29/2020,Gender,Female,Mujeres,19211,339,NA,NA,,,,
+7/29/2020,Gender,Gender Unknown,Género desconocidos,80,-13,NA,NA,,,,
+7/29/2020,Gender,Male,Hombres,21677,461,NA,NA,,,,
+7/29/2020,Race or Ethnicity,African American,Afroamericano,8673,249,113,3,473795,15.70%,183.0538524,2.384997731
+7/29/2020,Race or Ethnicity,Asian,Asiático,587,7,6,0,51303,1.70%,114.4182601,1.16952225
+7/29/2020,Race or Ethnicity,Hispanic,Hispano,9493,185,43,1,232371,7.70%,408.5277423,1.850489089
+7/29/2020,Race or Ethnicity,Multi-Racial,Multirracial,408,4,6,0,66392,2.20%,61.45318713,0.9037233402
+7/29/2020,Race or Ethnicity,Native American,Nativo Americano,120,2,2,0,30178,1.00%,39.76406654,0.6627344423
+7/29/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2103,7,31,1,12071,0.40%,1742.19203,25.68138514
+7/29/2020,Race or Ethnicity,White,Blanco,20527,562,255,5,2387083,79.10%,85.99198268,1.068249407
+7/28/2020,Age,0-17,,5160,81,0,0,,,,
+7/28/2020,Age,18-24,,5506,100,0,0,,,,
+7/28/2020,Age,25-44,,14544,234,23,0,,,,
+7/28/2020,Age,45-64,,10681,210,110,5,,,,
+7/28/2020,Age,65+,,4290,106,295,15,,,,
+7/28/2020,Facility Type,Broader Community,Comunidad más amplia,34736,706,283,12,,,,
+7/28/2020,Facility Type,Corrections,Intalación correccional,4720,20,25,3,,,,
+7/28/2020,Facility Type,Nursing Home,Asilo de ancianos,725,8,120,4,,,,
+7/28/2020,Gender,Female,Mujeres,18872,226,NA,NA,,,,
+7/28/2020,Gender,Gender Unknown,Género desconocidos,93,-26,NA,NA,,,,
+7/28/2020,Gender,Male,Hombres,21216,352,NA,NA,,,,
+7/28/2020,Race or Ethnicity,African American,Afroamericano,8424,160,110,4,473795,15.70%,177.7984149,2.321679207
+7/28/2020,Race or Ethnicity,Asian,Asiático,580,13,6,0,51303,1.70%,113.0538175,1.16952225
+7/28/2020,Race or Ethnicity,Hispanic,Hispano,9308,151,42,1,232371,7.70%,400.5663357,1.807454459
+7/28/2020,Race or Ethnicity,Multi-Racial,Multirracial,404,1,6,0,66392,2.20%,60.8507049,0.9037233402
+7/28/2020,Race or Ethnicity,Native American,Nativo Americano,118,5,2,0,30178,1.00%,39.1013321,0.6627344423
+7/28/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2096,14,30,0,12071,0.40%,1736.393008,24.85295336
+7/28/2020,Race or Ethnicity,White,Blanco,19965,463,250,13,2387083,79.10%,83.63764477,1.047303341
+7/27/2020,Age,0-17,,5079,121,0,0,,,,
+7/27/2020,Age,18-24,,5406,134,0,0,,,,
+7/27/2020,Age,25-44,,14310,266,23,0,,,,
+7/27/2020,Age,45-64,,10471,208,105,1,,,,
+7/27/2020,Age,65+,,4184,95,280,6,,,,
+7/27/2020,Facility Type,Broader Community,Comunidad más amplia,34030,811,271,8,,,,
+7/27/2020,Facility Type,Corrections,Intalación correccional,4700,10,22,0,,,,
+7/27/2020,Facility Type,Nursing Home,Asilo de ancianos,717,2,116,0,,,,
+7/27/2020,Gender,Female,Mujeres,18646,612,NA,NA,,,,
+7/27/2020,Gender,Gender Unknown,Género desconocidos,119,28,NA,NA,,,,
+7/27/2020,Gender,Male,Hombres,20864,366,NA,NA,,,,
+7/27/2020,Race or Ethnicity,African American,Afroamericano,8264,103,106,0,473795,15.70%,174.421427,2.237254509
+7/27/2020,Race or Ethnicity,Asian,Asiático,567,6,6,0,51303,1.70%,110.5198526,1.16952225
+7/27/2020,Race or Ethnicity,Hispanic,Hispano,9157,126,41,1,232371,7.70%,394.0681066,1.764419829
+7/27/2020,Race or Ethnicity,Multi-Racial,Multirracial,403,1,6,0,66392,2.20%,60.70008435,0.9037233402
+7/27/2020,Race or Ethnicity,Native American,Nativo Americano,113,0,2,0,30178,1.00%,37.44449599,0.6627344423
+7/27/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2082,10,30,0,12071,0.40%,1724.794963,24.85295336
+7/27/2020,Race or Ethnicity,White,Blanco,19502,363,237,5,2387083,79.10%,81.69803899,0.9928435668
+7/26/2020,Age,0-17,,4955,108,0,0,,,,
+7/26/2020,Age,18-24,,5272,90,0,0,,,,
+7/26/2020,Age,25-44,,14044,213,23,0,,,,
+7/26/2020,Age,45-64,,10263,169,104,0,,,,
+7/26/2020,Age,65+,,4089,62,274,2,,,,
+7/26/2020,Facility Type,Broader Community,Comunidad más amplia,33219,623,263,2,,,,
+7/26/2020,Facility Type,Corrections,Intalación correccional,4690,16,22,0,,,,
+7/26/2020,Facility Type,Nursing Home,Asilo de ancianos,714,3,116,0,,,,
+7/26/2020,Gender,Female,Mujeres,18034,337,NA,NA,,,,
+7/26/2020,Gender,Gender Unknown,Género desconocidos,91,7,NA,NA,,,,
+7/26/2020,Gender,Male,Hombres,20498,298,NA,NA,,,,
+7/26/2020,Race or Ethnicity,African American,Afroamericano,8161,103,106,0,473795,15.70%,172.247491,2.237254509
+7/26/2020,Race or Ethnicity,Asian,Asiático,561,10,6,0,51303,1.70%,109.3503304,1.16952225
+7/26/2020,Race or Ethnicity,Hispanic,Hispano,9031,109,40,0,232371,7.70%,388.6457432,1.721385199
+7/26/2020,Race or Ethnicity,Multi-Racial,Multirracial,402,5,6,0,66392,2.20%,60.54946379,0.9037233402
+7/26/2020,Race or Ethnicity,Native American,Nativo Americano,113,4,2,0,30178,1.00%,37.44449599,0.6627344423
+7/26/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2072,29,30,0,12071,0.40%,1716.510645,24.85295336
+7/26/2020,Race or Ethnicity,White,Blanco,19139,273,232,1,2387083,79.10%,80.17735454,0.9718975
+7/25/2020,Age,0-17,,4847,150,0,0,,,,
+7/25/2020,Age,18-24,,5182,99,0,0,,,,
+7/25/2020,Age,25-44,,13831,229,23,0,,,,
+7/25/2020,Age,45-64,,10094,171,104,3,,,,
+7/25/2020,Age,65+,,4027,83,272,2,,,,
+7/25/2020,Facility Type,Broader Community,Comunidad más amplia,32596,410,261,5,,,,
+7/25/2020,Facility Type,Corrections,Intalación correccional,4674,274,22,0,,,,
+7/25/2020,Facility Type,Nursing Home,Asilo de ancianos,711,48,116,1,,,,
+7/25/2020,Gender,Female,Mujeres,17697,369,NA,NA,,,,
+7/25/2020,Gender,Gender Unknown,Género desconocidos,84,10,NA,NA,,,,
+7/25/2020,Gender,Male,Hombres,20200,353,NA,NA,,,,
+7/25/2020,Race or Ethnicity,African American,Afroamericano,8058,204,106,1,473795,15.70%,170.073555,2.237254509
+7/25/2020,Race or Ethnicity,Asian,Asiático,551,10,6,0,51303,1.70%,107.4011266,1.16952225
+7/25/2020,Race or Ethnicity,Hispanic,Hispano,8922,138,40,0,232371,7.70%,383.9549686,1.721385199
+7/25/2020,Race or Ethnicity,Multi-Racial,Multirracial,397,7,6,1,66392,2.20%,59.79636101,0.9037233402
+7/25/2020,Race or Ethnicity,Native American,Nativo Americano,109,2,2,1,30178,1.00%,36.11902711,0.6627344423
+7/25/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2043,15,30,0,12071,0.40%,1692.486124,24.85295336
+7/25/2020,Race or Ethnicity,White,Blanco,18866,470,231,6,2387083,79.10%,79.03369929,0.9677082866
+7/24/2020,Age,0-17,,4697,177,0,0,,,,
+7/24/2020,Age,18-24,,5083,128,0,0,,,,
+7/24/2020,Age,25-44,,13602,300,23,1,,,,
+7/24/2020,Age,45-64,,9923,248,101,1,,,,
+7/24/2020,Age,65+,,3944,137,270,6,,,,
+7/24/2020,Facility Type,Broader Community,Comunidad más amplia,32186,977,256,6,,,,
+7/24/2020,Facility Type,Corrections,Intalación correccional,4400,7,22,1,,,,
+7/24/2020,Facility Type,Nursing Home,Asilo de ancianos,663,6,116,1,,,,
+7/24/2020,Gender,Female,Mujeres,17328,472,NA,NA,,,,
+7/24/2020,Gender,Gender Unknown,Género desconocidos,74,24,NA,NA,,,,
+7/24/2020,Gender,Male,Hombres,19847,494,NA,NA,,,,
+7/24/2020,Race or Ethnicity,African American,Afroamericano,7854,144,105,3,473795,15.70%,165.7678954,2.216148334
+7/24/2020,Race or Ethnicity,Asian,Asiático,541,19,6,0,51303,1.70%,105.4519229,1.16952225
+7/24/2020,Race or Ethnicity,Hispanic,Hispano,8784,170,40,0,232371,7.70%,378.0161896,1.721385199
+7/24/2020,Race or Ethnicity,Multi-Racial,Multirracial,390,5,5,0,66392,2.20%,58.74201711,0.7531027835
+7/24/2020,Race or Ethnicity,Native American,Nativo Americano,107,5,1,0,30178,1.00%,35.45629266,0.3313672212
+7/24/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2028,16,30,0,12071,0.40%,1680.059647,24.85295336
+7/24/2020,Race or Ethnicity,White,Blanco,18396,487,225,4,2387083,79.10%,77.06476901,0.9425730065
+7/23/2020,Age,0-17,,4520,156,0,0,,,,
+7/23/2020,Age,18-24,,4955,148,0,0,,,,
+7/23/2020,Age,25-44,,13302,313,22,0,,,,
+7/23/2020,Age,45-64,,9675,267,100,0,,,,
+7/23/2020,Age,65+,,3807,129,264,6,,,,
+7/23/2020,Facility Type,Broader Community,Comunidad más amplia,31209,998,250,4,,,,
+7/23/2020,Facility Type,Corrections,Intalación correccional,4393,5,21,0,,,,
+7/23/2020,Facility Type,Nursing Home,Asilo de ancianos,657,10,115,2,,,,
+7/23/2020,Gender,Female,Mujeres,16856,538,NA,NA,,,,
+7/23/2020,Gender,Gender Unknown,Género desconocidos,50,1,NA,NA,,,,
+7/23/2020,Gender,Male,Hombres,19353,474,NA,NA,,,,
+7/23/2020,Race or Ethnicity,African American,Afroamericano,7710,189,102,2,473795,15.70%,162.7286063,2.15282981
+7/23/2020,Race or Ethnicity,Asian,Asiático,522,24,6,0,51303,1.70%,101.7484358,1.16952225
+7/23/2020,Race or Ethnicity,Hispanic,Hispano,8614,203,40,0,232371,7.70%,370.7003025,1.721385199
+7/23/2020,Race or Ethnicity,Multi-Racial,Multirracial,385,6,5,0,66392,2.20%,57.98891433,0.7531027835
+7/23/2020,Race or Ethnicity,Native American,Nativo Americano,102,1,1,1,30178,1.00%,33.79945656,0.3313672212
+7/23/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,2012,27,30,0,12071,0.40%,1666.804739,24.85295336
+7/23/2020,Race or Ethnicity,White,Blanco,17909,503,221,7,2387083,79.10%,75.0246221,0.925816153
+7/22/2020,Age,0-17,,4364,107,0,0,,,,
+7/22/2020,Age,18-24,,4807,94,0,0,,,,
+7/22/2020,Age,25-44,,12989,179,22,2,,,,
+7/22/2020,Age,45-64,,9408,142,100,0,,,,
+7/22/2020,Age,65+,,3678,69,258,4,,,,
+7/22/2020,Facility Type,Broader Community,Comunidad más amplia,30211,577,246,4,,,,
+7/22/2020,Facility Type,Corrections,Intalación correccional,4388,7,21,0,,,,
+7/22/2020,Facility Type,Nursing Home,Asilo de ancianos,647,7,113,2,,,,
+7/22/2020,Gender,Female,Mujeres,16318,330,NA,NA,,,,
+7/22/2020,Gender,Gender Unknown,Género desconocidos,49,-8,NA,NA,,,,
+7/22/2020,Gender,Male,Hombres,18879,269,NA,NA,,,,
+7/22/2020,Race or Ethnicity,African American,Afroamericano,7521,157,100,1,473795,15.70%,158.7395393,2.110617461
+7/22/2020,Race or Ethnicity,Asian,Asiático,498,17,6,0,51303,1.70%,97.07034676,1.16952225
+7/22/2020,Race or Ethnicity,Hispanic,Hispano,8411,175,40,0,232371,7.70%,361.9642727,1.721385199
+7/22/2020,Race or Ethnicity,Multi-Racial,Multirracial,379,23,5,0,66392,2.20%,57.08519099,0.7531027835
+7/22/2020,Race or Ethnicity,Native American,Nativo Americano,101,10,0,0,30178,1.00%,33.46808934,0
+7/22/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1985,29,30,1,12071,0.40%,1644.437081,24.85295336
+7/22/2020,Race or Ethnicity,White,Blanco,17406,404,214,3,2387083,79.10%,72.91744778,0.8964916595
+7/21/2020,Age,0-17,,4257,134,0,0,,,,
+7/21/2020,Age,18-24,,4713,95,0,0,,,,
+7/21/2020,Age,25-44,,12810,226,20,0,,,,
+7/21/2020,Age,45-64,,9266,196,100,5,,,,
+7/21/2020,Age,65+,,3609,77,254,6,,,,
+7/21/2020,Facility Type,Broader Community,Comunidad más amplia,29634,581,242,9,,,,
+7/21/2020,Facility Type,Corrections,Intalación correccional,4381,122,21,2,,,,
+7/21/2020,Facility Type,Nursing Home,Asilo de ancianos,640,25,111,0,,,,
+7/21/2020,Gender,Female,Mujeres,15988,428,NA,NA,,,,
+7/21/2020,Gender,Gender Unknown,Género desconocidos,57,-65,NA,NA,,,,
+7/21/2020,Gender,Male,Hombres,18610,365,NA,NA,,,,
+7/21/2020,Race or Ethnicity,African American,Afroamericano,7364,197,99,4,473795,15.70%,155.4258698,2.089511287
+7/21/2020,Race or Ethnicity,Asian,Asiático,481,14,6,0,51303,1.70%,93.75670039,1.16952225
+7/21/2020,Race or Ethnicity,Hispanic,Hispano,8236,171,40,2,232371,7.70%,354.4332124,1.721385199
+7/21/2020,Race or Ethnicity,Multi-Racial,Multirracial,356,6,5,0,66392,2.20%,53.62091818,0.7531027835
+7/21/2020,Race or Ethnicity,Native American,Nativo Americano,91,1,0,0,30178,1.00%,30.15441713,0
+7/21/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1956,41,29,0,12071,0.40%,1620.412559,24.02452158
+7/21/2020,Race or Ethnicity,White,Blanco,17002,478,211,5,2387083,79.10%,71.22500558,0.8839240194
+7/20/2020,Age,0-17,,4123,118,0,0,,,,
+7/20/2020,Age,18-24,,4618,115,0,0,,,,
+7/20/2020,Age,25-44,,12584,197,20,1,,,,
+7/20/2020,Age,45-64,,9070,190,95,2,,,,
+7/20/2020,Age,65+,,3532,79,248,3,,,,
+7/20/2020,Facility Type,Broader Community,Comunidad más amplia,29053,686,233,6,,,,
+7/20/2020,Facility Type,Corrections,Intalación correccional,4259,11,19,0,,,,
+7/20/2020,Facility Type,Nursing Home,Asilo de ancianos,615,2,111,0,,,,
+7/20/2020,Gender,Female,Mujeres,15560,371,NA,NA,,,,
+7/20/2020,Gender,Gender Unknown,Género desconocidos,122,35,NA,NA,,,,
+7/20/2020,Gender,Male,Hombres,18245,293,NA,NA,,,,
+7/20/2020,Race or Ethnicity,African American,Afroamericano,7167,126,95,2,473795,15.70%,151.2679534,2.005086588
+7/20/2020,Race or Ethnicity,Asian,Asiático,467,8,6,0,51303,1.70%,91.02781514,1.16952225
+7/20/2020,Race or Ethnicity,Hispanic,Hispano,8065,139,38,3,232371,7.70%,347.0742907,1.635315939
+7/20/2020,Race or Ethnicity,Multi-Racial,Multirracial,350,3,5,0,66392,2.20%,52.71719484,0.7531027835
+7/20/2020,Race or Ethnicity,Native American,Nativo Americano,90,0,0,0,30178,1.00%,29.8230499,0
+7/20/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1915,8,29,0,12071,0.40%,1586.446856,24.02452158
+7/20/2020,Race or Ethnicity,White,Blanco,16524,308,206,4,2387083,79.10%,69.2225616,0.8629779526
+7/19/2020,Age,0-17,,4005,102,0,0,,,,
+7/19/2020,Age,18-24,,4503,84,0,0,,,,
+7/19/2020,Age,25-44,,12387,254,19,1,,,,
+7/19/2020,Age,45-64,,8880,174,93,-1,,,,
+7/19/2020,Age,65+,,3453,81,245,0,,,,
+7/19/2020,Facility Type,Broader Community,Comunidad más amplia,28367,626,227,0,,,,
+7/19/2020,Facility Type,Corrections,Intalación correccional,4248,67,19,1,,,,
+7/19/2020,Facility Type,Nursing Home,Asilo de ancianos,613,2,111,-1,,,,
+7/19/2020,Gender,Female,Mujeres,15189,366,NA,NA,,,,
+7/19/2020,Gender,Gender Unknown,Género desconocidos,87,28,NA,NA,,,,
+7/19/2020,Gender,Male,Hombres,17952,301,NA,NA,,,,
+7/19/2020,Race or Ethnicity,African American,Afroamericano,7041,123,93,0,473795,15.70%,148.6085754,1.962874239
+7/19/2020,Race or Ethnicity,Asian,Asiático,459,7,6,0,51303,1.70%,89.46845214,1.16952225
+7/19/2020,Race or Ethnicity,Hispanic,Hispano,7926,114,35,0,232371,7.70%,341.0924771,1.506212049
+7/19/2020,Race or Ethnicity,Multi-Racial,Multirracial,347,3,5,0,66392,2.20%,52.26533317,0.7531027835
+7/19/2020,Race or Ethnicity,Native American,Nativo Americano,90,7,0,0,30178,1.00%,29.8230499,0
+7/19/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1907,9,29,0,12071,0.40%,1579.819402,24.02452158
+7/19/2020,Race or Ethnicity,White,Blanco,16216,274,202,0,2387083,79.10%,67.93228388,0.8462210991
+7/18/2020,Age,0-17,,3903,99,0,0,,,,
+7/18/2020,Age,18-24,,4419,113,0,0,,,,
+7/18/2020,Age,25-44,,12133,279,18,1,,,,
+7/18/2020,Age,45-64,,8706,195,94,1,,,,
+7/18/2020,Age,65+,,3372,85,245,2,,,,
+7/18/2020,Facility Type,Broader Community,Comunidad más amplia,27741,753,227,4,,,,
+7/18/2020,Facility Type,Corrections,Intalación correccional,4181,16,18,0,,,,
+7/18/2020,Facility Type,Nursing Home,Asilo de ancianos,611,3,112,0,,,,
+7/18/2020,Gender,Female,Mujeres,14823,387,NA,NA,,,,
+7/18/2020,Gender,Gender Unknown,Género desconocidos,59,9,NA,NA,,,,
+7/18/2020,Gender,Male,Hombres,17651,376,NA,NA,,,,
+7/18/2020,Race or Ethnicity,African American,Afroamericano,6918,134,93,1,473795,15.70%,146.012516,1.962874239
+7/18/2020,Race or Ethnicity,Asian,Asiático,452,9,6,0,51303,1.70%,88.10400951,1.16952225
+7/18/2020,Race or Ethnicity,Hispanic,Hispano,7812,142,35,0,232371,7.70%,336.1865293,1.506212049
+7/18/2020,Race or Ethnicity,Multi-Racial,Multirracial,344,3,5,0,66392,2.20%,51.8134715,0.7531027835
+7/18/2020,Race or Ethnicity,Native American,Nativo Americano,83,1,0,0,30178,1.00%,27.50347936,0
+7/18/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1898,9,29,0,12071,0.40%,1572.363516,24.02452158
+7/18/2020,Race or Ethnicity,White,Blanco,15942,338,202,3,2387083,79.10%,66.78443942,0.8462210991
+7/17/2020,Age,0-17,,3804,81,0,0,,,,
+7/17/2020,Age,18-24,,4306,93,0,0,,,,
+7/17/2020,Age,25-44,,11854,258,17,1,,,,
+7/17/2020,Age,45-64,,8511,158,93,5,,,,
+7/17/2020,Age,65+,,3287,58,243,6,,,,
+7/17/2020,Facility Type,Broader Community,Comunidad más amplia,26988,606,223,7,,,,
+7/17/2020,Facility Type,Corrections,Intalación correccional,4165,40,18,2,,,,
+7/17/2020,Facility Type,Nursing Home,Asilo de ancianos,609,2,112,3,,,,
+7/17/2020,Gender,Female,Mujeres,14436,340,NA,NA,,,,
+7/17/2020,Gender,Gender Unknown,Género desconocidos,51,-8,NA,NA,,,,
+7/17/2020,Gender,Male,Hombres,17275,316,NA,NA,,,,
+7/17/2020,Race or Ethnicity,African American,Afroamericano,6784,143,92,3,473795,15.70%,143.1842886,1.941768064
+7/17/2020,Race or Ethnicity,Asian,Asiático,443,8,6,0,51303,1.70%,86.34972614,1.16952225
+7/17/2020,Race or Ethnicity,Hispanic,Hispano,7670,131,35,2,232371,7.70%,330.0756118,1.506212049
+7/17/2020,Race or Ethnicity,Multi-Racial,Multirracial,341,4,5,0,66392,2.20%,51.36160983,0.7531027835
+7/17/2020,Race or Ethnicity,Native American,Nativo Americano,82,0,0,0,30178,1.00%,27.17211213,0
+7/17/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1889,25,29,0,12071,0.40%,1564.90763,24.02452158
+7/17/2020,Race or Ethnicity,White,Blanco,15604,372,199,8,2387083,79.10%,65.3684853,0.8336534591
+7/16/2020,Age,0-17,,3723,36,0,0,,,,
+7/16/2020,Age,18-24,,4213,126,0,0,,,,
+7/16/2020,Age,25-44,,11596,324,16,0,,,,
+7/16/2020,Age,45-64,,8353,238,88,3,,,,
+7/16/2020,Age,65+,,3229,93,237,3,,,,
+7/16/2020,Facility Type,Broader Community,Comunidad más amplia,26382,728,216,-3,,,,
+7/16/2020,Facility Type,Corrections,Intalación correccional,4125,82,16,0,,,,
+7/16/2020,Facility Type,Nursing Home,Asilo de ancianos,607,7,109,2,,,,
+7/16/2020,Gender,Female,Mujeres,14096,445,NA,NA,,,,
+7/16/2020,Gender,Gender Unknown,Género desconocidos,59,-80,NA,NA,,,,
+7/16/2020,Gender,Male,Hombres,16959,452,NA,NA,,,,
+7/16/2020,Race or Ethnicity,African American,Afroamericano,6641,197,89,2,473795,15.70%,140.1661056,1.87844954
+7/16/2020,Race or Ethnicity,Asian,Asiático,435,10,6,0,51303,1.70%,84.79036314,1.16952225
+7/16/2020,Race or Ethnicity,Hispanic,Hispano,7539,216,33,1,232371,7.70%,324.4380753,1.420142789
+7/16/2020,Race or Ethnicity,Multi-Racial,Multirracial,338,39,5,1,66392,2.20%,50.90974816,0.7531027835
+7/16/2020,Race or Ethnicity,Native American,Nativo Americano,82,4,0,0,30178,1.00%,27.17211213,0
+7/16/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1864,32,29,0,12071,0.40%,1544.196835,24.02452158
+7/16/2020,Race or Ethnicity,White,Blanco,15232,559,191,3,2387083,79.10%,63.81009793,0.8001397522
+7/15/2020,Age,0-17,,3687,59,0,0,,,,
+7/15/2020,Age,18-24,,4087,72,0,0,,,,
+7/15/2020,Age,25-44,,11272,218,16,0,,,,
+7/15/2020,Age,45-64,,8115,144,85,1,,,,
+7/15/2020,Age,65+,,3136,71,234,3,,,,
+7/15/2020,Facility Type,Broader Community,Comunidad más amplia,25654,483,219,3,,,,
+7/15/2020,Facility Type,Corrections,Intalación correccional,4043,79,16,0,,,,
+7/15/2020,Facility Type,Nursing Home,Asilo de ancianos,600,2,107,1,,,,
+7/15/2020,Gender,Female,Mujeres,13651,259,NA,NA,,,,
+7/15/2020,Gender,Gender Unknown,Género desconocidos,139,-34,NA,NA,,,,
+7/15/2020,Gender,Male,Hombres,16507,339,NA,NA,,,,
+7/15/2020,Race or Ethnicity,African American,Afroamericano,6444,161,87,6,473795,15.70%,136.0081892,1.836237191
+7/15/2020,Race or Ethnicity,Asian,Asiático,425,13,6,2,51303,1.70%,82.84115939,1.16952225
+7/15/2020,Race or Ethnicity,Hispanic,Hispano,7323,211,32,2,232371,7.70%,315.1425952,1.377108159
+7/15/2020,Race or Ethnicity,Multi-Racial,Multirracial,299,5,4,1,66392,2.20%,45.03554645,0.6024822268
+7/15/2020,Race or Ethnicity,Native American,Nativo Americano,78,1,0,0,30178,1.00%,25.84664325,0
+7/15/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1832,47,29,2,12071,0.40%,1517.687018,24.02452158
+7/15/2020,Race or Ethnicity,White,Blanco,14673,460,188,10,2387083,79.10%,61.46832766,0.7875721121
+7/14/2020,Age,0-17,,3628,94,0,0,,,,
+7/14/2020,Age,18-24,,4015,117,0,0,,,,
+7/14/2020,Age,25-44,,11054,300,16,0,,,,
+7/14/2020,Age,45-64,,7971,183,84,2,,,,
+7/14/2020,Age,65+,,3065,100,231,6,,,,
+7/14/2020,Facility Type,Broader Community,Comunidad más amplia,25171,759,209,6,,,,
+7/14/2020,Facility Type,Corrections,Intalación correccional,3964,33,16,1,,,,
+7/14/2020,Facility Type,Nursing Home,Asilo de ancianos,598,2,106,1,,,,
+7/14/2020,Gender,Female,Mujeres,13392,430,NA,NA,,,,
+7/14/2020,Gender,Gender Unknown,Género desconocidos,173,-79,NA,NA,,,,
+7/14/2020,Gender,Male,Hombres,16168,443,NA,NA,,,,
+7/14/2020,Race or Ethnicity,African American,Afroamericano,6283,161,81,2,473795,15.70%,132.6100951,1.709600144
+7/14/2020,Race or Ethnicity,Asian,Asiático,412,14,4,1,51303,1.70%,80.30719451,0.7796815001
+7/14/2020,Race or Ethnicity,Hispanic,Hispano,7112,198,30,0,232371,7.70%,306.0622883,1.291038899
+7/14/2020,Race or Ethnicity,Multi-Racial,Multirracial,294,8,3,0,66392,2.20%,44.28244367,0.4518616701
+7/14/2020,Race or Ethnicity,Native American,Nativo Americano,77,3,0,0,30178,1.00%,25.51527603,0
+7/14/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1785,33,27,0,12071,0.40%,1478.750725,22.36765802
+7/14/2020,Race or Ethnicity,White,Blanco,14213,508,178,4,2387083,79.10%,59.54128952,0.7456799785
+7/13/2020,Age,0-17,,3534,65,0,0,,,,
+7/13/2020,Age,18-24,,3898,90,0,0,,,,
+7/13/2020,Age,25-44,,10754,208,16,0,,,,
+7/13/2020,Age,45-64,,7788,158,82,1,,,,
+7/13/2020,Age,65+,,2965,51,225,1,,,,
+7/13/2020,Facility Type,Broader Community,Comunidad más amplia,24412,564,203,2,,,,
+7/13/2020,Facility Type,Corrections,Intalación correccional,3931,3,15,0,,,,
+7/13/2020,Facility Type,Nursing Home,Asilo de ancianos,596,5,105,0,,,,
+7/13/2020,Gender,Female,Mujeres,12962,302,NA,NA,,,,
+7/13/2020,Gender,Gender Unknown,Género desconocidos,252,5,NA,NA,,,,
+7/13/2020,Gender,Male,Hombres,15725,265,NA,NA,,,,
+7/13/2020,Race or Ethnicity,African American,Afroamericano,6122,80,79,1,473795,15.70%,129.212001,1.667387794
+7/13/2020,Race or Ethnicity,Asian,Asiático,398,3,3,0,51303,1.70%,77.57830926,0.5847611251
+7/13/2020,Race or Ethnicity,Hispanic,Hispano,6914,63,30,2,232371,7.70%,297.5414316,1.291038899
+7/13/2020,Race or Ethnicity,Multi-Racial,Multirracial,286,-1,3,0,66392,2.20%,43.07747921,0.4518616701
+7/13/2020,Race or Ethnicity,Native American,Nativo Americano,74,0,0,0,30178,1.00%,24.52117437,0
+7/13/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1752,9,27,0,12071,0.40%,1451.412476,22.36765802
+7/13/2020,Race or Ethnicity,White,Blanco,13705,163,173,2,2387083,79.10%,57.41316913,0.7247339116
+7/12/2020,Age,0-17,,3469,59,0,0,,,,
+7/12/2020,Age,18-24,,3808,80,0,0,,,,
+7/12/2020,Age,25-44,,10546,175,16,0,,,,
+7/12/2020,Age,45-64,,7630,145,81,1,,,,
+7/12/2020,Age,65+,,2914,44,224,1,,,,
+7/12/2020,Facility Type,Broader Community,Comunidad más amplia,23848,447,201,2,,,,
+7/12/2020,Facility Type,Corrections,Intalación correccional,3928,51,15,0,,,,
+7/12/2020,Facility Type,Nursing Home,Asilo de ancianos,591,5,105,0,,,,
+7/12/2020,Gender,Female,Mujeres,12660,235,NA,NA,,,,
+7/12/2020,Gender,Gender Unknown,Género desconocidos,247,-3,NA,NA,,,,
+7/12/2020,Gender,Male,Hombres,15460,271,NA,NA,,,,
+7/12/2020,Race or Ethnicity,African American,Afroamericano,6042,83,78,1,473795,15.70%,127.523507,1.64628162
+7/12/2020,Race or Ethnicity,Asian,Asiático,395,8,3,0,51303,1.70%,76.99354814,0.5847611251
+7/12/2020,Race or Ethnicity,Hispanic,Hispano,6851,100,28,0,232371,7.70%,294.8302499,1.204969639
+7/12/2020,Race or Ethnicity,Multi-Racial,Multirracial,287,4,3,0,66392,2.20%,43.22809977,0.4518616701
+7/12/2020,Race or Ethnicity,Native American,Nativo Americano,74,1,0,0,30178,1.00%,24.52117437,0
+7/12/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1743,11,27,0,12071,0.40%,1443.95659,22.36765802
+7/12/2020,Race or Ethnicity,White,Blanco,13542,191,171,0,2387083,79.10%,56.73032735,0.7163554849
+7/11/2020,Age,0-17,,3410,87,0,-1,,,,
+7/11/2020,Age,18-24,,3728,164,0,0,,,,
+7/11/2020,Age,25-44,,10371,427,16,0,,,,
+7/11/2020,Age,45-64,,7485,285,80,0,,,,
+7/11/2020,Age,65+,,2870,98,223,6,,,,
+7/11/2020,Facility Type,Broader Community,Comunidad más amplia,23401,708,199,5,,,,
+7/11/2020,Facility Type,Corrections,Intalación correccional,3877,350,15,0,,,,
+7/11/2020,Facility Type,Nursing Home,Asilo de ancianos,586,3,105,1,,,,
+7/11/2020,Gender,Female,Mujeres,12425,373,NA,NA,,,,
+7/11/2020,Gender,Gender Unknown,Género desconocidos,250,24,NA,NA,,,,
+7/11/2020,Gender,Male,Hombres,15189,664,NA,NA,,,,
+7/11/2020,Race or Ethnicity,African American,Afroamericano,5959,163,77,3,473795,15.70%,125.7716945,1.625175445
+7/11/2020,Race or Ethnicity,Asian,Asiático,387,9,3,-1,51303,1.70%,75.43418514,0.5847611251
+7/11/2020,Race or Ethnicity,Hispanic,Hispano,6751,162,28,0,232371,7.70%,290.5267869,1.204969639
+7/11/2020,Race or Ethnicity,Multi-Racial,Multirracial,283,4,3,0,66392,2.20%,42.62561754,0.4518616701
+7/11/2020,Race or Ethnicity,Native American,Nativo Americano,73,2,0,0,30178,1.00%,24.18980714,0
+7/11/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1732,37,27,0,12071,0.40%,1434.843841,22.36765802
+7/11/2020,Race or Ethnicity,White,Blanco,13351,548,171,4,2387083,79.10%,55.9301876,0.7163554849
+7/10/2020,Age,0-17,,3323,-2,1,1,,,,
+7/10/2020,Age,18-24,,3564,130,0,0,,,,
+7/10/2020,Age,25-44,,9944,302,16,0,,,,
+7/10/2020,Age,45-64,,7200,162,80,3,,,,
+7/10/2020,Age,65+,,2772,59,217,1,,,,
+7/10/2020,Facility Type,Broader Community,Comunidad más amplia,22693,663,194,4,,,,
+7/10/2020,Facility Type,Corrections,Intalación correccional,3527,83,15,0,,,,
+7/10/2020,Facility Type,Nursing Home,Asilo de ancianos,583,5,104,0,,,,
+7/10/2020,Gender,Female,Mujeres,12052,325,NA,NA,,,,
+7/10/2020,Gender,Gender Unknown,Género desconocidos,226,3,NA,NA,,,,
+7/10/2020,Gender,Male,Hombres,14525,423,NA,NA,,,,
+7/10/2020,Race or Ethnicity,African American,Afroamericano,5796,185,74,0,473795,15.70%,122.331388,1.561856921
+7/10/2020,Race or Ethnicity,Asian,Asiático,378,18,4,1,51303,1.70%,73.67990176,0.7796815001
+7/10/2020,Race or Ethnicity,Hispanic,Hispano,6589,180,28,1,232371,7.70%,283.5551769,1.204969639
+7/10/2020,Race or Ethnicity,Multi-Racial,Multirracial,279,3,3,0,66392,2.20%,42.02313532,0.4518616701
+7/10/2020,Race or Ethnicity,Native American,Nativo Americano,71,2,0,0,30178,1.00%,23.5270727,0
+7/10/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1695,18,27,0,12071,0.40%,1404.191865,22.36765802
+7/10/2020,Race or Ethnicity,White,Blanco,12803,436,167,2,2387083,79.10%,53.63449867,0.6995986315
+7/9/2020,Age,0-17,,3225,83,0,0,,,,
+7/9/2020,Age,18-24,,3434,112,0,0,,,,
+7/9/2020,Age,25-44,,9642,283,16,0,,,,
+7/9/2020,Age,45-64,,7038,223,77,1,,,,
+7/9/2020,Age,65+,,2713,105,216,3,,,,
+7/9/2020,Facility Type,Broader Community,Comunidad más amplia,22030,778,190,4,,,,
+7/9/2020,Facility Type,Corrections,Intalación correccional,3444,22,15,0,,,,
+7/9/2020,Facility Type,Nursing Home,Asilo de ancianos,578,6,104,0,,,,
+7/9/2020,Gender,Female,Mujeres,11727,373,NA,NA,,,,
+7/9/2020,Gender,Gender Unknown,Género desconocidos,223,24,NA,NA,,,,
+7/9/2020,Gender,Male,Hombres,14102,409,NA,NA,,,,
+7/9/2020,Race or Ethnicity,African American,Afroamericano,5611,140,74,0,473795,15.70%,118.4267457,1.561856921
+7/9/2020,Race or Ethnicity,Asian,Asiático,360,9,3,0,51303,1.70%,70.17133501,0.5847611251
+7/9/2020,Race or Ethnicity,Hispanic,Hispano,6409,171,27,1,232371,7.70%,275.8089435,1.161935009
+7/9/2020,Race or Ethnicity,Multi-Racial,Multirracial,276,2,3,0,66392,2.20%,41.57127365,0.4518616701
+7/9/2020,Race or Ethnicity,Native American,Nativo Americano,69,1,0,0,30178,1.00%,22.86433826,0
+7/9/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1677,24,27,0,12071,0.40%,1389.280093,22.36765802
+7/9/2020,Race or Ethnicity,White,Blanco,12367,412,167,2,2387083,79.10%,51.80800165,0.6995986315
+7/8/2020,Age,0-17,,3142,88,0,0,,,,
+7/8/2020,Age,18-24,,3322,115,0,0,,,,
+7/8/2020,Age,25-44,,9359,252,16,0,,,,
+7/8/2020,Age,45-64,,6815,211,76,3,,,,
+7/8/2020,Age,65+,,2608,68,213,1,,,,
+7/8/2020,Facility Type,Broader Community,Comunidad más amplia,21252,676,186,3,,,,
+7/8/2020,Facility Type,Corrections,Intalación correccional,3422,51,15,0,,,,
+7/8/2020,Facility Type,Nursing Home,Asilo de ancianos,572,9,104,1,,,,
+7/8/2020,Gender,Female,Mujeres,11354,352,NA,NA,,,,
+7/8/2020,Gender,Gender Unknown,Género desconocidos,199,-17,NA,NA,,,,
+7/8/2020,Gender,Male,Hombres,13693,399,NA,NA,,,,
+7/8/2020,Race or Ethnicity,African American,Afroamericano,5471,160,74,2,473795,15.70%,115.4718813,1.561856921
+7/8/2020,Race or Ethnicity,Asian,Asiático,351,12,3,0,51303,1.70%,68.41705163,0.5847611251
+7/8/2020,Race or Ethnicity,Hispanic,Hispano,6238,181,26,0,232371,7.70%,268.4500217,1.118900379
+7/8/2020,Race or Ethnicity,Multi-Racial,Multirracial,274,2,3,0,66392,2.20%,41.27003253,0.4518616701
+7/8/2020,Race or Ethnicity,Native American,Nativo Americano,68,1,0,0,30178,1.00%,22.53297104,0
+7/8/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1653,26,27,0,12071,0.40%,1369.39773,22.36765802
+7/8/2020,Race or Ethnicity,White,Blanco,11955,399,165,1,2387083,79.10%,50.08204574,0.6912202047
+7/7/2020,Age,0-17,,3054,7,0,0,,,,
+7/7/2020,Age,18-24,,3207,41,0,0,,,,
+7/7/2020,Age,25-44,,9107,118,16,0,,,,
+7/7/2020,Age,45-64,,6604,70,73,5,,,,
+7/7/2020,Age,65+,,2540,23,212,4,,,,
+7/7/2020,Facility Type,Broader Community,Comunidad más amplia,20576,243,183,9,,,,
+7/7/2020,Facility Type,Corrections,Intalación correccional,3371,12,15,0,,,,
+7/7/2020,Facility Type,Nursing Home,Asilo de ancianos,563,4,103,0,,,,
+7/7/2020,Gender,Female,Mujeres,11002,173,NA,NA,,,,
+7/7/2020,Gender,Gender Unknown,Género desconocidos,216,-95,NA,NA,,,,
+7/7/2020,Gender,Male,Hombres,13294,181,NA,NA,,,,
+7/7/2020,Race or Ethnicity,African American,Afroamericano,5311,72,72,2,473795,15.70%,112.0948934,1.519644572
+7/7/2020,Race or Ethnicity,Asian,Asiático,339,13,3,0,51303,1.70%,66.07800713,0.5847611251
+7/7/2020,Race or Ethnicity,Hispanic,Hispano,6057,144,26,2,232371,7.70%,260.6607537,1.118900379
+7/7/2020,Race or Ethnicity,Multi-Racial,Multirracial,272,1,3,0,66392,2.20%,40.96879142,0.4518616701
+7/7/2020,Race or Ethnicity,Native American,Nativo Americano,67,3,0,0,30178,1.00%,22.20160382,0
+7/7/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1627,30,27,0,12071,0.40%,1347.858504,22.36765802
+7/7/2020,Race or Ethnicity,White,Blanco,11556,274,164,5,2387083,79.10%,48.41054961,0.6870309914
+7/6/2020,Age,0-17,,3047,54,0,0,,,,
+7/6/2020,Age,18-24,,3166,62,0,0,,,,
+7/6/2020,Age,25-44,,8989,154,16,0,,,,
+7/6/2020,Age,45-64,,6534,111,68,2,,,,
+7/6/2020,Age,65+,,2517,58,208,3,,,,
+7/6/2020,Facility Type,Broader Community,Comunidad más amplia,20333,431,174,3,,,,
+7/6/2020,Facility Type,Corrections,Intalación correccional,3361,6,15,1,,,,
+7/6/2020,Facility Type,Nursing Home,Asilo de ancianos,559,2,103,1,,,,
+7/6/2020,Gender,Female,Mujeres,10829,248,NA,NA,,,,
+7/6/2020,Gender,Gender Unknown,Género desconocidos,311,-20,NA,NA,,,,
+7/6/2020,Gender,Male,Hombres,13113,211,NA,NA,,,,
+7/6/2020,Race or Ethnicity,African American,Afroamericano,5239,70,70,0,473795,15.70%,110.5752488,1.477432223
+7/6/2020,Race or Ethnicity,Asian,Asiático,326,2,3,0,51303,1.70%,63.54404226,0.5847611251
+7/6/2020,Race or Ethnicity,Hispanic,Hispano,5913,97,24,1,232371,7.70%,254.463767,1.032831119
+7/6/2020,Race or Ethnicity,Multi-Racial,Multirracial,271,2,3,0,66392,2.20%,40.81817086,0.4518616701
+7/6/2020,Race or Ethnicity,Native American,Nativo Americano,64,1,0,0,30178,1.00%,21.20750215,0
+7/6/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1597,28,27,1,12071,0.40%,1323.00555,22.36765802
+7/6/2020,Race or Ethnicity,White,Blanco,11282,192,159,3,2387083,79.10%,47.26270515,0.6660849246
+7/5/2020,Age,0-17,,2993,84,0,0,,,,
+7/5/2020,Age,18-24,,3104,91,0,0,,,,
+7/5/2020,Age,25-44,,8835,225,16,0,,,,
+7/5/2020,Age,45-64,,6423,135,66,0,,,,
+7/5/2020,Age,65+,,2459,70,205,1,,,,
+7/5/2020,Facility Type,Broader Community,Comunidad más amplia,19902,599,171,-2,,,,
+7/5/2020,Facility Type,Corrections,Intalación correccional,3355,4,14,0,,,,
+7/5/2020,Facility Type,Nursing Home,Asilo de ancianos,557,2,102,1,,,,
+7/5/2020,Gender,Female,Mujeres,10581,270,NA,NA,,,,
+7/5/2020,Gender,Gender Unknown,Género desconocidos,331,38,NA,NA,,,,
+7/5/2020,Gender,Male,Hombres,12902,297,NA,NA,,,,
+7/5/2020,Race or Ethnicity,African American,Afroamericano,5169,92,70,0,473795,15.70%,109.0978166,1.477432223
+7/5/2020,Race or Ethnicity,Asian,Asiático,324,3,3,0,51303,1.70%,63.15420151,0.5847611251
+7/5/2020,Race or Ethnicity,Hispanic,Hispano,5816,73,23,0,232371,7.70%,250.2894079,0.9897964892
+7/5/2020,Race or Ethnicity,Multi-Racial,Multirracial,269,2,3,0,66392,2.20%,40.51692975,0.4518616701
+7/5/2020,Race or Ethnicity,Native American,Nativo Americano,63,0,0,0,30178,1.00%,20.87613493,0
+7/5/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1569,17,26,0,12071,0.40%,1299.809461,21.53922624
+7/5/2020,Race or Ethnicity,White,Blanco,11090,256,156,0,2387083,79.10%,46.45837619,0.6535172845
+7/4/2020,Age,0-17,,2909,94,0,0,,,,
+7/4/2020,Age,18-24,,3013,79,0,0,,,,
+7/4/2020,Age,25-44,,8610,214,16,0,,,,
+7/4/2020,Age,45-64,,6288,146,66,1,,,,
+7/4/2020,Age,65+,,2389,54,204,4,,,,
+7/4/2020,Facility Type,Broader Community,Comunidad más amplia,19303,577,173,5,,,,
+7/4/2020,Facility Type,Corrections,Intalación correccional,3351,10,14,1,,,,
+7/4/2020,Facility Type,Nursing Home,Asilo de ancianos,555,0,101,1,,,,
+7/4/2020,Gender,Female,Mujeres,10311,267,NA,NA,,,,
+7/4/2020,Gender,Gender Unknown,Género desconocidos,293,22,NA,NA,,,,
+7/4/2020,Gender,Male,Hombres,12605,298,NA,NA,,,,
+7/4/2020,Race or Ethnicity,African American,Afroamericano,5077,93,70,1,473795,15.70%,107.1560485,1.477432223
+7/4/2020,Race or Ethnicity,Asian,Asiático,321,13,3,0,51303,1.70%,62.56944038,0.5847611251
+7/4/2020,Race or Ethnicity,Hispanic,Hispano,5743,105,23,1,232371,7.70%,247.1478799,0.9897964892
+7/4/2020,Race or Ethnicity,Multi-Racial,Multirracial,267,1,3,0,66392,2.20%,40.21568864,0.4518616701
+7/4/2020,Race or Ethnicity,Native American,Nativo Americano,63,0,0,0,30178,1.00%,20.87613493,0
+7/4/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1552,10,26,0,12071,0.40%,1285.72612,21.53922624
+7/4/2020,Race or Ethnicity,White,Blanco,10834,237,156,4,2387083,79.10%,45.38593756,0.6535172845
+7/3/2020,Age,0-17,,2815,61,0,0,,,,
+7/3/2020,Age,18-24,,2934,101,0,0,,,,
+7/3/2020,Age,25-44,,8396,193,16,0,,,,
+7/3/2020,Age,45-64,,6142,148,65,1,,,,
+7/3/2020,Age,65+,,2335,44,200,1,,,,
+7/3/2020,Facility Type,Broader Community,Comunidad más amplia,18726,360,168,2,,,,
+7/3/2020,Facility Type,Corrections,Intalación correccional,3341,182,13,0,,,,
+7/3/2020,Facility Type,Nursing Home,Asilo de ancianos,555,5,100,0,,,,
+7/3/2020,Gender,Female,Mujeres,10044,270,NA,NA,,,,
+7/3/2020,Gender,Gender Unknown,Género desconocidos,271,3,NA,NA,,,,
+7/3/2020,Gender,Male,Hombres,12307,274,NA,NA,,,,
+7/3/2020,Race or Ethnicity,African American,Afroamericano,4984,62,69,0,473795,15.70%,105.1931743,1.456326048
+7/3/2020,Race or Ethnicity,Asian,Asiático,308,14,3,0,51303,1.70%,60.03547551,0.5847611251
+7/3/2020,Race or Ethnicity,Hispanic,Hispano,5638,130,22,0,232371,7.70%,242.6292438,0.9467618593
+7/3/2020,Race or Ethnicity,Multi-Racial,Multirracial,266,4,3,0,66392,2.20%,40.06506808,0.4518616701
+7/3/2020,Race or Ethnicity,Native American,Nativo Americano,63,1,0,0,30178,1.00%,20.87613493,0
+7/3/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1542,12,26,0,12071,0.40%,1277.441803,21.53922624
+7/3/2020,Race or Ethnicity,White,Blanco,10597,262,152,2,2387083,79.10%,44.393094,0.636760431
+7/2/2020,Age,0-17,,2754,88,0,0,,,,
+7/2/2020,Age,18-24,,2833,129,0,0,,,,
+7/2/2020,Age,25-44,,8203,316,16,1,,,,
+7/2/2020,Age,45-64,,5994,255,64,1,,,,
+7/2/2020,Age,65+,,2291,90,199,0,,,,
+7/2/2020,Facility Type,Broader Community,Comunidad más amplia,18366,856,166,2,,,,
+7/2/2020,Facility Type,Corrections,Intalación correccional,3159,15,13,0,,,,
+7/2/2020,Facility Type,Nursing Home,Asilo de ancianos,550,7,100,0,,,,
+7/2/2020,Gender,Female,Mujeres,9774,373,NA,NA,,,,
+7/2/2020,Gender,Gender Unknown,Género desconocidos,268,-3,NA,NA,,,,
+7/2/2020,Gender,Male,Hombres,12033,508,NA,NA,,,,
+7/2/2020,Race or Ethnicity,African American,Afroamericano,4922,144,69,0,473795,15.70%,103.8845914,1.456326048
+7/2/2020,Race or Ethnicity,Asian,Asiático,294,36,3,0,51303,1.70%,57.30659026,0.5847611251
+7/2/2020,Race or Ethnicity,Hispanic,Hispano,5508,192,22,0,232371,7.70%,237.0347419,0.9467618593
+7/2/2020,Race or Ethnicity,Multi-Racial,Multirracial,262,36,3,0,66392,2.20%,39.46258585,0.4518616701
+7/2/2020,Race or Ethnicity,Native American,Nativo Americano,62,5,0,0,30178,1.00%,20.54476771,0
+7/2/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1530,87,26,2,12071,0.40%,1267.500621,21.53922624
+7/2/2020,Race or Ethnicity,White,Blanco,10335,461,150,0,2387083,79.10%,43.2955201,0.6283820043
+7/1/2020,Age,0-17,,2666,44,0,0,,,,
+7/1/2020,Age,18-24,,2704,50,0,0,,,,
+7/1/2020,Age,25-44,,7887,163,15,0,,,,
+7/1/2020,Age,45-64,,5739,125,63,1,,,,
+7/1/2020,Age,65+,,2201,38,199,6,,,,
+7/1/2020,Facility Type,Broader Community,Comunidad más amplia,17510,379,164,5,,,,
+7/1/2020,Facility Type,Corrections,Intalación correccional,3144,30,13,0,,,,
+7/1/2020,Facility Type,Nursing Home,Asilo de ancianos,543,11,100,2,,,,
+7/1/2020,Gender,Female,Mujeres,9401,222,NA,NA,,,,
+7/1/2020,Gender,Gender Unknown,Género desconocidos,271,-89,NA,NA,,,,
+7/1/2020,Gender,Male,Hombres,11525,287,NA,NA,,,,
+7/1/2020,Race or Ethnicity,African American,Afroamericano,4778,137,69,0,473795,15.70%,100.85,1.46
+7/1/2020,Race or Ethnicity,Asian,Asiático,258,11,3,0,51303,1.70%,50.29,0.58
+7/1/2020,Race or Ethnicity,Hispanic,Hispano,5316,157,22,1,232371,7.70%,228.77,0.95
+7/1/2020,Race or Ethnicity,Multi-Racial,Multirracial,226,2,3,0,66392,2.20%,34.04,0.45
+7/1/2020,Race or Ethnicity,Native American,Nativo Americano,57,4,0,0,30178,1.00%,18.89,0.00
+7/1/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1443,54,24,0,12071,0.40%,1195.43,19.88
+7/1/2020,Race or Ethnicity,White,Blanco,9874,300,150,8,2387083,79.10%,41.36,0.63
+6/30/2020,Age,0-17,,2622,88,0,0,,,,
+6/30/2020,Age,18-24,,2654,79,0,0,,,,
+6/30/2020,Age,25-44,,7724,194,15,0,,,,
+6/30/2020,Age,45-64,,5614,129,62,1,,,,
+6/30/2020,Age,65+,,2163,30,193,4,,,,
+6/30/2020,Facility Type,Broader Community,Comunidad más amplia,17131,497,159,3,,,,
+6/30/2020,Facility Type,Corrections,Intalación correccional,3114,17,13,1,,,,
+6/30/2020,Facility Type,Nursing Home,Asilo de ancianos,532,6,98,1,,,,
+6/30/2020,Gender,Female,Mujeres,9179,260,NA,NA,,,,
+6/30/2020,Gender,Gender Unknown,Género desconocidos,360,-25,NA,NA,,,,
+6/30/2020,Gender,Male,Hombres,11238,285,NA,NA,,,,
+6/30/2020,Race or Ethnicity,African American,Afroamericano,4641,110,69,2,473795,15.70%,97.95,1.46
+6/30/2020,Race or Ethnicity,Asian,Asiático,247,15,3,0,51303,1.70%,48.15,0.58
+6/30/2020,Race or Ethnicity,Hispanic,Hispano,5159,220,21,1,232371,7.70%,222.02,0.90
+6/30/2020,Race or Ethnicity,Multi-Racial,Multirracial,224,6,3,0,66392,2.20%,33.74,0.45
+6/30/2020,Race or Ethnicity,Native American,Nativo Americano,53,2,0,0,30178,1.00%,17.56,0.00
+6/30/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1443,54,24,0,12071,0.40%,1195.43,19.88
+6/30/2020,Race or Ethnicity,White,Blanco,9574,275,142,3,2387083,79.10%,40.11,0.59
+6/29/2020,Age,0-17,,2534,43,0,0,,,,
+6/29/2020,Age,18-24,,2575,68,0,0,,,,
+6/29/2020,Age,25-44,,7530,161,15,0,,,,
+6/29/2020,Age,45-64,,5485,123,61,0,,,,
+6/29/2020,Age,65+,,2133,44,189,1,,,,
+6/29/2020,Facility Type,Broader Community,Comunidad más amplia,16634,406,156,0,,,,
+6/29/2020,Facility Type,Corrections,Intalación correccional,3097,21,12,0,,,,
+6/29/2020,Facility Type,Nursing Home,Asilo de ancianos,526,12,97,1,,,,
+6/29/2020,Gender,Female,Mujeres,8919,225,NA,NA,,,,
+6/29/2020,Gender,Gender Unknown,Género desconocidos,385,1,NA,NA,,,,
+6/29/2020,Gender,Male,Hombres,10953,225,NA,NA,,,,
+6/29/2020,Race or Ethnicity,African American,Afroamericano,4531,55,67,0,473795,15.70%,95.63,1.41
+6/29/2020,Race or Ethnicity,Asian,Asiático,232,8,3,1,51303,1.70%,45.22,0.58
+6/29/2020,Race or Ethnicity,Hispanic,Hispano,4939,122,20,0,232371,7.70%,212.55,0.86
+6/29/2020,Race or Ethnicity,Multi-Racial,Multirracial,218,2,3,0,66392,2.20%,32.84,0.45
+6/29/2020,Race or Ethnicity,Native American,Nativo Americano,51,1,0,0,30178,1.00%,16.90,0.00
+6/29/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1389,11,24,0,12071,0.40%,1150.69,19.88
+6/29/2020,Race or Ethnicity,White,Blanco,9299,151,139,3,2387083,79.10%,38.96,0.58
+6/28/2020,Age,0-17,,2491,80,0,0,,,,
+6/28/2020,Age,18-24,,2507,63,0,0,,,,
+6/28/2020,Age,25-44,,7369,161,15,0,,,,
+6/28/2020,Age,45-64,,5362,41,61,2,,,,
+6/28/2020,Age,65+,,2089,73,188,3,,,,
+6/28/2020,Facility Type,Broader Community,Comunidad más amplia,16228,503,156,4,,,,
+6/28/2020,Facility Type,Corrections,Intalación correccional,3076,1,12,0,,,,
+6/28/2020,Facility Type,Nursing Home,Asilo de ancianos,514,3,96,1,,,,
+6/28/2020,Gender,Female,Mujeres,8706,252,NA,NA,,,,
+6/28/2020,Gender,Gender Unknown,Género desconocidos,384,41,NA,NA,,,,
+6/28/2020,Gender,Male,Hombres,10728,215,NA,NA,,,,
+6/28/2020,Race or Ethnicity,African American,Afroamericano,4476,61,67,0,473795,15.70%,94.47,1.41
+6/28/2020,Race or Ethnicity,Asian,Asiático,224,6,2,0,51303,1.70%,43.66,0.39
+6/28/2020,Race or Ethnicity,Hispanic,Hispano,4817,126,20,0,232371,7.70%,207.30,0.86
+6/28/2020,Race or Ethnicity,Multi-Racial,Multirracial,216,3,3,0,66392,2.20%,32.53,0.45
+6/28/2020,Race or Ethnicity,Native American,Nativo Americano,50,1,0,0,30178,1.00%,16.57,0.00
+6/28/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1378,25,24,2,12071,0.40%,1141.58,19.88
+6/28/2020,Race or Ethnicity,White,Blanco,9148,199,136,3,2387083,79.10%,38.32,0.57
+6/27/2020,Age,0-17,,2411,69,0,0,,,,
+6/27/2020,Age,18-24,,2444,90,0,0,,,,
+6/27/2020,Age,25-44,,7208,210,15,1,,,,
+6/27/2020,Age,45-64,,5321,150,59,3,,,,
+6/27/2020,Age,65+,,2016,51,185,6,,,,
+6/27/2020,Facility Type,Broader Community,Comunidad más amplia,15725,519,152,10,,,,
+6/27/2020,Facility Type,Corrections,Intalación correccional,3074,48,12,0,,,,
+6/27/2020,Facility Type,Nursing Home,Asilo de ancianos,511,3,95,0,,,,
+6/27/2020,Gender,Female,Mujeres,8454,267,NA,NA,,,,
+6/27/2020,Gender,Gender Unknown,Género desconocidos,343,-12,NA,NA,,,,
+6/27/2020,Gender,Male,Hombres,10513,267,NA,NA,,,,
+6/27/2020,Race or Ethnicity,African American,Afroamericano,4415,77,67,0,473795,15.70%,93.18,1.41
+6/27/2020,Race or Ethnicity,Asian,Asiático,218,18,2,1,51303,1.70%,42.49,0.39
+6/27/2020,Race or Ethnicity,Hispanic,Hispano,4691,161,20,1,232371,7.70%,201.88,0.86
+6/27/2020,Race or Ethnicity,Multi-Racial,Multirracial,213,3,3,0,66392,2.20%,32.08,0.45
+6/27/2020,Race or Ethnicity,Native American,Nativo Americano,49,1,0,0,30178,1.00%,16.24,0.00
+6/27/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1353,26,22,3,12071,0.40%,1120.87,18.23
+6/27/2020,Race or Ethnicity,White,Blanco,8949,291,136,3,2387083,79.10%,37.49,0.57
+6/26/2020,Age,0-17,,2342,54,0,0,,,,
+6/26/2020,Age,18-24,,2354,124,0,0,,,,
+6/26/2020,Age,25-44,,6998,253,14,0,,,,
+6/26/2020,Age,45-64,,5081,197,56,1,,,,
+6/26/2020,Age,65+,,1965,60,179,8,,,,
+6/26/2020,Facility Type,Broader Community,Comunidad más amplia,15206,647,142,6,,,,
+6/26/2020,Facility Type,Corrections,Intalación correccional,3026,26,12,0,,,,
+6/26/2020,Facility Type,Nursing Home,Asilo de ancianos,508,5,95,3,,,,
+6/26/2020,Gender,Female,Mujeres,8139,366,NA,NA,,,,
+6/26/2020,Gender,Gender Unknown,Género desconocidos,355,-42,NA,NA,,,,
+6/26/2020,Gender,Male,Hombres,10246,354,NA,NA,,,,
+6/26/2020,Race or Ethnicity,African American,Afroamericano,4338,93,67,1,473795,15.70%,91.56,1.41
+6/26/2020,Race or Ethnicity,Asian,Asiático,200,16,1,0,51303,1.70%,38.98,0.19
+6/26/2020,Race or Ethnicity,Hispanic,Hispano,4530,144,19,1,232371,7.70%,194.95,0.82
+6/26/2020,Race or Ethnicity,Multi-Racial,Multirracial,210,4,3,1,66392,2.20%,31.63,0.45
+6/26/2020,Race or Ethnicity,Native American,Nativo Americano,48,3,0,0,30178,1.00%,15.91,0.00
+6/26/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1327,42,19,2,12071,0.40%,1099.33,15.74
+6/26/2020,Race or Ethnicity,White,Blanco,8658,335,133,3,2387083,79.10%,36.27,0.56
+6/25/2020,Age,0-17,,2288,324,0,0,,,,
+6/25/2020,Age,18-24,,2230,69,0,0,,,,
+6/25/2020,Age,25-44,,6745,120,14,0,,,,
+6/25/2020,Age,45-64,,4894,104,55,0,,,,
+6/25/2020,Age,65+,,1905,70,171,0,,,,
+6/25/2020,Facility Type,Broader Community,Comunidad más amplia,14559,496,136,0,,,,
+6/25/2020,Facility Type,Corrections,Intalación correccional,3000,182,12,0,,,,
+6/25/2020,Facility Type,Nursing Home,Asilo de ancianos,503,9,92,0,,,,
+6/25/2020,Gender,Female,Mujeres,7773,236,NA,NA,,,,
+6/25/2020,Gender,Gender Unknown,Género desconocidos,397,235,NA,NA,,,,
+6/25/2020,Gender,Male,Hombres,9892,216,NA,NA,,,,
+6/25/2020,Race or Ethnicity,African American,Afroamericano,4245,124,66,0,473795,15.70%,89.60,1.39
+6/25/2020,Race or Ethnicity,Asian,Asiático,184,16,1,0,51303,1.70%,35.87,0.19
+6/25/2020,Race or Ethnicity,Hispanic,Hispano,4386,343,18,0,232371,7.70%,188.75,0.77
+6/25/2020,Race or Ethnicity,Multi-Racial,Multirracial,206,11,2,0,66392,2.20%,31.03,0.30
+6/25/2020,Race or Ethnicity,Native American,Nativo Americano,45,1,0,0,30178,1.00%,14.91,0.00
+6/25/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1285,169,17,0,12071,0.40%,1064.53,14.08
+6/25/2020,Race or Ethnicity,White,Blanco,8323,359,130,0,2387083,79.10%,34.87,0.54
+6/24/2020,Age,0-17,,1964,78,0,0,,,,
+6/24/2020,Age,18-24,,2161,121,0,0,,,,
+6/24/2020,Age,25-44,,6625,270,14,1,,,,
+6/24/2020,Age,45-64,,4790,160,55,1,,,,
+6/24/2020,Age,65+,,1835,68,171,1,,,,
+6/24/2020,Facility Type,Broader Community,Comunidad más amplia,14063,654,136,3,,,,
+6/24/2020,Facility Type,Corrections,Intalación correccional,2818,41,12,0,,,,
+6/24/2020,Facility Type,Nursing Home,Asilo de ancianos,494,2,92,0,,,,
+6/24/2020,Gender,Female,Mujeres,7537,244,NA,NA,,,,
+6/24/2020,Gender,Gender Unknown,Género desconocidos,162,44,NA,NA,,,,
+6/24/2020,Gender,Male,Hombres,9676,409,NA,NA,,,,
+6/24/2020,Race or Ethnicity,African American,Afroamericano,4121,123,66,0,473795,15.70%,86.98,1.39
+6/24/2020,Race or Ethnicity,Asian,Asiático,168,7,1,0,51303,1.70%,32.75,0.19
+6/24/2020,Race or Ethnicity,Hispanic,Hispano,4043,150,18,-1,232371,7.70%,173.99,0.77
+6/24/2020,Race or Ethnicity,Multi-Racial,Multirracial,195,1,2,0,66392,2.20%,29.37,0.30
+6/24/2020,Race or Ethnicity,Native American,Nativo Americano,44,0,0,0,30178,1.00%,14.58,0.00
+6/24/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1116,60,17,2,12071,0.40%,924.53,14.08
+6/24/2020,Race or Ethnicity,White,Blanco,7964,147,130,1,2387083,79.10%,33.36,0.54
+6/23/2020,Age,0-17,,1886,64,0,0,,,,
+6/23/2020,Age,18-24,,2040,97,0,0,,,,
+6/23/2020,Age,25-44,,6355,279,13,0,,,,
+6/23/2020,Age,45-64,,4630,123,54,2,,,,
+6/23/2020,Age,65+,,1767,32,170,8,,,,
+6/23/2020,Facility Type,Broader Community,Comunidad más amplia,13409,408,133,3,,,,
+6/23/2020,Facility Type,Corrections,Intalación correccional,2777,178,12,0,,,,
+6/23/2020,Facility Type,Nursing Home,Asilo de ancianos,492,9,92,7,,,,
+6/23/2020,Gender,Female,Mujeres,7293,192,NA,NA,,,,
+6/23/2020,Gender,Gender Unknown,Género desconocidos,118,23,NA,NA,,,,
+6/23/2020,Gender,Male,Hombres,9267,409,NA,NA,,,,
+6/23/2020,Race or Ethnicity,African American,Afroamericano,3998,115,66,1,473795,15.70%,84.38,1.39
+6/23/2020,Race or Ethnicity,Asian,Asiático,161,5,1,0,51303,1.70%,31.38,0.19
+6/23/2020,Race or Ethnicity,Hispanic,Hispano,3892,174,19,1,232371,7.70%,167.49,0.82
+6/23/2020,Race or Ethnicity,Multi-Racial,Multirracial,194,6,2,0,66392,2.20%,29.22,0.30
+6/23/2020,Race or Ethnicity,Native American,Nativo Americano,44,1,0,0,30178,1.00%,14.58,0.00
+6/23/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1056,46,15,2,12071,0.40%,874.82,12.43
+6/23/2020,Race or Ethnicity,White,Blanco,7669,257,129,4,2387083,79.10%,32.13,0.54
+6/22/2020,Age,0-17,,1822,60,0,0,,,,
+6/22/2020,Age,18-24,,1943,93,0,0,,,,
+6/22/2020,Age,25-44,,6076,195,13,0,,,,
+6/22/2020,Age,45-64,,4507,130,52,0,,,,
+6/22/2020,Age,65+,,1735,44,162,2,,,,
+6/22/2020,Facility Type,Broader Community,Comunidad más amplia,13001,517,130,2,,,,
+6/22/2020,Facility Type,Corrections,Intalación correccional,2599,4,12,0,,,,
+6/22/2020,Facility Type,Nursing Home,Asilo de ancianos,483,1,85,0,,,,
+6/22/2020,Gender,Female,Mujeres,7101,225,NA,NA,,,,
+6/22/2020,Gender,Gender Unknown,Género desconocidos,95,2,NA,NA,,,,
+6/22/2020,Gender,Male,Hombres,8887,295,NA,NA,,,,
+6/22/2020,Race or Ethnicity,African American,Afroamericano,3883,60,65,0,473795,15.70%,81.96,1.37
+6/22/2020,Race or Ethnicity,Asian,Asiático,156,1,1,0,51303,1.70%,30.41,0.19
+6/22/2020,Race or Ethnicity,Hispanic,Hispano,3719,85,19,1,232371,7.70%,160.05,0.82
+6/22/2020,Race or Ethnicity,Multi-Racial,Multirracial,188,1,2,0,66392,2.20%,28.32,0.30
+6/22/2020,Race or Ethnicity,Native American,Nativo Americano,44,1,0,0,30178,1.00%,14.58,0.00
+6/22/2020,Race or Ethnicity,Other,No especificado o no listado,1493,41,15,1,NA,NA,,
+6/22/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,1010,32,13,0,12071,0.40%,836.72,10.77
+6/22/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,2085,201,8,0,NA,NA,,
+6/22/2020,Race or Ethnicity,White,Blanco,7412,186,125,1,2387083,79.10%,31.05,0.52
+6/21/2020,Age,0-17,,1762,80,0,0,,,,
+6/21/2020,Age,18-24,,1850,67,0,0,,,,
+6/21/2020,Age,25-44,,5881,140,13,0,,,,
+6/21/2020,Age,45-64,,4377,95,52,1,,,,
+6/21/2020,Age,65+,,1691,37,160,0,,,,
+6/21/2020,Facility Type,Broader Community,Comunidad más amplia,12484,413,128,1,,,,
+6/21/2020,Facility Type,Corrections,Intalación correccional,2595,2,12,0,,,,
+6/21/2020,Facility Type,Nursing Home,Asilo de ancianos,482,4,85,0,,,,
+6/21/2020,Gender,Female,Mujeres,6876,218,NA,NA,,,,
+6/21/2020,Gender,Gender Unknown,Género desconocidos,93,-3,NA,NA,,,,
+6/21/2020,Gender,Male,Hombres,8592,204,NA,NA,,,,
+6/21/2020,Race or Ethnicity,African American,Afroamericano,3823,37,65,0,473795,15.70%,80.69,1.37
+6/21/2020,Race or Ethnicity,Asian,Asiático,155,8,1,0,51303,1.70%,30.21,0.19
+6/21/2020,Race or Ethnicity,Hispanic,Hispano,3634,126,18,0,232371,7.70%,156.39,0.77
+6/21/2020,Race or Ethnicity,Multi-Racial,Multirracial,187,0,2,0,66392,2.20%,28.17,0.30
+6/21/2020,Race or Ethnicity,Native American,Nativo Americano,43,1,0,0,30178,1.00%,14.25,0.00
+6/21/2020,Race or Ethnicity,Other,No especificado o no listado,1452,40,14,0,NA,NA,,
+6/21/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,978,8,13,0,12071,0.40%,810.21,10.77
+6/21/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,1884,138,8,0,NA,NA,,
+6/21/2020,Race or Ethnicity,White,Blanco,7226,187,124,1,2387083,79.10%,30.27,0.52
+6/20/2020,Age,0-17,,1682,72,0,0,,,,
+6/20/2020,Age,18-24,,1783,86,0,0,,,,
+6/20/2020,Age,25-44,,5741,194,13,1,,,,
+6/20/2020,Age,45-64,,4282,120,51,1,,,,
+6/20/2020,Age,65+,,1654,39,160,8,,,,
+6/20/2020,Facility Type,Broader Community,Comunidad más amplia,12071,496,127,5,,,,
+6/20/2020,Facility Type,Corrections,Intalación correccional,2593,7,12,0,,,,
+6/20/2020,Facility Type,Nursing Home,Asilo de ancianos,478,8,85,5,,,,
+6/20/2020,Gender,Female,Mujeres,6658,248,NA,NA,,,,
+6/20/2020,Gender,Gender Unknown,Género desconocidos,96,-3,NA,NA,,,,
+6/20/2020,Gender,Male,Hombres,8388,266,NA,NA,,,,
+6/20/2020,Race or Ethnicity,African American,Afroamericano,3786,71,65,1,473795,15.70%,79.91,1.37
+6/20/2020,Race or Ethnicity,Asian,Asiático,147,7,1,0,51303,1.70%,28.65,0.19
+6/20/2020,Race or Ethnicity,Hispanic,Hispano,3508,169,18,2,232371,7.70%,150.97,0.77
+6/20/2020,Race or Ethnicity,Multi-Racial,Multirracial,187,3,2,0,66392,2.20%,28.17,0.30
+6/20/2020,Race or Ethnicity,Native American,Nativo Americano,42,2,0,0,30178,1.00%,13.92,0.00
+6/20/2020,Race or Ethnicity,Other,No especificado o no listado,1412,74,14,2,NA,NA,,
+6/20/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,970,72,13,2,12071,0.40%,803.58,10.77
+6/20/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,1746,-10,8,0,NA,NA,,
+6/20/2020,Race or Ethnicity,White,Blanco,7039,295,123,5,2387083,79.10%,29.49,0.52
+6/19/2020,Age,0-17,,1610,96,0,0,,,,
+6/19/2020,Age,18-24,,1697,98,0,0,,,,
+6/19/2020,Age,25-44,,5547,276,12,0,,,,
+6/19/2020,Age,45-64,,4162,182,50,3,,,,
+6/19/2020,Age,65+,,1615,51,152,3,,,,
+6/19/2020,Facility Type,Broader Community,Comunidad más amplia,11575,661,122,6,,,,
+6/19/2020,Facility Type,Corrections,Intalación correccional,2586,39,12,0,,,,
+6/19/2020,Facility Type,Nursing Home,Asilo de ancianos,470,3,80,0,,,,
+6/19/2020,Gender,Female,Mujeres,6410,311,NA,NA,,,,
+6/19/2020,Gender,Gender Unknown,Género desconocidos,99,25,NA,NA,,,,
+6/19/2020,Gender,Male,Hombres,8122,367,NA,NA,,,,
+6/19/2020,Race or Ethnicity,African American,Afroamericano,3715,69,64,0,473795,15.70%,78.41,1.35
+6/19/2020,Race or Ethnicity,Asian,Asiático,140,4,1,0,51303,1.70%,27.29,0.19
+6/19/2020,Race or Ethnicity,Hispanic,Hispano,3339,130,16,1,232371,7.70%,143.69,0.69
+6/19/2020,Race or Ethnicity,Multi-Racial,Multirracial,184,11,2,0,66392,2.20%,27.71,0.30
+6/19/2020,Race or Ethnicity,Native American,Nativo Americano,40,0,0,0,30178,1.00%,13.25,0.00
+6/19/2020,Race or Ethnicity,Other,No especificado o no listado,1338,65,12,2,NA,NA,,
+6/19/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,898,41,11,1,12071,0.40%,743.93,9.11
+6/19/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,1756,322,8,1,NA,NA,,
+6/19/2020,Race or Ethnicity,White,Blanco,6744,202,118,2,2387083,79.10%,28.25,0.49
+6/18/2020,Age,0-17,,1514,22,0,0,,,,
+6/18/2020,Age,18-24,,1599,57,0,0,,,,
+6/18/2020,Age,25-44,,5271,153,12,0,,,,
+6/18/2020,Age,45-64,,3980,70,47,1,,,,
+6/18/2020,Age,65+,,1564,20,149,10,,,,
+6/18/2020,Facility Type,Broader Community,Comunidad más amplia,10914,307,116,3,,,,
+6/18/2020,Facility Type,Corrections,Intalación correccional,2547,13,12,0,,,,
+6/18/2020,Facility Type,Nursing Home,Asilo de ancianos,467,2,80,8,,,,
+6/18/2020,Gender,Female,Mujeres,6099,103,NA,NA,,,,
+6/18/2020,Gender,Gender Unknown,Género desconocidos,74,-7,NA,NA,,,,
+6/18/2020,Gender,Male,Hombres,7755,226,NA,NA,,,,
+6/18/2020,Race or Ethnicity,African American,Afroamericano,3646,71,64,3,473795,15.70%,76.95,1.35
+6/18/2020,Race or Ethnicity,Asian,Asiático,136,13,1,0,51303,1.70%,26.51,0.19
+6/18/2020,Race or Ethnicity,Hispanic,Hispano,3209,169,15,1,232371,7.70%,138.10,0.65
+6/18/2020,Race or Ethnicity,Multi-Racial,Multirracial,173,3,2,0,66392,2.20%,26.06,0.30
+6/18/2020,Race or Ethnicity,Native American,Nativo Americano,40,0,0,0,30178,1.00%,13.25,0.00
+6/18/2020,Race or Ethnicity,Other,No especificado o no listado,1273,30,10,1,NA,NA,,
+6/18/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,857,51,10,0,12071,0.40%,709.97,8.28
+6/18/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,1434,-82,7,1,NA,NA,,
+6/18/2020,Race or Ethnicity,White,Blanco,6542,239,116,6,2387083,79.10%,27.41,0.49
+6/17/2020,Age,0-17,,1492,41,0,0,,,,
+6/17/2020,Age,18-24,,1542,79,0,0,,,,
+6/17/2020,Age,25-44,,5118,151,12,1,,,,
+6/17/2020,Age,45-64,,3910,107,46,3,,,,
+6/17/2020,Age,65+,,1544,37,139,5,,,,
+6/17/2020,Facility Type,Broader Community,Comunidad más amplia,10607,392,113,7,,,,
+6/17/2020,Facility Type,Corrections,Intalación correccional,2534,11,12,0,,,,
+6/17/2020,Facility Type,Nursing Home,Asilo de ancianos,465,12,72,2,,,,
+6/17/2020,Gender,Female,Mujeres,5996,182,NA,NA,,,,
+6/17/2020,Gender,Gender Unknown,Género desconocidos,81,0,NA,NA,,,,
+6/17/2020,Gender,Male,Hombres,7529,233,NA,NA,,,,
+6/17/2020,Race or Ethnicity,African American,Afroamericano,3575,83,61,4,473795,15.70%,75.45,1.29
+6/17/2020,Race or Ethnicity,Asian,Asiático,123,3,1,0,51303,1.70%,23.98,0.19
+6/17/2020,Race or Ethnicity,Hispanic,Hispano,3040,172,14,2,232371,7.70%,130.83,0.60
+6/17/2020,Race or Ethnicity,Multi-Racial,Multirracial,170,4,2,0,66392,2.20%,25.61,0.30
+6/17/2020,Race or Ethnicity,Native American,Nativo Americano,40,2,0,0,30178,1.00%,13.25,0.00
+6/17/2020,Race or Ethnicity,Other,No especificado o no listado,1243,78,9,1,NA,NA,,
+6/17/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,806,49,10,0,12071,0.40%,667.72,8.28
+6/17/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,1516,-52,6,0,NA,NA,,
+6/17/2020,Race or Ethnicity,White,Blanco,6303,252,110,4,2387083,79.10%,26.40,0.46
+6/16/2020,Age,0-17,,1451,35,0,0,,,,
+6/16/2020,Age,18-24,,1463,33,0,0,,,,
+6/16/2020,Age,25-44,,4967,86,11,1,,,,
+6/16/2020,Age,45-64,,3803,87,43,1,,,,
+6/16/2020,Age,65+,,1507,33,134,4,,,,
+6/16/2020,Facility Type,Broader Community,Comunidad más amplia,10215,269,106,4,,,,
+6/16/2020,Facility Type,Corrections,Intalación correccional,2523,1,12,0,,,,
+6/16/2020,Facility Type,Nursing Home,Asilo de ancianos,453,4,70,2,,,,
+6/16/2020,Gender,Female,Mujeres,5814,126,NA,NA,,,,
+6/16/2020,Gender,Gender Unknown,Género desconocidos,81,8,NA,NA,,,,
+6/16/2020,Gender,Male,Hombres,7296,140,NA,NA,,,,
+6/16/2020,Race or Ethnicity,African American,Afroamericano,3492,61,57,3,473795,15.70%,73.70,1.20
+6/16/2020,Race or Ethnicity,Asian,Asiático,120,5,1,0,51303,1.70%,23.39,0.19
+6/16/2020,Race or Ethnicity,Hispanic,Hispano,2868,96,12,1,232371,7.70%,123.42,0.52
+6/16/2020,Race or Ethnicity,Multi-Racial,Multirracial,166,1,2,0,66392,2.20%,25.00,0.30
+6/16/2020,Race or Ethnicity,Native American,Nativo Americano,38,1,0,0,30178,1.00%,12.59,0.00
+6/16/2020,Race or Ethnicity,Other,No especificado o no listado,1165,40,8,0,NA,NA,,
+6/16/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,757,43,10,1,12071,0.40%,627.12,8.28
+6/16/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,1568,-46,6,1,NA,NA,,
+6/16/2020,Race or Ethnicity,White,Blanco,6051,170,106,1,2387083,79.10%,25.35,0.44
+6/15/2020,Age,0-17,,1416,79,0,0,,,,
+6/15/2020,Age,18-24,,1430,52,0,0,,,,
+6/15/2020,Age,25-44,,4881,149,10,0,,,,
+6/15/2020,Age,45-64,,3716,105,42,2,,,,
+6/15/2020,Age,65+,,1474,31,130,1,,,,
+6/15/2020,Facility Type,Broader Community,Comunidad más amplia,9946,356,102,2,,,,
+6/15/2020,Facility Type,Corrections,Intalación correccional,2522,56,12,0,,,,
+6/15/2020,Facility Type,Nursing Home,Asilo de ancianos,449,4,68,1,,,,
+6/15/2020,Gender,Female,Mujeres,5688,288,NA,NA,,,,
+6/15/2020,Gender,Gender Unknown,Género desconocidos,73,2,NA,NA,,,,
+6/15/2020,Gender,Male,Hombres,7156,198,NA,NA,,,,
+6/15/2020,Race or Ethnicity,African American,Afroamericano,3431,41,54,0,473795,15.70%,72.42,1.14
+6/15/2020,Race or Ethnicity,Asian,Asiático,115,4,1,0,51303,1.70%,22.42,0.19
+6/15/2020,Race or Ethnicity,Hispanic,Hispano,2772,124,11,1,232371,7.70%,119.29,0.47
+6/15/2020,Race or Ethnicity,Multi-Racial,Multirracial,165,2,2,0,66392,2.20%,24.85,0.30
+6/15/2020,Race or Ethnicity,Native American,Nativo Americano,37,1,0,0,30178,1.00%,12.26,0.00
+6/15/2020,Race or Ethnicity,Other,No especificado o no listado,1125,53,8,0,NA,NA,,
+6/15/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,714,26,9,0,12071,0.40%,591.50,7.46
+6/15/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,1614,111,5,0,NA,NA,,
+6/15/2020,Race or Ethnicity,White,Blanco,5881,180,105,3,2387083,79.10%,24.64,0.44
+6/14/2020,Age,0-17,,1337,52,0,0,,,,
+6/14/2020,Age,18-24,,1378,51,0,0,,,,
+6/14/2020,Age,25-44,,4732,179,10,0,,,,
+6/14/2020,Age,45-64,,3611,94,40,1,,,,
+6/14/2020,Age,65+,,1443,30,129,1,,,,
+6/14/2020,Facility Type,Broader Community,Comunidad más amplia,9590,209,100,2,,,,
+6/14/2020,Facility Type,Corrections,Intalación correccional,2466,189,12,0,,,,
+6/14/2020,Facility Type,Nursing Home,Asilo de ancianos,445,8,67,0,,,,
+6/14/2020,Gender,Female,Mujeres,5400,172,NA,NA,,,,
+6/14/2020,Gender,Gender Unknown,Género desconocidos,71,6,NA,NA,,,,
+6/14/2020,Gender,Male,Hombres,6958,228,NA,NA,,,,
+6/14/2020,Race or Ethnicity,African American,Afroamericano,3390,73,54,1,473795,15.70%,71.55,1.14
+6/14/2020,Race or Ethnicity,Asian,Asiático,111,1,1,0,51303,1.70%,21.64,0.19
+6/14/2020,Race or Ethnicity,Hispanic,Hispano,2648,75,10,0,232371,7.70%,113.96,0.43
+6/14/2020,Race or Ethnicity,Multi-Racial,Multirracial,163,0,2,0,66392,2.20%,24.55,0.30
+6/14/2020,Race or Ethnicity,Native American,Nativo Americano,36,1,0,0,30178,1.00%,11.93,0.00
+6/14/2020,Race or Ethnicity,Other,No especificado o no listado,1072,41,8,0,NA,NA,,
+6/14/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,688,10,9,1,12071,0.40%,569.96,7.46
+6/14/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,1503,114,5,0,NA,NA,,
+6/14/2020,Race or Ethnicity,White,Blanco,5701,166,102,0,2387083,79.10%,23.88,0.43
+6/13/2020,Age,0-17,,1285,-8,0,0,,,,
+6/13/2020,Age,18-24,,1327,73,0,0,,,,
+6/13/2020,Age,25-44,,4553,251,10,-1,,,,
+6/13/2020,Age,45-64,,3517,190,39,1,,,,
+6/13/2020,Age,65+,,1413,42,128,1,,,,
+6/13/2020,Facility Type,Broader Community,Comunidad más amplia,9381,534,98,1,,,,
+6/13/2020,Facility Type,Corrections,Intalación correccional,2277,4,12,0,,,,
+6/13/2020,Facility Type,Nursing Home,Asilo de ancianos,437,10,67,0,,,,
+6/13/2020,Gender,Female,Mujeres,5300,204,NA,NA,,,,
+6/13/2020,Gender,Gender Unknown,Género desconocidos,65,14,NA,NA,,,,
+6/13/2020,Gender,Male,Hombres,6730,330,NA,NA,,,,
+6/13/2020,Race or Ethnicity,African American,Afroamericano,3317,144,53,0,473795,15.70%,70.01,1.12
+6/13/2020,Race or Ethnicity,Asian,Asiático,110,5,1,0,51303,1.70%,21.44,0.19
+6/13/2020,Race or Ethnicity,Hispanic,Hispano,2573,121,10,-1,232371,7.70%,110.73,0.43
+6/13/2020,Race or Ethnicity,Multi-Racial,Multirracial,163,2,2,0,66392,2.20%,24.55,0.30
+6/13/2020,Race or Ethnicity,Native American,Nativo Americano,35,1,0,0,30178,1.00%,11.60,0.00
+6/13/2020,Race or Ethnicity,Other,No especificado o no listado,1031,968,8,0,NA,NA,,
+6/13/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,678,29,8,1,12071,0.40%,561.68,6.63
+6/13/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,1389,93,5,-2,NA,NA,,
+6/13/2020,Race or Ethnicity,White,Blanco,5535,213,102,2,2387083,79.10%,23.19,0.43
+6/12/2020,Age,0-17,,1293,192,0,0,,,,
+6/12/2020,Age,18-24,,1254,83,0,0,,,,
+6/12/2020,Age,25-44,,4302,246,11,2,,,,
+6/12/2020,Age,45-64,,3327,165,38,1,,,,
+6/12/2020,Age,65+,,1371,45,127,2,,,,
+6/12/2020,Facility Type,Broader Community,Comunidad más amplia,8847,517,97,5,,,,
+6/12/2020,Facility Type,Corrections,Intalación correccional,2273,207,12,0,,,,
+6/12/2020,Facility Type,Nursing Home,Asilo de ancianos,427,7,67,0,,,,
+6/12/2020,Gender,Female,Mujeres,5096,268,NA,NA,,,,
+6/12/2020,Gender,Gender Unknown,Género desconocidos,51,11,NA,NA,,,,
+6/12/2020,Gender,Male,Hombres,6400,452,NA,NA,,,,
+6/12/2020,Race or Ethnicity,African American,Afroamericano,3173,189,53,1,473795,15.70%,66.97,1.12
+6/12/2020,Race or Ethnicity,Asian,Asiático,105,11,1,0,51303,1.70%,20.47,0.19
+6/12/2020,Race or Ethnicity,Hispanic,Hispano,2452,141,11,1,232371,7.70%,105.52,0.47
+6/12/2020,Race or Ethnicity,Multi-Racial,Multirracial,161,11,2,0,66392,2.20%,24.25,0.30
+6/12/2020,Race or Ethnicity,Native American,Nativo Americano,34,1,0,0,30178,1.00%,11.27,0.00
+6/12/2020,Race or Ethnicity,Other,No especificado o no listado,968,11,8,0,NA,NA,,
+6/12/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,649,48,7,1,12071,0.40%,537.65,5.80
+6/12/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,1296,279,7,2,NA,NA,,
+6/12/2020,Race or Ethnicity,White,Blanco,5322,192,100,1,2387083,79.10%,22.29,0.42
+6/11/2020,Age,0-17,,1101,91,0,0,,,,
+6/11/2020,Age,18-24,,1171,66,0,0,,,,
+6/11/2020,Age,25-44,,4056,132,9,1,,,,
+6/11/2020,Age,45-64,,3162,121,37,1,,,,
+6/11/2020,Age,65+,,1326,38,125,4,,,,
+6/11/2020,Facility Type,Broader Community,Comunidad más amplia,8330,440,92,5,,,,
+6/11/2020,Facility Type,Corrections,Intalación correccional,2066,4,12,0,,,,
+6/11/2020,Facility Type,Nursing Home,Asilo de ancianos,420,4,67,1,,,,
+6/11/2020,Gender,Female,Mujeres,4828,242,NA,NA,,,,
+6/11/2020,Gender,Gender Unknown,Género desconocidos,40,-3,NA,NA,,,,
+6/11/2020,Gender,Male,Hombres,5948,209,NA,NA,,,,
+6/11/2020,Race or Ethnicity,African American,Afroamericano,2984,60,52,1,473795,15.70%,62.98,1.10
+6/11/2020,Race or Ethnicity,Asian,Asiático,94,1,1,0,51303,1.70%,18.32,0.19
+6/11/2020,Race or Ethnicity,Hispanic,Hispano,2311,108,10,2,232371,7.70%,99.45,0.43
+6/11/2020,Race or Ethnicity,Multi-Racial,Multirracial,150,5,2,0,66392,2.20%,22.59,0.30
+6/11/2020,Race or Ethnicity,Native American,Nativo Americano,33,0,0,0,30178,1.00%,10.94,0.00
+6/11/2020,Race or Ethnicity,Other,No especificado o no listado,957,36,8,0,NA,NA,,
+6/11/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,601,40,6,0,12071,0.40%,497.89,4.97
+6/11/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,1017,150,5,2,NA,NA,,
+6/11/2020,Race or Ethnicity,White,Blanco,5130,157,99,3,2387083,79.10%,21.49,0.41
+6/10/2020,Age,0-17,,1010,35,0,0,,,,
+6/10/2020,Age,18-24,,1105,31,0,0,,,,
+6/10/2020,Age,25-44,,3924,113,8,0,,,,
+6/10/2020,Age,45-64,,3041,83,36,0,,,,
+6/10/2020,Age,65+,,1288,26,121,4,,,,
+6/10/2020,Facility Type,Broader Community,Comunidad más amplia,7890,261,87,4,,,,
+6/10/2020,Facility Type,Corrections,Intalación correccional,2062,23,12,0,,,,
+6/10/2020,Facility Type,Nursing Home,Asilo de ancianos,416,4,66,0,,,,
+6/10/2020,Gender,Female,Mujeres,4586,138,NA,NA,,,,
+6/10/2020,Gender,Gender Unknown,Género desconocidos,43,9,NA,NA,,,,
+6/10/2020,Gender,Male,Hombres,5739,141,NA,NA,,,,
+6/10/2020,Race or Ethnicity,African American,Afroamericano,2920,76,51,1,473795,15.70%,61.63,1.08
+6/10/2020,Race or Ethnicity,Asian,Asiático,93,2,1,0,51303,1.70%,18.13,0.19
+6/10/2020,Race or Ethnicity,Hispanic,Hispano,2203,146,8,0,232371,7.70%,94.81,0.34
+6/10/2020,Race or Ethnicity,Multi-Racial,Multirracial,145,1,2,0,66392,2.20%,21.84,0.30
+6/10/2020,Race or Ethnicity,Native American,Nativo Americano,33,1,0,0,30178,1.00%,10.94,0.00
+6/10/2020,Race or Ethnicity,Other,No especificado o no listado,921,24,8,0,NA,NA,,
+6/10/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,561,40,6,1,12071,0.40%,464.75,4.97
+6/10/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,867,-62,3,0,NA,NA,,
+6/10/2020,Race or Ethnicity,White,Blanco,4973,207,96,2,2387083,79.10%,20.83,0.40
+6/9/2020,Age,0-17,,975,51,0,0,,,,
+6/9/2020,Age,18-24,,1074,36,0,0,,,,
+6/9/2020,Age,25-44,,3811,132,8,0,,,,
+6/9/2020,Age,45-64,,2958,88,36,1,,,,
+6/9/2020,Age,65+,,1262,33,117,5,,,,
+6/9/2020,Facility Type,Broader Community,Comunidad más amplia,7629,300,83,4,,,,
+6/9/2020,Facility Type,Corrections,Intalación correccional,2039,34,12,0,,,,
+6/9/2020,Facility Type,Nursing Home,Asilo de ancianos,412,6,66,2,,,,
+6/9/2020,Gender,Female,Mujeres,4448,142,NA,NA,,,,
+6/9/2020,Gender,Gender Unknown,Género desconocidos,34,4,NA,NA,,,,
+6/9/2020,Gender,Male,Hombres,5598,194,NA,NA,,,,
+6/9/2020,Race or Ethnicity,African American,Afroamericano,2844,67,50,2,473795,15.70%,60.03,1.06
+6/9/2020,Race or Ethnicity,Asian,Asiático,91,1,1,0,51303,1.70%,17.74,0.19
+6/9/2020,Race or Ethnicity,Hispanic,Hispano,2057,143,8,1,232371,7.70%,88.52,0.34
+6/9/2020,Race or Ethnicity,Multi-Racial,Multirracial,144,3,2,0,66392,2.20%,21.69,0.30
+6/9/2020,Race or Ethnicity,Native American,Nativo Americano,32,0,0,0,30178,1.00%,10.60,0.00
+6/9/2020,Race or Ethnicity,Other,No especificado o no listado,897,44,8,0,NA,NA,,
+6/9/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,521,29,5,0,12071,0.40%,431.61,4.14
+6/9/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,929,27,3,0,NA,NA,,
+6/9/2020,Race or Ethnicity,White,Blanco,4766,172,94,4,2387083,79.10%,19.97,0.39
+6/8/2020,Age,0-17,,924,56,0,0,,,,
+6/8/2020,Age,18-24,,1038,41,0,0,,,,
+6/8/2020,Age,25-44,,3679,113,8,0,,,,
+6/8/2020,Age,45-64,,2870,81,35,1,,,,
+6/8/2020,Age,65+,,1229,23,112,0,,,,
+6/8/2020,Facility Type,Broader Community,Comunidad más amplia,7329,238,79,1,,,,
+6/8/2020,Facility Type,Corrections,Intalación correccional,2005,49,12,0,,,,
+6/8/2020,Facility Type,Nursing Home,Asilo de ancianos,406,27,64,0,,,,
+6/8/2020,Gender,Female,Mujeres,4306,158,NA,NA,,,,
+6/8/2020,Gender,Gender Unknown,Género desconocidos,30,3,NA,NA,,,,
+6/8/2020,Gender,Male,Hombres,5404,152,NA,NA,,,,
+6/8/2020,Race or Ethnicity,African American,Afroamericano,2777,52,48,0,473795,15.70%,58.61,1.01
+6/8/2020,Race or Ethnicity,Asian,Asiático,90,3,1,0,51303,1.70%,17.54,0.19
+6/8/2020,Race or Ethnicity,Hispanic,Hispano,1941,110,7,0,232371,7.70%,83.53,0.30
+6/8/2020,Race or Ethnicity,Multi-Racial,Multirracial,141,1,2,0,66392,2.20%,21.24,0.30
+6/8/2020,Race or Ethnicity,Native American,Nativo Americano,32,2,0,0,30178,1.00%,10.60,0.00
+6/8/2020,Race or Ethnicity,Other,No especificado o no listado,853,44,8,0,NA,NA,,
+6/8/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,492,42,5,0,12071,0.40%,407.59,4.14
+6/8/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,902,46,3,0,NA,NA,,
+6/8/2020,Race or Ethnicity,White,Blanco,4594,125,90,1,2387083,79.10%,19.25,0.38
+6/7/2020,Age,0-17,,868,67,0,0,,,,
+6/7/2020,Age,18-24,,997,54,0,0,,,,
+6/7/2020,Age,25-44,,3566,107,8,0,,,,
+6/7/2020,Age,45-64,,2789,73,34,0,,,,
+6/7/2020,Age,65+,,1206,24,112,0,,,,
+6/7/2020,Facility Type,Broader Community,Comunidad más amplia,7091,317,78,0,,,,
+6/7/2020,Facility Type,Corrections,Intalación correccional,1956,6,12,0,,,,
+6/7/2020,Facility Type,Nursing Home,Asilo de ancianos,379,2,64,0,,,,
+6/7/2020,Gender,Female,Mujeres,4148,158,NA,NA,,,,
+6/7/2020,Gender,Gender Unknown,Género desconocidos,27,2,NA,NA,,,,
+6/7/2020,Gender,Male,Hombres,5251,165,NA,NA,,,,
+6/7/2020,Race or Ethnicity,African American,Afroamericano,2725,33,48,1,473795,15.70%,57.51,1.01
+6/7/2020,Race or Ethnicity,Asian,Asiático,87,1,1,0,51303,1.70%,16.96,0.19
+6/7/2020,Race or Ethnicity,Hispanic,Hispano,1831,114,7,0,232371,7.70%,78.80,0.30
+6/7/2020,Race or Ethnicity,Multi-Racial,Multirracial,140,1,2,0,66392,2.20%,21.09,0.30
+6/7/2020,Race or Ethnicity,Native American,Nativo Americano,30,1,0,0,30178,1.00%,9.94,0.00
+6/7/2020,Race or Ethnicity,Other,No especificado o no listado,809,34,8,0,NA,NA,,
+6/7/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,450,27,5,0,12071,0.40%,372.79,4.14
+6/7/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,856,115,3,-1,NA,NA,,
+6/7/2020,Race or Ethnicity,White,Blanco,4469,118,89,0,2387083,79.10%,18.72,0.37
+6/6/2020,Age,0-17,,801,72,0,0,,,,
+6/6/2020,Age,18-24,,943,38,0,0,,,,
+6/6/2020,Age,25-44,,3459,141,8,1,,,,
+6/6/2020,Age,45-64,,2716,150,34,0,,,,
+6/6/2020,Age,65+,,1182,49,112,1,,,,
+6/6/2020,Facility Type,Broader Community,Comunidad más amplia,6774,393,78,1,,,,
+6/6/2020,Facility Type,Corrections,Intalación correccional,1950,50,12,0,,,,
+6/6/2020,Facility Type,Nursing Home,Asilo de ancianos,377,7,64,1,,,,
+6/6/2020,Gender,Female,Mujeres,3990,232,NA,NA,,,,
+6/6/2020,Gender,Gender Unknown,Género desconocidos,25,4,NA,NA,,,,
+6/6/2020,Gender,Male,Hombres,5086,214,NA,NA,,,,
+6/6/2020,Race or Ethnicity,African American,Afroamericano,2692,125,47,0,473795,15.70%,56.82,0.99
+6/6/2020,Race or Ethnicity,Asian,Asiático,86,5,1,0,51303,1.70%,16.76,0.19
+6/6/2020,Race or Ethnicity,Hispanic,Hispano,1717,95,7,0,232371,7.70%,73.89,0.30
+6/6/2020,Race or Ethnicity,Multi-Racial,Multirracial,139,0,2,0,66392,2.20%,20.94,0.30
+6/6/2020,Race or Ethnicity,Native American,Nativo Americano,29,1,0,0,30178,1.00%,9.61,0.00
+6/6/2020,Race or Ethnicity,Other,No especificado o no listado,779,39,8,0,NA,NA,,
+6/6/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,423,28,5,0,12071,0.40%,350.43,4.14
+6/6/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,741,97,4,2,NA,NA,,
+6/6/2020,Race or Ethnicity,White,Blanco,4351,185,89,0,2387083,79.10%,18.23,0.37
+6/5/2020,Age,0-17,,729,34,0,0,,,,
+6/5/2020,Age,18-24,,905,42,0,0,,,,
+6/5/2020,Age,25-44,,3318,79,7,0,,,,
+6/5/2020,Age,45-64,,2566,53,34,0,,,,
+6/5/2020,Age,65+,,1133,18,111,1,,,,
+6/5/2020,Facility Type,Broader Community,Comunidad más amplia,6381,221,77,0,,,,
+6/5/2020,Facility Type,Corrections,Intalación correccional,1900,3,12,1,,,,
+6/5/2020,Facility Type,Nursing Home,Asilo de ancianos,370,2,63,0,,,,
+6/5/2020,Gender,Female,Mujeres,3758,104,NA,NA,,,,
+6/5/2020,Gender,Gender Unknown,Género desconocidos,21,-2,NA,NA,,,,
+6/5/2020,Gender,Male,Hombres,4872,124,NA,NA,,,,
+6/5/2020,Race or Ethnicity,African American,Afroamericano,2567,4,47,0,473795,15.70%,54.18,0.99
+6/5/2020,Race or Ethnicity,Asian,Asiático,81,0,1,0,51303,1.70%,15.79,0.19
+6/5/2020,Race or Ethnicity,Hispanic,Hispano,1622,107,7,0,232371,7.70%,69.80,0.30
+6/5/2020,Race or Ethnicity,Multi-Racial,Multirracial,139,3,2,0,66392,2.20%,20.94,0.30
+6/5/2020,Race or Ethnicity,Native American,Nativo Americano,28,0,0,0,30178,1.00%,9.28,0.00
+6/5/2020,Race or Ethnicity,Other,No especificado o no listado,740,23,8,0,NA,NA,,
+6/5/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,395,22,5,0,12071,0.40%,327.23,4.14
+6/5/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,644,-23,2,0,NA,NA,,
+6/5/2020,Race or Ethnicity,White,Blanco,4166,169,89,1,2387083,79.10%,17.45,0.37
+6/4/2020,Age,0-17,,695,56,0,-1,,,,
+6/4/2020,Age,18-24,,863,40,0,0,,,,
+6/4/2020,Age,25-44,,3239,139,7,1,,,,
+6/4/2020,Age,45-64,,2513,95,34,2,,,,
+6/4/2020,Age,65+,,1115,28,110,7,,,,
+6/4/2020,Facility Type,Broader Community,Comunidad más amplia,6160,352,77,3,,,,
+6/4/2020,Facility Type,Corrections,Intalación correccional,1897,2,11,0,,,,
+6/4/2020,Facility Type,Nursing Home,Asilo de ancianos,368,4,63,6,,,,
+6/4/2020,Gender,Female,Mujeres,3654,204,NA,NA,,,,
+6/4/2020,Gender,Gender Unknown,Género desconocidos,23,-12,NA,NA,,,,
+6/4/2020,Gender,Male,Hombres,4748,226,NA,NA,,,,
+6/4/2020,Race or Ethnicity,African American,Afroamericano,2563,48,47,1,473795,15.70%,54.10,0.99
+6/4/2020,Race or Ethnicity,Asian,Asiático,80,0,1,0,51303,1.70%,15.59,0.19
+6/4/2020,Race or Ethnicity,Hispanic,Hispano,1515,159,7,1,232371,7.70%,65.20,0.30
+6/4/2020,Race or Ethnicity,Multi-Racial,Multirracial,136,5,2,1,66392,2.20%,20.48,0.30
+6/4/2020,Race or Ethnicity,Native American,Nativo Americano,28,1,0,0,30178,1.00%,9.28,0.00
+6/4/2020,Race or Ethnicity,Other,No especificado o no listado,717,62,8,0,NA,NA,,
+6/4/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,373,27,5,2,12071,0.40%,309.01,4.14
+6/4/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,667,39,2,-2,NA,NA,,
+6/4/2020,Race or Ethnicity,White,Blanco,3997,181,88,8,2387083,79.10%,16.74,0.37
+6/3/2020,Age,0-17,,639,66,1,1,,,,
+6/3/2020,Age,18-24,,823,23,0,0,,,,
+6/3/2020,Age,25-44,,3100,83,6,1,,,,
+6/3/2020,Age,45-64,,2418,52,32,2,,,,
+6/3/2020,Age,65+,,1087,25,103,2,,,,
+6/3/2020,Facility Type,Broader Community,Comunidad más amplia,5808,237,74,4,,,,
+6/3/2020,Facility Type,Corrections,Intalación correccional,1895,4,11,0,,,,
+6/3/2020,Facility Type,Nursing Home,Asilo de ancianos,364,8,57,2,,,,
+6/3/2020,Gender,Female,Mujeres,3450,150,NA,NA,,,,
+6/3/2020,Gender,Gender Unknown,Género desconocidos,35,-28,NA,NA,,,,
+6/3/2020,Gender,Male,Hombres,4482,127,NA,NA,,,,
+6/3/2020,Race or Ethnicity,African American,Afroamericano,2515,40,46,0,473795,15.70%,53.08,0.97
+6/3/2020,Race or Ethnicity,Asian,Asiático,80,2,1,0,51303,1.70%,15.59,0.19
+6/3/2020,Race or Ethnicity,Hispanic,Hispano,1356,111,6,1,232371,7.70%,58.35,0.26
+6/3/2020,Race or Ethnicity,Multi-Racial,Multirracial,131,-3,1,0,66392,2.20%,19.73,0.15
+6/3/2020,Race or Ethnicity,Native American,Nativo Americano,27,0,0,0,30178,1.00%,8.95,0.00
+6/3/2020,Race or Ethnicity,Other,No especificado o no listado,655,54,8,1,NA,NA,,
+6/3/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,346,27,3,0,12071,0.40%,286.64,2.49
+6/3/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,628,27,4,2,NA,NA,,
+6/3/2020,Race or Ethnicity,White,Blanco,3816,101,80,3,2387083,79.10%,15.99,0.34
+6/2/2020,Age,0-17,,573,48,0,0,,,,
+6/2/2020,Age,18-24,,800,48,0,0,,,,
+6/2/2020,Age,25-44,,3017,143,5,0,,,,
+6/2/2020,Age,45-64,,2366,87,30,0,,,,
+6/2/2020,Age,65+,,1062,49,101,3,,,,
+6/2/2020,Facility Type,Broader Community,Comunidad más amplia,5571,370,70,3,,,,
+6/2/2020,Facility Type,Corrections,Intalación correccional,1891,1,11,0,,,,
+6/2/2020,Facility Type,Nursing Home,Asilo de ancianos,356,4,55,0,,,,
+6/2/2020,Gender,Female,Mujeres,3300,230,NA,NA,,,,
+6/2/2020,Gender,Gender Unknown,Género desconocidos,63,-18,NA,NA,,,,
+6/2/2020,Gender,Male,Hombres,4455,163,NA,NA,,,,
+6/2/2020,Race or Ethnicity,African American,Afroamericano,2475,69,46,0,473795,15.70%,52.24,0.97
+6/2/2020,Race or Ethnicity,Asian,Asiático,78,3,1,0,51303,1.70%,15.20,0.19
+6/2/2020,Race or Ethnicity,Hispanic,Hispano,1245,141,5,0,232371,7.70%,53.58,0.22
+6/2/2020,Race or Ethnicity,Multi-Racial,Multirracial,133,-4,1,0,66392,2.20%,20.03,0.15
+6/2/2020,Race or Ethnicity,Native American,Nativo Americano,27,1,0,0,30178,1.00%,8.95,0.00
+6/2/2020,Race or Ethnicity,Other,No especificado o no listado,601,35,7,0,NA,NA,,
+6/2/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,319,18,3,0,12071,0.40%,264.27,2.49
+6/2/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,601,88,2,2,NA,NA,,
+6/2/2020,Race or Ethnicity,White,Blanco,3715,159,77,0,2387083,79.10%,15.56,0.32
+6/1/2020,Age,0-17,,525,30,0,0,,,,
+6/1/2020,Age,18-24,,752,23,0,0,,,,
+6/1/2020,Age,25-44,,2874,60,5,0,,,,
+6/1/2020,Age,45-64,,2279,49,30,0,,,,
+6/1/2020,Age,65+,,1013,28,98,0,,,,
+6/1/2020,Facility Type,Broader Community,Comunidad más amplia,5201,179,67,0,,,,
+6/1/2020,Facility Type,Corrections,Intalación correccional,1890,3,11,0,,,,
+6/1/2020,Facility Type,Nursing Home,Asilo de ancianos,352,8,55,0,,,,
+6/1/2020,Gender,Female,Mujeres,3070,67,NA,NA,,,,
+6/1/2020,Gender,Gender Unknown,Género desconocidos,81,60,NA,NA,,,,
+6/1/2020,Gender,Male,Hombres,4292,67,NA,NA,,,,
+6/1/2020,Race or Ethnicity,African American,Afroamericano,2406,34,46,0,473795,15.70%,50.78,0.97
+6/1/2020,Race or Ethnicity,Asian,Asiático,75,1,1,0,51303,1.70%,14.62,0.19
+6/1/2020,Race or Ethnicity,Hispanic,Hispano,1104,73,5,0,232371,7.70%,47.51,0.22
+6/1/2020,Race or Ethnicity,Multi-Racial,Multirracial,137,-1,1,0,66392,2.20%,20.64,0.15
+6/1/2020,Race or Ethnicity,Native American,Nativo Americano,26,0,0,0,30178,1.00%,8.62,0.00
+6/1/2020,Race or Ethnicity,Other,No especificado o no listado,566,28,7,0,NA,NA,,
+6/1/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,301,6,3,0,12071,0.40%,249.36,2.49
+6/1/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,513,28,0,0,NA,NA,,
+6/1/2020,Race or Ethnicity,White,Blanco,3556,93,76,0,2387083,79.10%,14.90,0.32
+5/31/2020,Age,0-17,,495,34,0,0,,,,
+5/31/2020,Age,18-24,,729,40,0,0,,,,
+5/31/2020,Age,25-44,,2814,77,5,0,,,,
+5/31/2020,Age,45-64,,2230,69,30,0,,,,
+5/31/2020,Age,65+,,985,20,98,0,,,,
+5/31/2020,Facility Type,Broader Community,Comunidad más amplia,5022,237,67,0,,,,
+5/31/2020,Facility Type,Corrections,Intalación correccional,1887,2,11,0,,,,
+5/31/2020,Facility Type,Nursing Home,Asilo de ancianos,344,1,55,0,,,,
+5/31/2020,Gender,Female,Mujeres,3003,126,NA,NA,,,,
+5/31/2020,Gender,Gender Unknown,Género desconocidos,21,4,NA,NA,,,,
+5/31/2020,Gender,Male,Hombres,4225,110,NA,NA,,,,
+5/31/2020,Race or Ethnicity,African American,Afroamericano,2372,32,46,0,473795,15.70%,50.06,0.97
+5/31/2020,Race or Ethnicity,Asian,Asiático,74,1,1,0,51303,1.70%,14.42,0.19
+5/31/2020,Race or Ethnicity,Hispanic,Hispano,1031,110,5,0,232371,7.70%,44.37,0.22
+5/31/2020,Race or Ethnicity,Multi-Racial,Multirracial,138,1,1,0,66392,2.20%,20.79,0.15
+5/31/2020,Race or Ethnicity,Native American,Nativo Americano,26,1,0,0,30178,1.00%,8.62,0.00
+5/31/2020,Race or Ethnicity,Other,No especificado o no listado,538,22,7,0,NA,NA,,
+5/31/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,295,39,3,0,12071,0.40%,244.39,2.49
+5/31/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,485,51,0,0,NA,NA,,
+5/31/2020,Race or Ethnicity,White,Blanco,3463,94,76,0,2387083,79.10%,14.51,0.32
+5/30/2020,Age,0-17,,461,66,0,0,,,,
+5/30/2020,Age,18-24,,689,75,0,0,,,,
+5/30/2020,Age,25-44,,2737,183,5,1,,,,
+5/30/2020,Age,45-64,,2161,106,30,1,,,,
+5/30/2020,Age,65+,,965,45,98,6,,,,
+5/30/2020,Facility Type,Broader Community,Comunidad más amplia,4785,457,67,4,,,,
+5/30/2020,Facility Type,Corrections,Intalación correccional,1885,7,11,1,,,,
+5/30/2020,Facility Type,Nursing Home,Asilo de ancianos,343,11,55,3,,,,
+5/30/2020,Gender,Female,Mujeres,2877,262,NA,NA,,,,
+5/30/2020,Gender,Gender Unknown,Género desconocidos,21,4,NA,NA,,,,
+5/30/2020,Gender,Male,Hombres,4115,209,NA,NA,,,,
+5/30/2020,Race or Ethnicity,African American,Afroamericano,2340,104,46,1,473795,15.70%,49.39,0.97
+5/30/2020,Race or Ethnicity,Asian,Asiático,73,6,1,0,51303,1.70%,14.23,0.19
+5/30/2020,Race or Ethnicity,Hispanic,Hispano,921,204,5,1,232371,7.70%,39.63,0.22
+5/30/2020,Race or Ethnicity,Multi-Racial,Multirracial,137,-1,1,1,66392,2.20%,20.64,0.15
+5/30/2020,Race or Ethnicity,Native American,Nativo Americano,25,3,0,0,30178,1.00%,8.28,0.00
+5/30/2020,Race or Ethnicity,Other,No especificado o no listado,516,57,7,1,NA,NA,,
+5/30/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,256,44,3,0,12071,0.40%,212.08,2.49
+5/30/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,434,11,0,0,NA,NA,,
+5/30/2020,Race or Ethnicity,White,Blanco,3369,250,76,7,2387083,79.10%,14.11,0.32
+5/28/2020,Age,0-17,,395,NA,0,NA,,,,
+5/28/2020,Age,18-24,,614,NA,0,NA,,,,
+5/28/2020,Age,25-44,,2554,NA,4,NA,,,,
+5/28/2020,Age,45-64,,2055,NA,29,NA,,,,
+5/28/2020,Age,65+,,920,NA,92,NA,,,,
+5/28/2020,Facility Type,Broader Community,Comunidad más amplia,4328,NA,63,NA,,,,
+5/28/2020,Facility Type,Corrections,Intalación correccional,1878,NA,10,NA,,,,
+5/28/2020,Facility Type,Nursing Home,Asilo de ancianos,332,NA,52,NA,,,,
+5/28/2020,Gender,Female,Mujeres,2615,NA,NA,NA,,,,
+5/28/2020,Gender,Gender Unknown,Género desconocidos,17,NA,NA,NA,,,,
+5/28/2020,Gender,Male,Hombres,3906,NA,NA,NA,,,,
+5/28/2020,Race or Ethnicity,African American,Afroamericano,2236,NA,45,NA,473795,15.70%,47.19,0.95
+5/28/2020,Race or Ethnicity,Asian,Asiático,67,NA,1,NA,51303,1.70%,13.06,0.19
+5/28/2020,Race or Ethnicity,Hispanic,Hispano,717,NA,4,NA,232371,7.70%,30.86,0.17
+5/28/2020,Race or Ethnicity,Multi-Racial,Multirracial,138,NA,0,NA,66392,2.20%,20.79,0.00
+5/28/2020,Race or Ethnicity,Native American,Nativo Americano,22,NA,0,NA,30178,1.00%,7.29,0.00
+5/28/2020,Race or Ethnicity,Other,No especificado o no listado,459,NA,6,NA,NA,NA,,
+5/28/2020,Race or Ethnicity,Pacific Islander,Oriundo de las Islas del Océano Pacífico,212,NA,3,NA,12071,0.40%,175.63,2.49
+5/28/2020,Race or Ethnicity,Race or Ethnicity Unknown,Raza o ethnicidad desconocido,423,NA,0,NA,NA,NA,,
+5/28/2020,Race or Ethnicity,White,Blanco,3119,NA,69,NA,2387083,79.10%,13.07,0.29
