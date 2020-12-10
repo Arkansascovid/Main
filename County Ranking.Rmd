@@ -1,0 +1,61 @@
+---
+title: "County Data Per 10k for Election Map"
+author: "Katy Seiter"
+date: "12/9/2020"
+output: html_document
+---
+
+```{r}
+library(rio)
+library(tidyverse)
+library(slider)
+library(lubridate)
+library(dplyr)
+```
+
+#Import data
+```{r}
+master2 <- rio::import("master_file.csv")
+#master2 <- rio::import("https://raw.githubusercontent.com/Arkansascovid/Main/master/master_file.csv")
+```
+
+#Create mini table
+```{r}
+test <- master2 %>% 
+  select(county_nam, positive, mydate, pop_5yr_est_2018, New_Cases_Today) %>% 
+  filter(mydate==today) %>% 
+  filter(county_nam!="Arkansas_all_counties") %>% 
+  filter(county_nam!="MissingCountyInfo")
+```
+
+#Calculate cases per 10k pop for counties
+```{r}
+test <- test %>% 
+  mutate(Cases_10k_Pop = (positive/pop_5yr_est_2018)*10000)
+test$Cases_10k_Pop <-round(test$Cases_10k_Pop, 2)
+```
+
+#Create statewide average for cases per 10k pop
+```{r}
+test <- test %>% 
+  summarise(test, Statewide_Avg = mean(Cases_10k_Pop, na.rm = T))
+test$Statewide_Avg <-round(test$Statewide_Avg, 2)
+```
+
+#Create county ranking for Cases per 10k 
+```{r}
+test$Rank <-  rank(-test$Cases_10k_Pop)
+test$Rank
+```
+
+#Subset final table
+```{r}
+countyranking <- test %>% 
+  select(Rank,county_nam, mydate, positive, Cases_10k_Pop, Statewide_Avg) %>% 
+  arrange(Rank)
+
+#write.csv(countyranking, "countyranking.csv")
+```
+
+
+
