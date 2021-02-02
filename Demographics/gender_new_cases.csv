@@ -1,7 +1,4 @@
 "","Date","Gender","New_Cases"
-"1",2021-02-01,"New_Cases_Male",0
-"2",2021-02-01,"New_Cases_Male",542
-"3",2021-02-01,"New_Cases_Female",0
-"4",2021-02-01,"New_Cases_Female",617
-"5",2021-02-01,"New_Cases_Gender_Unknown",1829
-"6",2021-02-01,"New_Cases_Gender_Unknown",-1762
+"1",2021-02-02,"New_Cases_Male",715
+"2",2021-02-02,"New_Cases_Female",751
+"3",2021-02-02,"New_Cases_Gender_Unknown",1873
