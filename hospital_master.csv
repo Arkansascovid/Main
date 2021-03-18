@@ -1,4 +1,5 @@
 "","date","Hospitalized","Vent","Ever_Hospitalized","Ever_on_a_Vent","confirmed_active","active_cases","New_Admits","Hosp_Change_from_Yesterday","New_Discharges_Deaths","Pct_Vent","New_on_Vent","Pct_Hospitalized"
+"1",2021-03-17,260,54,15138,1562,1942,2808,45,3,42,20.77,8,9.26
 "2",2021-03-16,257,58,15093,1554,2048,2875,40,7,33,22.57,4,8.94
 "3",2021-03-15,250,58,15053,1550,2134,2863,9,7,2,23.2,1,8.73
 "4",2021-03-14,243,55,15044,1549,2268,3085,7,-5,12,22.63,0,7.88
