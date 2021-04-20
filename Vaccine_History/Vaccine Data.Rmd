@@ -1,0 +1,135 @@
+---
+title: "Vaccine Data"
+author: "Rob Wells"
+date: "4/20/2021"
+output: html_document
+---
+
+```{r include=FALSE}
+library(tidyverse)
+library(janitor)
+library(lubridate)
+library(tidyr)
+library(jsonlite)
+library(gtools)
+library(zoo)  
+library(reshape2)
+library(slider)
+library(formattable)
+```
+
+#Parse the PDF from ADH using Adobe Acrobat. Export to a .xlsx file.
+#Unmerge the spreadsheet
+
+#Check to see if the spreadsheet is 8 columns or 5 columns. It varies. Use the appropriate code below. 
+
+#Copy the file path to the appropriate line below
+
+#For 8 Columns
+
+```{r}
+
+vaccinecounty <- rio::import("/Users/rswells/Dropbox/Classes/Data Fall 2020/ArkansasCovid/Vaccine_Brief_ADH_2021_04_19.xlsx", skip=3, col_names = c("county", "partial_vax", "partialpct", "full_vax", "fullpct", "unknown_dose", "unknownpct", "population"))
+
+vaccinecounty <- separate(data = vaccinecounty, col = partial_vax, into = c("Partial_Vax", "Partial_Pct_a"), sep = " ", extra = "merge", fill = "right")
+
+#use this
+vaccinecounty$Partial_Pct <- paste(vaccinecounty$partialpct, vaccinecounty$Partial_Pct_a)
+
+vaccinecounty <- separate(data = vaccinecounty, col = full_vax, into = c("Full_Vax", "Full_Pcta"), sep = " ", extra = "merge", fill = "right")
+
+#use this
+vaccinecounty$Full_Pct <- paste(vaccinecounty$fullpct, vaccinecounty$Full_Pcta)
+
+
+vaccinecounty <- separate(data = vaccinecounty, col = unknown_dose, into = c("Unknown_Dose", "Unknown_Pcta"), sep = " ", extra = "merge", fill = "right")
+
+#use this
+vaccinecounty$Unknown_Pct <- paste(vaccinecounty$Unknown_Pcta, vaccinecounty$unknownpct)
+
+
+vaccinecounty [2:14] <- as.data.frame(lapply(vaccinecounty [2:14], function(y) gsub("[N/A]", "", y)))
+vaccinecounty <- as.data.frame(lapply(vaccinecounty, function(y) gsub("[,]", "", y)))
+vaccinecounty <- as.data.frame(lapply(vaccinecounty, function(y) gsub("[(%)]", "", y)))
+
+#Format as integers
+vaccinecounty[2:14] <- lapply((vaccinecounty)[2:14], function(x) as.numeric(as.character(x)))
+
+vaccinecounty$date <- Sys.Date()
+
+vaccinecounty1 <- vaccinecounty %>% 
+  select(county, Partial_Vax, Partial_Pct, Full_Vax, Full_Pct, Unknown_Dose, Unknown_Pct, population, date)
+
+head(vaccinecounty1)
+
+write.csv(vaccinecounty1, file = "MasterData/vaccinecounty.csv")
+```
+
+#For 5 Columns
+
+```{r}
+
+vaccinecounty <- rio::import("/Users/rswells/Dropbox/Classes/Data Fall 2020/ArkansasCovid/Vaccine_Brief_ADH_2021_04_19.xlsx", skip=3, col_names = c("county", "partial_vax", "full_vax", "unknown_dose", "population"))
+
+vaccinecounty <- separate(data = vaccinecounty, col = partial_vax, into = c("Partial_Vax", "Partial_Pct"), sep = " ", extra = "merge", fill = "right")
+
+vaccinecounty <- separate(data = vaccinecounty, col = full_vax, into = c("Full_Vax", "Full_Pct"), sep = " ", extra = "merge", fill = "right")
+
+vaccinecounty <- separate(data = vaccinecounty, col = unknown_dose, into = c("Unknown_Dose", "Unknown_Pct"), sep = " ", extra = "merge", fill = "right")
+
+vaccinecounty [2:8] <- as.data.frame(lapply(vaccinecounty [2:8], function(y) gsub("[N/A]", "", y)))
+vaccinecounty <- as.data.frame(lapply(vaccinecounty, function(y) gsub("[,]", "", y)))
+vaccinecounty <- as.data.frame(lapply(vaccinecounty, function(y) gsub("[(%)]", "", y)))
+
+#Format as integers
+vaccinecounty[2:8] <- lapply((vaccinecounty)[2:8], function(x) as.numeric(as.character(x)))
+
+vaccinecounty$date <- Sys.Date()-1
+
+
+```
+
+```{r}
+names(vaccinecounty)
+```
+
+
+```{r}
+#Final table
+
+
+#Clean up column names
+vaccinecounty <- vaccinecounty %>% 
+  rename(Date = date, County = county, Population = population)
+
+#Delete NA row
+#May not be in same row
+#vaccinecounty2 = vaccinecounty2[-c(39),]
+
+
+glimpse(vaccinecounty)
+write.csv(vaccinecounty, file = "MasterData/vaccinecounty.csv")
+```
+
+
+#Add the total for missing and out of state vaccine data 
+```{r}
+missing <- vaccinecounty %>% 
+  select(County, Full_Vax, Partial_Vax) %>% 
+  filter(County=="Missing" | County=="Out of State") 
+
+Fulltotal <- sum(missing$Full_Vax)
+Partialtotal <- sum(missing$Partial_Vax)
+total <- sum(Fulltotal + Partialtotal)
+total
+ 
+ 
+```
+
+
+#Put this file into the Vaccine History folder in GitHub https://github.com/Arkansascovid/Main/tree/master/Vaccine_History 
+```{r}
+date <- Sys.Date()
+save(vaccinecounty2,file=paste0("vaccinecounty2_",date,".csv"))
+
+```
