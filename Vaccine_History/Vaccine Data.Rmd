@@ -1,7 +1,7 @@
 ---
 title: "Vaccine Data"
 author: "Rob Wells"
-date: "4/20/2021"
+date: "5/4/2021"
 output: html_document
 ---
 
@@ -29,7 +29,7 @@ library(formattable)
 
 ```{r}
 
-vaccinecounty <- rio::import("/Users/rswells/Dropbox/Classes/Data Fall 2020/ArkansasCovid/Vaccine_Brief_ADH_2021_04_19.xlsx", skip=3, col_names = c("county", "partial_vax", "partialpct", "full_vax", "fullpct", "unknown_dose", "unknownpct", "population"))
+vaccinecounty <- rio::import("/Users/rswells/Dropbox/Classes/Data Fall 2020/ArkansasCovid/county vaccination numbers 5.4.21.xlsx", skip=3, col_names = c("county", "partial_vax", "partialpct", "full_vax", "fullpct", "unknown_dose", "unknownpct", "population"))
 
 vaccinecounty <- separate(data = vaccinecounty, col = partial_vax, into = c("Partial_Vax", "Partial_Pct_a"), sep = " ", extra = "merge", fill = "right")
 
@@ -63,9 +63,33 @@ vaccinecounty1 <- vaccinecounty %>%
 head(vaccinecounty1)
 
 write.csv(vaccinecounty1, file = "MasterData/vaccinecounty.csv")
+
+#Write a copy with a date for archiving
+#Put this file into the Vaccine History folder in GitHub #https://github.com/Arkansascovid/Main/tree/master/Vaccine_History 
+date <- Sys.Date()
+vaccinecounty2 <- paste("vaccinecounty",date,".csv",sep="")
+write.csv(vaccinecounty1, file=vaccinecounty2) 
+```
+#Add the total for missing and out of state vaccine data 
+```{r}
+missing <- vaccinecounty %>% 
+  select(county, Full_Vax, Partial_Vax) %>% 
+  filter(county=="Missing" | county=="Out of State") 
+
+Fulltotal <- sum(missing$Full_Vax)
+Partialtotal <- sum(missing$Partial_Vax)
+total <- sum(Fulltotal + Partialtotal)
+total
+ 
+ 
 ```
 
+#------------------------------------------------------------------------------
+#  Only use this below if the spreadsheet is 5 columns
+#
 #For 5 Columns
+#
+#------------------------------------------------------------------------------
 
 ```{r}
 
@@ -112,24 +136,4 @@ write.csv(vaccinecounty, file = "MasterData/vaccinecounty.csv")
 ```
 
 
-#Add the total for missing and out of state vaccine data 
-```{r}
-missing <- vaccinecounty %>% 
-  select(County, Full_Vax, Partial_Vax) %>% 
-  filter(County=="Missing" | County=="Out of State") 
 
-Fulltotal <- sum(missing$Full_Vax)
-Partialtotal <- sum(missing$Partial_Vax)
-total <- sum(Fulltotal + Partialtotal)
-total
- 
- 
-```
-
-
-#Put this file into the Vaccine History folder in GitHub https://github.com/Arkansascovid/Main/tree/master/Vaccine_History 
-```{r}
-date <- Sys.Date()
-save(vaccinecounty2,file=paste0("vaccinecounty2_",date,".csv"))
-
-```
