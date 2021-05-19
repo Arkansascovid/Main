@@ -1,4 +1,4 @@
-"","County_Name","date","County_Vax_Total","Partial_Vax","Fully_Vax","Unk_Dose","Population","Full_Pct"
+"","County_Name","Date","County_Vax_Total","Partial_Vax","Fully_Vax","Unk_Dose","Population","Full_Pct"
 "1","Missing",2021-05-19,266682,66603,103158,74,0,Inf
 "2","Howard",2021-05-19,7159,504,3522,0,10888,32.3%
 "3","Pulaski",2021-05-19,248531,22477,116658,16,330989,35.2%
