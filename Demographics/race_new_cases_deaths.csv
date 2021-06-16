@@ -1,9 +1,9 @@
 "","Date","Race_Ethnicity","New_Cases","New_Deaths"
-"1","2021-06-15","African_American",40,1
-"2","2021-06-15","Asian",2,0
-"3","2021-06-15","Hispanic",13,0
-"4","2021-06-15","Multi_Racial",1,0
-"5","2021-06-15","Native_American",3,0
-"6","2021-06-15","Other",NA,NA
-"7","2021-06-15","Race_Or_Ethnicity_Unknown",NA,NA
-"8","2021-06-15","White",174,4
+"1","2021-06-16","African_American",49,-1
+"2","2021-06-16","Asian",3,0
+"3","2021-06-16","Hispanic",15,0
+"4","2021-06-16","Multi_Racial",0,0
+"5","2021-06-16","Native_American",0,0
+"6","2021-06-16","Other",NA,NA
+"7","2021-06-16","Race_Or_Ethnicity_Unknown",NA,NA
+"8","2021-06-16","White",182,-1
