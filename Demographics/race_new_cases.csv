@@ -1,9 +1,9 @@
 "","Date","Race","New_Cases"
-"1","2021-07-08","New_Cases_African_American",115
-"2","2021-07-08","New_Cases_Asian",7
-"3","2021-07-08","New_Cases_Hispanic",41
-"4","2021-07-08","New_Cases_Multi_Racial",1
-"5","2021-07-08","New_Cases_Native_American",2
-"6","2021-07-08","New_Cases_Other",NA
-"7","2021-07-08","New_Cases_Race_Or_Ethnicity_Unknown",NA
-"8","2021-07-08","New_Cases_White",607
+"1","2021-07-09","New_Cases_African_American",-58610
+"2","2021-07-09","New_Cases_Asian",5
+"3","2021-07-09","New_Cases_Hispanic",279176
+"4","2021-07-09","New_Cases_Multi_Racial",24341
+"5","2021-07-09","New_Cases_Native_American",239272
+"6","2021-07-09","New_Cases_Other",NA
+"7","2021-07-09","New_Cases_Race_Or_Ethnicity_Unknown",NA
+"8","2021-07-09","New_Cases_White",-180948
