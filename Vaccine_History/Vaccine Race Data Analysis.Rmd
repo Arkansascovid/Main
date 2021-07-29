@@ -1,0 +1,335 @@
+---
+title: "Vaccine Race Data"
+author: "By Rob Wells. Thanks to Robert Stewart"
+date: "7/28/2021"
+output: html_document
+
+---
+#This script analyzes Arkansas vaccination data by race and county.
+#It imports Centers for Disease Control data by county and calculates each race age 12 and older
+#It joins that with the July 26 Arkansas vaccinaion data from the Arkansas Dept of Health
+#It then calculates the rate of vaccinations by race and county
+#It then calculates the ratios of vaccinations by races and county
+
+
+```{r include=FALSE}
+#install.packages("slider")
+#install.packages("zoo")
+#install.packages("gtools")
+#install.packages("kableExtra")
+#install.packages("formattable")
+library(tidyverse)
+library(janitor)
+library(lubridate)
+library(jsonlite)
+library(gtools)
+library(zoo)  
+library(reshape2)
+library(slider)
+library(formattable)
+
+```
+
+
+
+#REPRODUCIBLE EXAMPLE FROM HERE -- SEE LINES 264 and below ON HOW ARK_RACE WAS CREATED
+```{r}
+
+ark_race <- rio::import("https://raw.githubusercontent.com/profrobwells/CovidFall2020/master/ark_race.csv")
+ark_race[2:10] <- lapply(ark_race[2:10], as.numeric)
+
+```
+
+
+#sum race all ages
+```{r}
+ark_race2 <- ark_race %>% 
+  select(County, co_fips, age, hisp, racesex, race4, pop2019, st_fips) %>% 
+  group_by(County, race4) %>% 
+  summarize(total_pop2019=sum(pop2019))
+
+
+```
+
+
+```{r}
+#Population totals by race
+#Thanks Sean, Kara and Nick:
+ark_race2 <- ark_race2 %>%
+  mutate(Race = as.character(race4)) %>%   
+     mutate(Race = case_when(
+    str_detect(Race, "1") ~ "White",
+     str_detect(Race, "2") ~ "Black",
+     str_detect(Race, "3") ~ "Nat_Am",
+     str_detect(Race, "4") ~ "Asian",
+    TRUE ~ Race
+  ))
+```
+
+#sum hispanic all gaes
+```{r}
+# ark_race_hisp <- ark_race %>% 
+#   select(County, co_fips, age, hisp, racesex, race4, pop2019, st_fips) %>% 
+#   group_by(County, hisp) %>% 
+#   summarize(total_pop2019=sum(pop2019)) %>% 
+#   filter(hisp=="2") 
+# 
+# ark_race_hisp$Race <- str_replace_all(ark_race_hisp$hisp, pattern=fixed('2'), replacement=fixed('Hispanic') )
+# 
+# ark_race_hisp <- ark_race_hisp %>% 
+#   select(County, total_pop2019, Race)
+
+```
+
+
+#sum hispanic all ages and percent
+```{r}
+ark_race_hisp <- ark_race %>% 
+  select(County, co_fips, age, hisp, racesex, race4, pop2019, st_fips) %>% 
+  group_by(County, hisp) %>% 
+  summarize(total_pop2019=sum(pop2019)) %>% 
+  mutate(Race = as.character(hisp)) %>%   
+     mutate(Race = case_when(
+    str_detect(Race, "1") ~ "Non_Hispanic",
+     str_detect(Race, "2") ~ "Hispanic",
+    TRUE ~ Race
+  ))
+
+#Create a special table with the Hispanic percentage per county
+ark_race_hisp_pct <- ark_race_hisp %>% 
+  mutate(total2 =(total_pop2019+lag(total_pop2019))) %>% 
+  mutate(Pct_Hisp = (total_pop2019/total2))
+
+ark_race_hisp_pct$Pct_Hisp <- formattable::percent(ark_race_hisp_pct$Pct_Hisp)
+write.csv(ark_race_hisp_pct, "ark_race_hisp_pct.csv")
+
+
+#Create final Hispanic table to join with the race table
+ark_race_hisp <- ark_race_hisp %>% 
+  select(County, total_pop2019, Race)
+
+```
+
+```{r}
+
+x <- ark_race2 %>% 
+  select(County, total_pop2019, Race)
+
+Arkansas_Race_Population <- rbind(ark_race_hisp,x)
+
+write.csv(Arkansas_Race_Population, "Arkansas_Race_Population.csv")
+
+```
+
+
+
+
+#Vaccine County data
+`
+## Retrieve County Vaccine Data from ADH FEED
+```{r}
+#County vaccination json feed
+#35 Variables
+
+qq <- fromJSON('https://services5.arcgis.com/vlhGQkz6fSnofVMD/ArcGIS/rest/services/ADH_COVID19_VACCINATIONS_BY_COUNTY/FeatureServer/0/query?where=0%3D0&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=*&returnGeometry=true&returnCentroid=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=')
+
+
+#Pulls in the data that matters to 'q'
+vax <- qq[["features"]][["attributes"]]
+
+# vax1 <- as.data.frame(t(vax))
+# vax1 <- vax1[-c(1), ] 
+# names(vax1) <- lapply(vax1[1, ], as.character)
+# vax1 <- vax1[-1,] 
+vax$date <- Sys.Date()
+
+#Change this date if a day old
+#vax1$date <- Sys.Date()-1
+
+vax <- clean_names(vax)
+
+vax <- vax %>% 
+rename(Date = "date",
+       County_Name = "adh_covid19_vac_join_county_nam", 
+       County_Vax_Total =  "vac_demo_county_aggregate_count", 
+       White_Total = "vac_demo_county_race0_total", 
+       Black_Total= "vac_demo_county_race1_total",
+       Native_American_Total = "vac_demo_county_race2_total", 
+       Asian_Total = "vac_demo_county_race3_total", 
+       Pacific_Islander_Total = "vac_demo_county_race4_total",
+       Unk_Race_Total = "vac_demo_county_race5_total", 
+       Other_Race_Total= "vac_demo_county_race6_total",
+       Hispanic_Total= "vac_demo_county_ethnicity_hispa", 
+       Dose_1 = "vac_demo_county_dose_one",
+       Dose_2 = "vac_demo_county_dose_two", 
+       Unk_Dose= "vac_demo_county_unk_dose",
+       Partial_Vax= "vac_demo_county_partially_immun", 
+       Fully_Vax = "vac_demo_county_fully_immunized", 
+       Hispanic_Partial_Vax = "vac_demo_county_partially_hispa",
+       Hispanic_Full_Vax = "vac_demo_county_fully_hispanic", 
+       Population = "vac_demo_county_population", 
+       County_Pct_Dose_1 = "vac_demo_county_percent_dose_1",
+       County_Pct_Dose_2 = "vac_demo_county_percent_dose_2",
+       County_Pct_Population = "vac_demo_county_percent_populat",
+       White_Partial_Pct= "vac_demo_county_partially_white",
+       Black_Partial_Pct= "vac_demo_county_partially_black",
+       Asian_Partial_Pct = "vac_demo_county_partially_aian",
+       Non_Hispanic_Partial_Pct= "vac_demo_county_partially_nhopi",
+       White_Full_Pct = "vac_demo_county_fully_white", 
+       Black_Full_Pct = "vac_demo_county_fully_black", 
+       Asian_Full_Pct= "vac_demo_county_fully_aian", 
+       Non_Hispanic_Full_Pct = "vac_demo_county_fully_nhopi")
+
+vax1 <- vax %>% 
+  select(Date, County_Name, County_Vax_Total,  Dose_1, Dose_2, Unk_Dose, Partial_Vax,
+         Fully_Vax, White_Total, White_Full_Pct, Black_Total, Black_Full_Pct,
+         Native_American_Total, Asian_Total, Asian_Full_Pct, Pacific_Islander_Total,
+         Unk_Race_Total, Other_Race_Total, Hispanic_Total, Hispanic_Partial_Vax,
+         Hispanic_Full_Vax, Population, County_Pct_Dose_1, County_Pct_Dose_2,
+         White_Partial_Pct, Black_Partial_Pct, Asian_Partial_Pct,
+         Non_Hispanic_Partial_Pct, Non_Hispanic_Full_Pct)
+
+```
+
+#Join with population data
+```{r}
+
+Ark_Race_Flipped <- spread(Arkansas_Race_Population, Race, total_pop2019)
+
+
+test <- vax1 %>% 
+  inner_join(Ark_Race_Flipped, by=c("County_Name"="County"))
+
+names(test)
+
+test1 <- test %>% 
+  select(County_Name, Population, Fully_Vax, White, White_Total, White_Full_Pct)
+
+# test1 <- test1 %>% 
+#   mutate(White_Vax_Pop = (White_Full_Pct*White)/100) 
+  
+
+
+```
+
+
+```{r}
+#Calculations
+
+test2 <- test %>% 
+  select(County_Name, Population, Fully_Vax, White, White_Total, White_Full_Pct, Black, Black_Total, Black_Full_Pct, Asian, Asian_Total, Asian_Full_Pct, Hispanic, Hispanic_Total, Hispanic_Full_Vax)
+
+#Percentage of vaxxed population
+test2 <- test2 %>% 
+  mutate(White_Vax_Pop = (White_Full_Pct*White)/100) %>% 
+  mutate(Black_Vax_Pop = (Black_Full_Pct*Black)/100) %>% 
+  mutate(Hisp_Vax_Pop = (Hispanic_Full_Vax*Hispanic)/100) %>% 
+  mutate(Asian_Vax_Pop = (Asian_Full_Pct*Asian)/100) %>% 
+  mutate(Ratio_White_Black = (White_Full_Pct/Black_Full_Pct)) %>% 
+  mutate(Ratio_White_Hispanic = (White_Full_Pct/Hispanic_Full_Vax)) %>% 
+  mutate(Ratio_White_Asian = (White_Full_Pct/Asian_Full_Pct)) %>% 
+  mutate(Ratio_Hispanic_White = (Hispanic_Full_Vax/White_Full_Pct)) %>%
+  mutate(Ratio_Black_White = (Black_Full_Pct/White_Full_Pct)) %>%
+  arrange(County_Name)
+
+#Formatting
+test2 <- test2 %>% 
+  mutate(White_Pct_Pop = round((White/Population)*100, 2)) %>% 
+  mutate(Black_Pct_Pop = round((Black/Population)*100, 2)) %>% 
+  mutate(Hispanic_Pct_Pop = round((Hispanic/Population)*100, 2)) %>% 
+  mutate(Asian_Pct_Pop = round((Asian/Population)*100, 2)) 
+
+test2$White_Vax_Pop <- round(test2$White_Vax_Pop,0)
+test2$Black_Vax_Pop <- round(test2$Black_Vax_Pop,0)
+test2$Hisp_Vax_Pop <- round(test2$Hisp_Vax_Pop,0)
+test2$Asian_Vax_Pop <- round(test2$Asian_Vax_Pop,0)
+
+test2$Ratio_White_Black <- round(test2$Ratio_White_Black, 2)
+test2$Ratio_White_Hispanic <- round(test2$Ratio_White_Hispanic, 2)
+test2$Ratio_White_Asian <- round(test2$Ratio_White_Asian, 2)
+test2$Ratio_Hispanic_White <- round(test2$Ratio_Hispanic_White, 2)
+test2$Ratio_Black_White <- round(test2$Ratio_Black_White, 2)
+
+countyvaxrace <- test2 %>% 
+  select(County_Name, Population, Fully_Vax,  White, White_Pct_Pop, White_Full_Pct, White_Vax_Pop, Black, Black_Pct_Pop, Black_Full_Pct, Black_Vax_Pop,Ratio_White_Black, Hispanic, Hispanic_Pct_Pop, Hispanic_Full_Vax, Ratio_White_Hispanic, Asian, Asian_Pct_Pop,Asian_Full_Pct, Ratio_White_Asian, Ratio_Hispanic_White, Ratio_Black_White)
+
+countyvaxrace$Date <- Sys.Date()-1
+
+write_csv(countyvaxrace, "CountyVaxRace_July28.csv")
+
+``` 
+
+```{r}
+#Average vax rate for whites
+(sum(countyvaxrace$White_Vax_Pop)/sum(countyvaxrace$White))
+#Average vax rate for blacks
+(sum(countyvaxrace$Black_Vax_Pop)/sum(countyvaxrace$Black))
+
+```
+
+#CREATING ARK_RACE
+#Background
+#How we created the population table by race ages 12 and older for each county
+
+#ARKANSAS POPULATION BY RACE AND AGE
+#SOURCE DATA: https://www.cdc.gov/nchs/nvss/bridged_race/data_documentation.htm#vintage2019
+#We downloaded "pcen_v2019_y1019.sas7bdat.zip zip icon[SAS – 58 MB] (Released 7/9/2020)"
+#Then carved out the Arkansas portion
+#Then matched the county FIPS data for county names
+#Then filtered for population age 12+ in all counties
+#Then summarized the file to provide total race by age 12+
+
+#Import nationwide race and county data from CDC
+```{r}
+sas <- rio::import("/Volumes/1TB SDD MacTower/Wells Data/Dropbox/Classes/Data Fall 2020/ArkansasCovid/Vaccine Race Data/pcen_v2019_y1019.sas7bdat")
+
+sas <- janitor::clean_names(sas)
+names(sas)
+
+```
+
+#Subset an Arkansas dataframe from above
+```{r}
+sas_ark <- sas %>% 
+  filter(st_fips =="5")
+
+ark_12_older <- sas_ark %>% 
+  filter(age >11)
+
+#select just 2019 data
+ark_12_older <- ark_12_older %>% 
+  select(age, hisp, racesex, vintage, race4, pop2019, st_fips, co_fips)
+
+```
+
+#join county data
+```{r}
+
+counties2 <- rio::import("https://raw.githubusercontent.com/kjhealy/fips-codes/master/state_and_county_fips_master.csv")
+
+
+ar_counties <- counties2 %>% 
+  filter(state== "AR")
+
+ar_counties$fips1 <- ar_counties$fips
+#split data into two columns
+ar_counties <- separate(data = ar_counties, col = fips1, into = c("junk", "fips2"), sep = "5", extra = "merge", fill = "right")
+
+#numeric value
+ar_counties$fips2 <- as.numeric(ar_counties$fips2)
+
+#merge with ar_12_older
+
+ark_race <- ark_12_older %>% 
+  inner_join(ar_counties, by=c("co_fips"="fips2"))
+
+ark_race <- ark_race %>% 
+  rename(County = name)
+
+ark_race$County <- gsub(" County", "", ark_race$County)
+
+write.csv(ark_race, "ark_race.csv")
+
+names(ark_race)
+```
+
