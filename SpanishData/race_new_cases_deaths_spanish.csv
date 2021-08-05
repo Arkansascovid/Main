@@ -1,9 +1,9 @@
 "","Fecha","Razo_o_Ethnicidad","Nuevos_Casos","Nuevas_Muertes"
-"1","2021-08-04","Afroamericano",349,2
-"2","2021-08-04","Asiático",19,0
-"3","2021-08-04","Hispano",138,0
-"4","2021-08-04","Multirracial",5,0
-"5","2021-08-04","Nativo_Americano",9,0
-"6","2021-08-04","Otro",NA,NA
-"7","2021-08-04","Race_Or_Ethnicity_Unknown",NA,NA
-"8","2021-08-04","Blanco",1921,10
+"1","2021-08-05","Afroamericano",354,2
+"2","2021-08-05","Asiático",9,0
+"3","2021-08-05","Hispano",133,-1
+"4","2021-08-05","Multirracial",7,0
+"5","2021-08-05","Nativo_Americano",9,0
+"6","2021-08-05","Otro",NA,NA
+"7","2021-08-05","Race_Or_Ethnicity_Unknown",NA,NA
+"8","2021-08-05","Blanco",1669,14
