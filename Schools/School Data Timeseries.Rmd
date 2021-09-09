@@ -10,6 +10,7 @@ output: pdf_document
 #Instructions on how to prepare the spreadsheet for importing
 https://docs.google.com/document/d/1meNe49P1cJGJut4GaTHI2qo5UJ7PMpRGkkqVBm5E1LQ/edit?usp=sharing
 
+
 #Here's a video on how to process PDFs into data
 https://video.uark.edu/media/Capturing+Data+from+ADH+School+Reports+and+Cleaning+In+R/1_1il3ruhu
 
@@ -248,3 +249,38 @@ college_combo$Active_Covid_Per1000 <- round(college_combo$Active_Covid_Per1000, 
 write.csv(college_combo, "Schools/college_combo.csv")
 
 ```
+
+
+This script feeds the following graphics:
+https://app.flourish.studio/story/981386/edit
+
+Searchable Table: Public Schools Active Case Rate
+https://app.flourish.studio/visualisation/7222023/edit
+Data:
+https://raw.githubusercontent.com/Arkansascovid/Main/master/Schools/public_schools_combo.csv
+
+Total Active COVID-19 Cases in Arkansas Educational Institutions
+https://app.flourish.studio/visualisation/7222039/edit
+Data: https://raw.githubusercontent.com/Arkansascovid/Main/master/Schools/school_master_totals.csv
+
+Active COVID-19 Case Rate in Arkansas Public Schools
+https://app.flourish.studio/visualisation/7222020/edit
+Data
+https://raw.githubusercontent.com/Arkansascovid/Main/master/Schools/public_schools_combo.csv
+
+Searchable Table: College Active Case Rate
+https://app.flourish.studio/visualisation/7222022/edit
+Data:
+https://raw.githubusercontent.com/Arkansascovid/Main/master/Schools/college_combo.csv
+
+Active COVID-19 Case Rate in Arkansas Colleges
+https://app.flourish.studio/visualisation/7222018/edit
+Data:
+https://raw.githubusercontent.com/Arkansascovid/Main/master/Schools/college_combo.csv
+
+Active Case Rate by Date
+https://app.flourish.studio/visualisation/7222019/edit
+Data:
+https://raw.githubusercontent.com/Arkansascovid/Main/master/Schools/college_combo.csv
+
+
