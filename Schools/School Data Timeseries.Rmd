@@ -1,7 +1,7 @@
 ---
 title: "School Data Time Series"
-author: "Rob Wells and Katy Seiter, Mary Hennigan" 
-date: "9/9/2021"
+author: "Rob Wells. Thanks to Mary Hennigan, Paige McGaughy, Abby Zimmardi, Katy Seiter" 
+date: "9/12/2021"
 output: pdf_document
 ---
 
@@ -38,20 +38,29 @@ library(slider)
 
 #Type in the report date of the ADH document
 ```{r}
-reportdate <- "2021-09-06"
+reportdate <- "2021-09-09"
 ```
 
 #Import the Excel sheet
 ```{r include=FALSE}
 
-schoolraw <- rio::import("/Users/robwells/Dropbox/Classes/Data Fall 2020/ArkansasCovid/Schools/School_Report_09062021.xlsx")
+schoolraw <- rio::import("/Users/robwells/Dropbox/Classes/Data Fall 2020/ArkansasCovid/Schools/School_Report_09092021.xlsx")
 schoolraw <- janitor::clean_names(schoolraw)
 
+#name columns
 schoolraw <- schoolraw %>% 
-   select(date, type, name, active_cases, cumulative_active_cases, cumulative_faculty_staff_casesa, cumulative_student_casesa, cumulative_totalb, cumulative_faculty_staff_cases2, cumulative_student_cases2, cumulative_total3)
+   rename(name = timeframe_8_1_2021_present, cumulative_active_cases = x4, cumulative_faculty_staff_cases2 = x6, cumulative_student_cases2 = x8, cumulative_total3 = x10)
+
+#add date field
+schoolraw$Date <- Sys.Date()
+#if you are doing this a day later, use this instead. -1 is yesterday. -2 is two days etc
+#schoolraw$Date <- Sys.Date()-1
+
+schoolraw <- schoolraw %>% 
+   select(Date, type, name, active_cases, cumulative_active_cases, cumulative_faculty_staff_casesa, cumulative_student_casesa, cumulative_totalb, cumulative_faculty_staff_cases2, cumulative_student_cases2, cumulative_total3)
    
 schoolraw <- schoolraw %>% 
-   rename(Date = date, Type = type, Name = name, Active_Cases = active_cases, Cumulative_Faculty_Staff_Cases = cumulative_faculty_staff_casesa, Cumulative_Student_Cases = cumulative_student_casesa, Cumulative_Total=cumulative_totalb, Cumulative_Active_cases=cumulative_active_cases, All_Faculty_Staff_Total = cumulative_faculty_staff_cases2, All_Student_Total = cumulative_student_cases2, Cumulative_Group_Total = cumulative_total3)
+   rename(Type = type, Name = name, Active_Cases = active_cases, Cumulative_Faculty_Staff_Cases = cumulative_faculty_staff_casesa, Cumulative_Student_Cases = cumulative_student_casesa, Cumulative_Total=cumulative_totalb, Cumulative_Active_cases=cumulative_active_cases, All_Faculty_Staff_Total = cumulative_faculty_staff_cases2, All_Student_Total = cumulative_student_cases2, Cumulative_Group_Total = cumulative_total3)
 
 
 #Change this date to reflect the report date, ie Sept 9 etc you're working on
