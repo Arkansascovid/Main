@@ -1,7 +1,7 @@
 ---
 title: "School Data Time Series"
 author: "Rob Wells. Thanks to Mary Hennigan, Paige McGaughy, Abby Zimmardi, Katy Seiter" 
-date: "10/10/2021"
+date: "10/11/2021"
 output: pdf_document
 ---
 
@@ -38,13 +38,13 @@ library(slider)
 
 #Type in the report date of the ADH document
 ```{r}
-reportdate <- "2021-10-07"
+reportdate <- "2021-10-11"
 ```
 
 #Import the Excel sheet that's parsed in 9 columns. (A-I)
 ```{r include=FALSE}
 
-schoolraw <- rio::import("/Users/robwells/Dropbox/Classes/Data Fall 2020/ArkansasCovid/School_Report_10072021.xlsx")
+schoolraw <- rio::import("/Users/robwells/Dropbox/Classes/Data Fall 2020/ArkansasCovid/School_Report_10112021.xlsx")
 schoolraw <- janitor::clean_names(schoolraw)
 #add date field
 schoolraw$Date <- Sys.Date()
@@ -86,7 +86,9 @@ schools_totals_2021 <- subset(schools_totals_2021, select = -V1)
 
 schools_totals_2021 <- rbind(school_totals, schools_totals_2021)
 
-write.csv(schools_master_2021, "Schools/schools_master_2021.csv")
+schools_totals_2021[3:6] <- lapply(schools_totals_2021[3:6], as.numeric)
+
+write.csv(schools_totals_2021, "Schools/schools_master_2021.csv")
 
 ```
 
