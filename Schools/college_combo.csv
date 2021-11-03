@@ -1,11 +1,11 @@
 "","type","name","active_cases","cumulative_faculty_staff_cases","cumulative_student_cases","cumulative_total","date","district","student_population","Student_Covid_Per1000","Active_Covid_Per1000"
-"1","COLLEGE/UNIVERSITY","U OF A, FAYETTEVILLE",18,74,389,722,2021-10-25,"u_of_a,_fayetteville",27559,14.12,0.65
-"2","COLLEGE/UNIVERSITY","U OF A FOR MEDICAL SCIENCES, LITTLE ROCK",12,47,21,163,2021-10-25,"u_of_a_for_medical_sciences,_little_rock",2768,7.59,4.34
-"3","COLLEGE/UNIVERSITY","UNIVERSITY OF CENTRAL ARKANSAS, CONWAY",9,28,102,205,2021-10-25,"university_of_central_arkansas,_conway",10869,9.38,0.83
-"4","COLLEGE/UNIVERSITY","JOHN BROWN UNIVERSITY, SILOAM SPRINGS",6,13,24,58,2021-10-25,"john_brown_university,_siloam_springs",2319,10.35,2.59
-"5","COLLEGE/UNIVERSITY","ARKANSAS TECH UNIVERSITY, RUSSELLVILLE",5,15,77,138,2021-10-25,"arkansas_tech_university,_russellville",11829,6.51,0.42
-"6","COLLEGE/UNIVERSITY","HARDING UNIVERSITY, SEARCY",5,13,78,195,2021-10-25,"harding_university,_searcy",4879,15.99,1.02
-"7","COLLEGE/UNIVERSITY","U OF A, FORT SMITH",5,8,57,105,2021-10-25,"u_of_a,_fort_smith",6265,9.1,0.8
+"1","COLLEGE/UNIVERSITY","U OF A, FAYETTEVILLE",17,75,390,729,2021-10-28,"u_of_a,_fayetteville",27559,14.15,0.62
+"2","COLLEGE/UNIVERSITY","U OF A FOR MEDICAL SCIENCES, LITTLE ROCK",11,49,22,169,2021-10-28,"u_of_a_for_medical_sciences,_little_rock",2768,7.95,3.97
+"3","COLLEGE/UNIVERSITY","HARDING UNIVERSITY, SEARCY",9,14,79,201,2021-10-28,"harding_university,_searcy",4879,16.19,1.84
+"4","COLLEGE/UNIVERSITY","JOHN BROWN UNIVERSITY, SILOAM SPRINGS",6,13,25,60,2021-10-28,"john_brown_university,_siloam_springs",2319,10.78,2.59
+"5","COLLEGE/UNIVERSITY","U OF A, FORT SMITH",5,8,58,106,2021-10-28,"u_of_a,_fort_smith",6265,9.26,0.8
+"6","COLLEGE/UNIVERSITY","UACC AT MORRILTON",5,13,22,55,2021-10-28,"uacc_at_morrilton",1836,11.98,2.72
+"7","COLLEGE/UNIVERSITY","UNIVERSITY OF CENTRAL ARKANSAS, CONWAY",5,28,103,207,2021-10-28,"university_of_central_arkansas,_conway",10869,9.48,0.46
 "8","COLLEGE/UNIVERSITY","U OF A, FAYETTEVILLE",26,74,385,719,2021-10-21,"u_of_a,_fayetteville",27559,13.97,0.94
 "9","COLLEGE/UNIVERSITY","U OF A FOR MEDICAL SCIENCES, LITTLE ROCK",13,44,19,158,2021-10-21,"u_of_a_for_medical_sciences,_little_rock",2768,6.86,4.7
 "10","COLLEGE/UNIVERSITY","JOHN BROWN UNIVERSITY, SILOAM SPRINGS",11,13,22,58,2021-10-21,"john_brown_university,_siloam_springs",2319,9.49,4.74
