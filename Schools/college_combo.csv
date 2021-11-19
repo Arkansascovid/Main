@@ -1,8 +1,8 @@
 "","type","name","active_cases","cumulative_faculty_staff_cases","cumulative_student_cases","cumulative_total","date","district","student_population","Student_Covid_Per1000","Active_Covid_Per1000"
-"1","COLLEGE/UNIVERSITY","U OF A, FAYETTEVILLE",15,81,407,757,2021-11-15,"u_of_a,_fayetteville",27559,14.77,0.54
-"2","COLLEGE/UNIVERSITY","UNIVERSITY OF CENTRAL ARKANSAS, CONWAY",8,31,112,219,2021-11-15,"university_of_central_arkansas,_conway",10869,10.3,0.74
-"3","COLLEGE/UNIVERSITY","HARDING UNIVERSITY, SEARCY",7,16,81,208,2021-11-15,"harding_university,_searcy",4879,16.6,1.43
-"4","COLLEGE/UNIVERSITY","ARKANSAS TECH UNIVERSITY, RUSSELLVILLE",6,15,84,148,2021-11-15,"arkansas_tech_university,_russellville",11829,7.1,0.51
+"1","COLLEGE/UNIVERSITY","U OF A, FAYETTEVILLE",24,83,412,769,2021-11-18,"u_of_a,_fayetteville",27559,14.95,0.87
+"2","COLLEGE/UNIVERSITY","UNIVERSITY OF CENTRAL ARKANSAS, CONWAY",12,31,116,224,2021-11-18,"university_of_central_arkansas,_conway",10869,10.67,1.1
+"3","COLLEGE/UNIVERSITY","HARDING UNIVERSITY, SEARCY",11,17,82,213,2021-11-18,"harding_university,_searcy",4879,16.81,2.25
+"4","COLLEGE/UNIVERSITY","ARKANSAS TECH UNIVERSITY, RUSSELLVILLE",7,15,85,150,2021-11-18,"arkansas_tech_university,_russellville",11829,7.19,0.59
 "5","COLLEGE/UNIVERSITY","U OF A, FAYETTEVILLE",13,79,401,748,2021-11-11,"u_of_a,_fayetteville",27559,14.55,0.47
 "6","COLLEGE/UNIVERSITY","ARKANSAS TECH UNIVERSITY, RUSSELLVILLE",8,15,82,146,2021-11-11,"arkansas_tech_university,_russellville",11829,6.93,0.68
 "7","COLLEGE/UNIVERSITY","JOHN BROWN UNIVERSITY, SILOAM SPRINGS",5,13,29,66,2021-11-11,"john_brown_university,_siloam_springs",2319,12.51,2.16
