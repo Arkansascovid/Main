@@ -1,8 +1,8 @@
 "","type","name","active_cases","cumulative_faculty_staff_cases","cumulative_student_cases","cumulative_total","date","district","student_population","Student_Covid_Per1000","Active_Covid_Per1000"
-"1","COLLEGE/UNIVERSITY","U OF A, FAYETTEVILLE",20,84,417,773,2021-11-22,"u_of_a,_fayetteville",27559,15.13,0.73
-"2","COLLEGE/UNIVERSITY","UNIVERSITY OF CENTRAL ARKANSAS, CONWAY",17,33,123,233,2021-11-22,"university_of_central_arkansas,_conway",10869,11.32,1.56
-"3","COLLEGE/UNIVERSITY","HARDING UNIVERSITY, SEARCY",8,17,84,217,2021-11-22,"harding_university,_searcy",4879,17.22,1.64
-"4","COLLEGE/UNIVERSITY","ASU - NEWPORT, JONESBORO",5,7,27,45,2021-11-22,"asu_-_newport,_jonesboro",2269,11.9,2.2
+"1","COLLEGE/UNIVERSITY","U OF A, FAYETTEVILLE",20,84,418,776,2021-11-24,"u_of_a,_fayetteville",27559,15.17,0.73
+"2","COLLEGE/UNIVERSITY","UNIVERSITY OF CENTRAL ARKANSAS, CONWAY",16,34,124,235,2021-11-24,"university_of_central_arkansas,_conway",10869,11.41,1.47
+"3","COLLEGE/UNIVERSITY","ARKANSAS TECH UNIVERSITY, RUSSELLVILLE",6,15,87,156,2021-11-24,"arkansas_tech_university,_russellville",11829,7.35,0.51
+"4","COLLEGE/UNIVERSITY","HARDING UNIVERSITY, SEARCY",6,17,84,217,2021-11-24,"harding_university,_searcy",4879,17.22,1.23
 "5","COLLEGE/UNIVERSITY","U OF A, FAYETTEVILLE",24,83,412,769,2021-11-18,"u_of_a,_fayetteville",27559,14.95,0.87
 "6","COLLEGE/UNIVERSITY","UNIVERSITY OF CENTRAL ARKANSAS, CONWAY",12,31,116,224,2021-11-18,"university_of_central_arkansas,_conway",10869,10.67,1.1
 "7","COLLEGE/UNIVERSITY","HARDING UNIVERSITY, SEARCY",11,17,82,213,2021-11-18,"harding_university,_searcy",4879,16.81,2.25
